@@ -145,8 +145,13 @@ const titlePage = [
   }),
   new Paragraph({
     alignment: AlignmentType.CENTER,
+    spacing: { after: 100 },
+    children: [new TextRun({ text: "ORCID: 0009-0001-7642-9247", font: FONT, size: BODY_SIZE })],
+  }),
+  new Paragraph({
+    alignment: AlignmentType.CENTER,
     spacing: { after: 1200 },
-    children: [new TextRun({ text: "ORCID: [to be added]", font: FONT, size: BODY_SIZE, italics: true })],
+    children: [new TextRun({ text: "Google Scholar: scholar.google.com/citations?user=6lHq-9sAAAAJ", font: FONT, size: BODY_SIZE })],
   }),
   new Paragraph({
     alignment: AlignmentType.CENTER,
@@ -316,7 +321,7 @@ const declarationsSection = [
   heading("12. Declarations", HeadingLevel.HEADING_1),
   rich([{ text: "Funding: ", bold: true }, { text: "No funding was received to assist with the preparation of this manuscript." }], { noIndent: true }),
   rich([{ text: "Competing interests: ", bold: true }, { text: "The author has no relevant financial or non-financial interests to disclose." }], { noIndent: true }),
-  rich([{ text: "Data and code availability: ", bold: true }, { text: "The datasets (SEC EDGAR filings and derived data) and analysis code generated during the current study are available from the corresponding author on reasonable request; the author intends to deposit the full reproducible pipeline in a public repository." }], { noIndent: true }),
+  rich([{ text: "Data and code availability: ", bold: true }, { text: "The full reproducible pipeline (data-retrieval, entity-resolution, network-construction, and statistical-analysis code, together with all derived datasets) is available at " }, { text: "https://github.com/SilverCoin256/sb826-board-interlock" }, { text: ". Raw SEC EDGAR filings are public U.S. government records and are re-fetchable via the included scripts; they are excluded from the repository itself only for file-size reasons, as documented in the repository's README." }], { noIndent: true }),
   rich([{ text: "Ethics approval: ", bold: true }, { text: "Not applicable — this study analyzes only public corporate securities filings and involves no human participants or animal subjects." }], { noIndent: true }),
   rich([{ text: "Author contribution: ", bold: true }, { text: "Sole-authored. S.G. conceived the research question, directed the research design and theoretical framing, supervised and verified the AI-assisted data pipeline and analysis described in Section 4, and wrote and approved the final manuscript." }], { noIndent: true }),
 ];
@@ -347,7 +352,7 @@ const referencesSection = [
 const supplementSection = [
   new Paragraph({ children: [new PageBreak()] }),
   heading("Supplementary Material", HeadingLevel.HEADING_1),
-  body("A full 158-paper structured literature review, novelty audit, complete research-design document (including the pre-registered hypotheses and kill condition), and the complete, reproducible data and analysis pipeline (SEC EDGAR retrieval, entity-resolution, network construction, and statistical scripts, including the specific methodological choices referenced in Section 4's LLM-use statement) are available in the accompanying project repository.", { noIndent: true }),
+  body("A full 158-paper structured literature review, novelty audit, complete research-design document (including the pre-registered hypotheses and kill condition), and the complete, reproducible data and analysis pipeline (SEC EDGAR retrieval, entity-resolution, network construction, and statistical scripts, including the specific methodological choices referenced in Section 4's LLM-use statement) are available at https://github.com/SilverCoin256/sb826-board-interlock.", { noIndent: true }),
 ];
 
 // ================= ASSEMBLE DOCUMENT =================
