@@ -1,0 +1,16 @@
+.venv/
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
+
+# raw SEC filings -- 850MB+, excluded for repo size; fully re-fetchable
+# via src/fetch_filings.py and src/fetch_filings_scaled.py against the
+# accession numbers logged in data/*_manifest.json and data/*_candidates.json
+data/raw_def14a/
+data/raw_scaled/
+
+# intermediate resumability checkpoint, not a scientific artifact
+data/scale_discovery2_checkpoint.json
+
+manuscript_build/unpacked_check*/

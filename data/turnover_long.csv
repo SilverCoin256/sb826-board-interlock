@@ -1,0 +1,142 @@
+group,firm,from,to,pre_n,post_n,kept,departed,added
+treated,"ACM Research, Inc.",pre,post,6,5,5,1,0
+treated,"AGILENT TECHNOLOGIES, INC.",pre,post,12,4,3,9,1
+treated,"BIO-RAD LABORATORIES, INC.",pre,post,6,6,6,0,0
+treated,BIOMARIN PHARMACEUTICAL INC,pre,post,10,6,4,6,2
+treated,"Boot Barn Holdings, Inc.",pre,post,8,9,7,1,2
+treated,CATHAY GENERAL BANCORP,pre,post,5,5,3,2,2
+treated,CORCEPT THERAPEUTICS INC,pre,post,7,8,5,2,3
+treated,"Dolby Laboratories, Inc.",pre,post,8,10,7,1,3
+treated,"ENSIGN GROUP, INC",pre,post,3,7,2,1,5
+treated,"ESSEX PROPERTY TRUST, INC.",pre,post,8,9,7,1,2
+treated,"Enphase Energy, Inc.",pre,post,6,7,4,2,3
+treated,"Keysight Technologies, Inc.",pre,post,3,9,3,0,6
+treated,LAM RESEARCH CORP,pre,post,9,7,4,5,3
+treated,LOGITECH INTERNATIONAL S.A.,pre,post,12,12,7,5,5
+treated,Lumentum Holdings Inc.,pre,post,7,8,5,2,3
+treated,"MOLINA HEALTHCARE, INC.",pre,post,3,6,2,1,4
+treated,"NetApp, Inc.",pre,post,8,9,7,1,2
+treated,PRICESMART INC,pre,post,10,9,6,4,3
+treated,Penumbra Inc,pre,post,6,8,6,0,2
+treated,"Protagonist Therapeutics, Inc",pre,post,6,6,3,3,3
+treated,RESMED INC,pre,post,3,7,2,1,5
+treated,"ROSS STORES, INC.",pre,post,11,11,7,4,4
+treated,"RadNet, Inc.",pre,post,7,7,3,4,4
+treated,SYNOPSYS INC,pre,post,5,5,5,0,0
+treated,"Sabra Health Care REIT, Inc.",pre,post,8,11,7,1,4
+treated,"Travere Therapeutics, Inc.",pre,post,8,10,7,1,3
+treated,"Ultra Clean Holdings, Inc.",pre,post,8,9,4,4,5
+treated,VIASAT INC,pre,post,10,8,6,4,2
+treated,ACADIA PHARMACEUTICALS INC,post,post2,7,6,6,1,0
+treated,"ACM Research, Inc.",post,post2,5,5,4,1,1
+treated,"AGILENT TECHNOLOGIES, INC.",post,post2,4,4,4,0,0
+treated,APPFOLIO INC,post,post2,3,3,2,1,1
+treated,"Autodesk, Inc.",post,post2,10,11,9,1,2
+treated,"BIO-RAD LABORATORIES, INC.",post,post2,6,6,5,1,1
+treated,BIOMARIN PHARMACEUTICAL INC,post,post2,6,9,0,6,9
+treated,"Boot Barn Holdings, Inc.",post,post2,9,8,8,1,0
+treated,CATHAY GENERAL BANCORP,post,post2,5,6,4,1,2
+treated,CORCEPT THERAPEUTICS INC,post,post2,8,9,7,1,2
+treated,California Resources Corp,post,post2,8,10,5,3,5
+treated,"CareTrust REIT, Inc.",post,post2,5,5,2,3,3
+treated,Denali Therapeutics Inc.,post,post2,7,6,5,2,1
+treated,"Dolby Laboratories, Inc.",post,post2,10,8,8,2,0
+treated,"ENSIGN GROUP, INC",post,post2,7,7,6,1,1
+treated,"ESSEX PROPERTY TRUST, INC.",post,post2,9,9,6,3,3
+treated,"Enphase Energy, Inc.",post,post2,7,7,6,1,1
+treated,"Keysight Technologies, Inc.",post,post2,9,4,4,5,0
+treated,LAM RESEARCH CORP,post,post2,7,11,6,1,5
+treated,LIGAND PHARMACEUTICALS INC,post,post2,9,4,3,6,1
+treated,LOGITECH INTERNATIONAL S.A.,post,post2,12,10,7,5,3
+treated,Lumentum Holdings Inc.,post,post2,8,8,7,1,1
+treated,"MOLINA HEALTHCARE, INC.",post,post2,6,9,6,0,3
+treated,"Nutanix, Inc.",post,post2,3,6,3,0,3
+treated,PG&E Corp,post,post2,5,15,4,1,11
+treated,Penumbra Inc,post,post2,8,8,8,0,0
+treated,"Protagonist Therapeutics, Inc",post,post2,6,5,5,1,0
+treated,"RadNet, Inc.",post,post2,7,4,4,3,0
+treated,SYNOPSYS INC,post,post2,5,6,2,3,4
+treated,"Travere Therapeutics, Inc.",post,post2,10,10,9,1,1
+treated,"Ultra Clean Holdings, Inc.",post,post2,9,8,8,1,0
+treated,Ultragenyx Pharmaceutical Inc.,post,post2,9,8,6,3,2
+treated,VIASAT INC,post,post2,8,9,7,1,2
+treated,"Zscaler, Inc.",post,post2,8,8,7,1,1
+control,ACUITY INC. (DE),pre,post,10,10,6,4,4
+control,ADVANCED ENERGY INDUSTRIES INC,pre,post,5,10,5,0,5
+control,AMERICAN TOWER CORP /MA/,pre,post,10,12,9,1,3
+control,AMETEK INC/,pre,post,9,10,8,1,2
+control,"APPLIED OPTOELECTRONICS, INC.",pre,post,6,6,5,1,1
+control,AXCELIS TECHNOLOGIES INC,pre,post,5,5,4,1,1
+control,BIOGEN INC.,pre,post,11,14,10,1,4
+control,Baker Hughes Co,pre,post,8,7,4,4,3
+control,CABOT CORP,pre,post,4,3,1,3,2
+control,COHERENT CORP.,pre,post,8,11,7,1,4
+control,DEERE & CO,pre,post,12,11,9,3,2
+control,"DIGITAL REALTY TRUST, INC.",pre,post,11,12,9,2,3
+control,DIODES INC /DEL/,pre,post,7,8,6,1,2
+control,"Essential Utilities, Inc.",pre,post,4,10,2,2,8
+control,FLEX LTD.,pre,post,4,11,3,1,8
+control,GLOBUS MEDICAL INC,pre,post,6,6,4,2,2
+control,GameStop Corp.,pre,post,8,6,0,8,6
+control,"HARTFORD INSURANCE GROUP, INC.",pre,post,12,12,9,3,3
+control,INSMED Inc,pre,post,6,6,4,2,2
+control,IPG PHOTONICS CORP,pre,post,6,9,3,3,6
+control,MANHATTAN ASSOCIATES INC,pre,post,7,7,6,1,1
+control,NATIONAL BEVERAGE CORP,pre,post,5,5,5,0,0
+control,ORACLE CORP,pre,post,11,7,6,5,1
+control,PAYCHEX INC,pre,post,4,4,4,0,0
+control,Paylocity Holding Corp,pre,post,7,9,7,0,2
+control,QUEST DIAGNOSTICS INC,pre,post,4,6,1,3,5
+control,RBC Bearings INC,pre,post,3,8,3,0,5
+control,"STERLING INFRASTRUCTURE, INC.",pre,post,7,7,3,4,4
+control,STRYKER CORP,pre,post,10,11,9,1,2
+control,TAKE TWO INTERACTIVE SOFTWARE INC,pre,post,7,8,7,0,1
+control,TEXAS INSTRUMENTS INC,pre,post,12,11,0,12,11
+control,"UNITED RENTALS, INC.",pre,post,11,11,9,2,2
+control,URBAN OUTFITTERS INC,pre,post,8,10,6,2,4
+control,VEECO INSTRUMENTS INC,pre,post,7,8,6,1,2
+control,VICI PROPERTIES INC.,pre,post,8,7,6,2,1
+control,W. P. Carey Inc.,pre,post,10,10,9,1,1
+control,WELLTOWER INC.,pre,post,4,5,2,2,3
+control,WEST PHARMACEUTICAL SERVICES INC,pre,post,11,10,9,2,1
+control,WESTLAKE CORP,pre,post,6,7,2,4,5
+control,WEYERHAEUSER CO,pre,post,4,4,3,1,1
+control,ACUITY INC. (DE),post,post2,10,9,7,3,2
+control,AMERICAN TOWER CORP /MA/,post,post2,12,11,6,6,5
+control,AMETEK INC/,post,post2,10,9,7,3,2
+control,"APPLIED OPTOELECTRONICS, INC.",post,post2,6,6,5,1,1
+control,BIOGEN INC.,post,post2,14,9,6,8,3
+control,Baker Hughes Co,post,post2,7,5,3,4,2
+control,CABOT CORP,post,post2,3,3,3,0,0
+control,COHERENT CORP.,post,post2,11,5,3,8,2
+control,DEERE & CO,post,post2,11,11,9,2,2
+control,"DIGITAL REALTY TRUST, INC.",post,post2,12,9,7,5,2
+control,DIODES INC /DEL/,post,post2,8,7,4,4,3
+control,"Essential Utilities, Inc.",post,post2,10,4,2,8,2
+control,FLEX LTD.,post,post2,11,9,7,4,2
+control,GLOBUS MEDICAL INC,post,post2,6,6,4,2,2
+control,"HARTFORD INSURANCE GROUP, INC.",post,post2,12,10,9,3,1
+control,INSMED Inc,post,post2,6,4,0,6,4
+control,INTERPARFUMS INC,post,post2,10,9,7,3,2
+control,IPG PHOTONICS CORP,post,post2,9,11,2,7,9
+control,JABIL INC,post,post2,9,9,6,3,3
+control,"Krystal Biotech, Inc.",post,post2,6,6,4,2,2
+control,"MADRIGAL PHARMACEUTICALS, INC.",post,post2,8,9,6,2,3
+control,MANHATTAN ASSOCIATES INC,post,post2,7,8,7,0,1
+control,NATIONAL BEVERAGE CORP,post,post2,5,5,5,0,0
+control,ORACLE CORP,post,post2,7,10,7,0,3
+control,Paylocity Holding Corp,post,post2,9,11,8,1,3
+control,QUEST DIAGNOSTICS INC,post,post2,6,4,0,6,4
+control,REPLIGEN CORP,post,post2,7,9,6,1,3
+control,SILICON LABORATORIES INC.,post,post2,3,3,2,1,1
+control,"STERLING INFRASTRUCTURE, INC.",post,post2,7,8,6,1,2
+control,STRYKER CORP,post,post2,11,10,9,2,1
+control,TAKE TWO INTERACTIVE SOFTWARE INC,post,post2,8,10,8,0,2
+control,TEXAS INSTRUMENTS INC,post,post2,11,13,10,1,3
+control,"UNITED RENTALS, INC.",post,post2,11,10,8,3,2
+control,URBAN OUTFITTERS INC,post,post2,10,10,8,2,2
+control,VEECO INSTRUMENTS INC,post,post2,8,9,6,2,3
+control,VICI PROPERTIES INC.,post,post2,7,7,7,0,0
+control,WESTLAKE CORP,post,post2,7,6,5,2,1
+control,WEYERHAEUSER CO,post,post2,4,3,2,2,1
+control,"Woodward, Inc.",post,post2,4,4,2,2,2

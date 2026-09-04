@@ -1,0 +1,4241 @@
+{
+  "treated": [
+    {
+      "cik": "0000320193",
+      "name": "Apple Inc.",
+      "sic": "3571",
+      "sicDescription": "Electronic Computers",
+      "current_state": "CA",
+      "pre": {
+        "date": "2017-12-27",
+        "accn": "0001193125-17-380130",
+        "doc": "d400278ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-01-05",
+        "accn": "0001193125-21-001987",
+        "doc": "d767770ddef14a.htm"
+      },
+      "post2": {
+        "date": "2024-01-11",
+        "accn": "0001308179-24-000010",
+        "doc": "laapl2024_def14a.htm"
+      }
+    },
+    {
+      "cik": "0000006951",
+      "name": "APPLIED MATERIALS INC /DE",
+      "sic": "3674",
+      "sicDescription": "Semiconductors & Related Devices",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-01-25",
+        "accn": "0001193125-18-019840",
+        "doc": "d459884ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-01-28",
+        "accn": "0001193125-21-020838",
+        "doc": "d931543ddef14a.htm"
+      },
+      "post2": {
+        "date": "2024-01-24",
+        "accn": "0001193125-24-014287",
+        "doc": "d633899ddef14a.htm"
+      }
+    },
+    {
+      "cik": "0000707549",
+      "name": "LAM RESEARCH CORP",
+      "sic": "3559",
+      "sicDescription": "Special Industry Machinery, NEC",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-09-26",
+        "accn": "0001193125-18-284078",
+        "doc": "d618470ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-09-28",
+        "accn": "0001104659-21-120221",
+        "doc": "tm2120121-1_def14a.htm"
+      },
+      "post2": {
+        "date": "2024-09-25",
+        "accn": "0001140361-24-041891",
+        "doc": "ny20031746x1_def14a.htm"
+      }
+    },
+    {
+      "cik": "0000319201",
+      "name": "KLA CORP",
+      "sic": "3827",
+      "sicDescription": "Optical Instruments & Lenses",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-09-28",
+        "accn": "0001193125-18-287447",
+        "doc": "d604315ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-09-24",
+        "accn": "0001104659-21-119286",
+        "doc": "tm2128061d1_def14a.htm"
+      },
+      "post2": {
+        "date": "2024-09-24",
+        "accn": "0001193125-24-224794",
+        "doc": "d849367ddef14a.htm"
+      }
+    },
+    {
+      "cik": "0000882095",
+      "name": "GILEAD SCIENCES, INC.",
+      "sic": "2836",
+      "sicDescription": "Biological Products, (No Diagnostic Substances)",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-03-26",
+        "accn": "0001206774-18-000957",
+        "doc": "gilead3281381-def14a.htm"
+      },
+      "post": {
+        "date": "2021-03-30",
+        "accn": "0001206774-21-000908",
+        "doc": "gild3818501-def14a.htm"
+      },
+      "post2": {
+        "date": "2024-03-28",
+        "accn": "0001308179-24-000348",
+        "doc": "lgild2024_def14a.htm"
+      }
+    },
+    {
+      "cik": "0001262039",
+      "name": "Fortinet, Inc.",
+      "sic": "3577",
+      "sicDescription": "Computer Peripheral Equipment, NEC",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-05-11",
+        "accn": "0001174947-18-000791",
+        "doc": "tv493540-def14a.htm"
+      },
+      "post": {
+        "date": "2021-04-28",
+        "accn": "0001104659-21-056576",
+        "doc": "tm2113449-1_def14a.htm"
+      },
+      "post2": {
+        "date": "2024-04-26",
+        "accn": "0001174947-24-000602",
+        "doc": "ea0203970-01.htm"
+      }
+    },
+    {
+      "cik": "0000865752",
+      "name": "Monster Beverage Corp",
+      "sic": "2086",
+      "sicDescription": "Bottled & Canned Soft Drinks & Carbonated Waters",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-04-20",
+        "accn": "0001104659-18-025529",
+        "doc": "a18-3076_1def14a.htm"
+      },
+      "post": {
+        "date": "2021-04-28",
+        "accn": "0001104659-21-056640",
+        "doc": "tm212434d1_def14a.htm"
+      },
+      "post2": {
+        "date": "2024-04-26",
+        "accn": "0001104659-24-053090",
+        "doc": "tm242702d2_def14a.htm"
+      }
+    },
+    {
+      "cik": "0000745732",
+      "name": "ROSS STORES, INC.",
+      "sic": "5651",
+      "sicDescription": "Retail-Family Clothing Stores",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-04-10",
+        "accn": "0000745732-18-000008",
+        "doc": "fy2018proxy.htm"
+      },
+      "post": {
+        "date": "2021-04-06",
+        "accn": "0000745732-21-000021",
+        "doc": "fy2021proxy.htm"
+      },
+      "post2": {
+        "date": "2024-04-09",
+        "accn": "0000745732-24-000015",
+        "doc": "rost-20240408.htm"
+      }
+    },
+    {
+      "cik": "0000883241",
+      "name": "SYNOPSYS INC",
+      "sic": "7372",
+      "sicDescription": "Services-Prepackaged Software",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-02-16",
+        "accn": "0001193125-18-048649",
+        "doc": "d515555ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-02-18",
+        "accn": "0000883241-21-000005",
+        "doc": "a2021proxystatementdef14a.htm"
+      },
+      "post2": {
+        "date": "2024-02-16",
+        "accn": "0000883241-24-000006",
+        "doc": "snps-20240216.htm"
+      }
+    },
+    {
+      "cik": "0001633978",
+      "name": "Lumentum Holdings Inc.",
+      "sic": "3669",
+      "sicDescription": "Communications Equipment, NEC",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-09-19",
+        "accn": "0001206774-18-002797",
+        "doc": "lite3411121-def14a.htm"
+      },
+      "post": {
+        "date": "2021-09-30",
+        "accn": "0001206774-21-002547",
+        "doc": "lite3932931-def14a.htm"
+      },
+      "post2": {
+        "date": "2024-10-03",
+        "accn": "0001308179-24-000748",
+        "doc": "lite4368861_def14a.htm"
+      }
+    },
+    {
+      "cik": "0001601046",
+      "name": "Keysight Technologies, Inc.",
+      "sic": "3823",
+      "sicDescription": "Industrial Instruments For Measurement, Display, and Control",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-02-09",
+        "accn": "0001140361-18-005975",
+        "doc": "formdef14a.htm"
+      },
+      "post": {
+        "date": "2021-01-29",
+        "accn": "0001140361-21-002674",
+        "doc": "nc10017768x1_def14a.htm"
+      },
+      "post2": {
+        "date": "2024-01-29",
+        "accn": "0001140361-24-004271",
+        "doc": "ny20012908x3_def14a.htm"
+      }
+    },
+    {
+      "cik": "0001633917",
+      "name": "PayPal Holdings, Inc.",
+      "sic": "7389",
+      "sicDescription": "Services-Business Services, NEC",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-04-12",
+        "accn": "0001193125-18-115555",
+        "doc": "d511293ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-04-13",
+        "accn": "0001308179-21-000221",
+        "doc": "lpypl2021_def14a.htm"
+      },
+      "post2": {
+        "date": "2024-04-09",
+        "accn": "0001193125-24-090908",
+        "doc": "d554828ddef14a.htm"
+      }
+    },
+    {
+      "cik": "0000769397",
+      "name": "Autodesk, Inc.",
+      "sic": "7372",
+      "sicDescription": "Services-Prepackaged Software",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-05-01",
+        "accn": "0001206774-18-001517",
+        "doc": "auto3348531-def14a.htm"
+      },
+      "post": {
+        "date": "2021-05-04",
+        "accn": "0000769397-21-000024",
+        "doc": "proxydocument2021.htm"
+      },
+      "post2": {
+        "date": "2024-06-14",
+        "accn": "0000769397-24-000101",
+        "doc": "adsk-20240613.htm"
+      }
+    },
+    {
+      "cik": "0001004980",
+      "name": "PG&E Corp",
+      "sic": "4931",
+      "sicDescription": "Electric & Other Services Combined",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-03-26",
+        "accn": "0001308179-18-000082",
+        "doc": "lpcg2018_def14a.htm"
+      },
+      "post": {
+        "date": "2021-04-08",
+        "accn": "0001308179-21-000200",
+        "doc": "lpcg2021_def14a.htm"
+      },
+      "post2": {
+        "date": "2024-04-04",
+        "accn": "0001004980-24-000044",
+        "doc": "pcg-20240404.htm"
+      }
+    },
+    {
+      "cik": "0001090872",
+      "name": "AGILENT TECHNOLOGIES, INC.",
+      "sic": "3826",
+      "sicDescription": "Laboratory Analytical Instruments",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-02-08",
+        "accn": "0001564590-18-001685",
+        "doc": "a-def14a_20180321.htm"
+      },
+      "post": {
+        "date": "2021-02-04",
+        "accn": "0001564590-21-004195",
+        "doc": "a-def14a_20210204.htm"
+      },
+      "post2": {
+        "date": "2024-02-02",
+        "accn": "0000950170-24-010096",
+        "doc": "a-20240129.htm"
+      }
+    },
+    {
+      "cik": "0001002047",
+      "name": "NetApp, Inc.",
+      "sic": "3572",
+      "sicDescription": "Computer Storage Devices",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-08-01",
+        "accn": "0001193125-18-234919",
+        "doc": "d502295ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-07-30",
+        "accn": "0001206774-21-001923",
+        "doc": "ntap3895321-def14a.htm"
+      },
+      "post2": {
+        "date": "2024-07-26",
+        "accn": "0000950170-24-086897",
+        "doc": "ntap-20240726.htm"
+      }
+    },
+    {
+      "cik": "0000943819",
+      "name": "RESMED INC",
+      "sic": "3841",
+      "sicDescription": "Surgical & Medical Instruments & Apparatus",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-10-03",
+        "accn": "0001193125-18-291742",
+        "doc": "d612931ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-10-06",
+        "accn": "0000943819-21-000024",
+        "doc": "rmd-20211006xdef14a.htm"
+      },
+      "post2": {
+        "date": "2024-10-03",
+        "accn": "0000943819-24-000019",
+        "doc": "rmd-20241003.htm"
+      }
+    },
+    {
+      "cik": "0001660134",
+      "name": "Okta, Inc.",
+      "sic": "7372",
+      "sicDescription": "Services-Prepackaged Software",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-05-09",
+        "accn": "0001193125-18-157635",
+        "doc": "d563591ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-05-06",
+        "accn": "0001140361-21-016185",
+        "doc": "nc10023574x1_def14a.htm"
+      },
+      "post2": {
+        "date": "2024-05-09",
+        "accn": "0001660134-24-000069",
+        "doc": "okta-20240509.htm"
+      }
+    },
+    {
+      "cik": "0000719955",
+      "name": "WILLIAMS SONOMA INC",
+      "sic": "5700",
+      "sicDescription": "Retail-Home Furniture, Furnishings & Equipment Stores",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-04-13",
+        "accn": "0001193125-18-116995",
+        "doc": "d561100ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-04-16",
+        "accn": "0001193125-21-119450",
+        "doc": "d108438ddef14a.htm"
+      },
+      "post2": {
+        "date": "2024-04-16",
+        "accn": "0001628280-24-016458",
+        "doc": "wsm-20240416.htm"
+      }
+    },
+    {
+      "cik": "0001397911",
+      "name": "LPL Financial Holdings Inc.",
+      "sic": "6200",
+      "sicDescription": "Security & Commodity Brokers, Dealers, Exchanges & Services",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-03-29",
+        "accn": "0001397911-18-000089",
+        "doc": "a2018proxydef14a.htm"
+      },
+      "post": {
+        "date": "2021-03-22",
+        "accn": "0001193125-21-089584",
+        "doc": "d877219ddef14a.htm"
+      },
+      "post2": {
+        "date": "2024-03-28",
+        "accn": "0001193125-24-080802",
+        "doc": "d455853ddef14a.htm"
+      }
+    },
+    {
+      "cik": "0001713683",
+      "name": "Zscaler, Inc.",
+      "sic": "7371",
+      "sicDescription": "Services-Computer Programming Services",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-11-08",
+        "accn": "0001628280-18-013980",
+        "doc": "zscaler_2018proxy.htm"
+      },
+      "post": {
+        "date": "2021-11-24",
+        "accn": "0001713683-21-000223",
+        "doc": "zs_fy2021xproxy.htm"
+      },
+      "post2": {
+        "date": "2024-11-22",
+        "accn": "0001713683-24-000139",
+        "doc": "zs-20241122.htm"
+      }
+    },
+    {
+      "cik": "0000920522",
+      "name": "ESSEX PROPERTY TRUST, INC.",
+      "sic": "6798",
+      "sicDescription": "Real Estate Investment Trusts",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-03-23",
+        "accn": "0001140361-18-014803",
+        "doc": "s002136x1_def14a.htm"
+      },
+      "post": {
+        "date": "2021-03-26",
+        "accn": "0001140361-21-010129",
+        "doc": "nc10019546x1_def14a.htm"
+      },
+      "post2": {
+        "date": "2024-03-28",
+        "accn": "0001140361-24-016195",
+        "doc": "ny20018132x1_def14a.htm"
+      }
+    },
+    {
+      "cik": "0001069157",
+      "name": "EAST WEST BANCORP INC",
+      "sic": "6022",
+      "sicDescription": "State Commercial Banks",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-04-17",
+        "accn": "0001174947-18-000630",
+        "doc": "c491133_def14a.htm"
+      },
+      "post": {
+        "date": "2021-04-15",
+        "accn": "0001174947-21-000416",
+        "doc": "def14a-51163_ewb.htm"
+      },
+      "post2": {
+        "date": "2024-04-11",
+        "accn": "0001174947-24-000546",
+        "doc": "ea0203517-def14a_eastwest.htm"
+      }
+    },
+    {
+      "cik": "0000914475",
+      "name": "NEUROCRINE BIOSCIENCES INC",
+      "sic": "2836",
+      "sicDescription": "Biological Products, (No Diagnostic Substances)",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-04-04",
+        "accn": "0001193125-18-107644",
+        "doc": "d474270ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-04-09",
+        "accn": "0001193125-21-111693",
+        "doc": "d87247ddef14a.htm"
+      },
+      "post2": {
+        "date": "2024-04-10",
+        "accn": "0000914475-24-000106",
+        "doc": "nbix-20240409.htm"
+      }
+    },
+    {
+      "cik": "0001375365",
+      "name": "Super Micro Computer, Inc.",
+      "sic": "3571",
+      "sicDescription": "Electronic Computers",
+      "current_state": "CA",
+      "pre": {
+        "date": "2017-01-18",
+        "accn": "0001628280-17-000288",
+        "doc": "proxystatementfy2016.htm"
+      },
+      "post": {
+        "date": "2021-04-23",
+        "accn": "0001375365-21-000026",
+        "doc": "proxystatement2020.htm"
+      },
+      "post2": {
+        "date": "2023-12-08",
+        "accn": "0001375365-23-000046",
+        "doc": "smci-20231207.htm"
+      }
+    },
+    {
+      "cik": "0001618732",
+      "name": "Nutanix, Inc.",
+      "sic": "7372",
+      "sicDescription": "Services-Prepackaged Software",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-11-05",
+        "accn": "0001140361-18-042316",
+        "doc": "bp13838x2_def14a.htm"
+      },
+      "post": {
+        "date": "2021-10-26",
+        "accn": "0001140361-21-035457",
+        "doc": "ny20000114x1_def14a.htm"
+      },
+      "post2": {
+        "date": "2024-10-22",
+        "accn": "0001308179-24-000763",
+        "doc": "ntnx003-def14a.htm"
+      }
+    },
+    {
+      "cik": "0001032975",
+      "name": "LOGITECH INTERNATIONAL S.A.",
+      "sic": "3577",
+      "sicDescription": "Computer Peripheral Equipment, NEC",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-07-24",
+        "accn": "0001032975-18-000029",
+        "doc": "logitech2018definitiveprox.htm"
+      },
+      "post": {
+        "date": "2021-07-23",
+        "accn": "0001032975-21-000025",
+        "doc": "logitechproxystatement2021.htm"
+      },
+      "post2": {
+        "date": "2024-07-26",
+        "accn": "0001032975-24-000052",
+        "doc": "logi-20240726.htm"
+      }
+    },
+    {
+      "cik": "0000910521",
+      "name": "DECKERS OUTDOOR CORP",
+      "sic": "3021",
+      "sicDescription": "Rubber & Plastics Footwear",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-07-27",
+        "accn": "0000910521-18-000025",
+        "doc": "deck-def14ax2018.htm"
+      },
+      "post": {
+        "date": "2021-07-27",
+        "accn": "0000910521-21-000020",
+        "doc": "deck-def14ax2021.htm"
+      },
+      "post2": {
+        "date": "2024-07-23",
+        "accn": "0000910521-24-000031",
+        "doc": "deck-20240723.htm"
+      }
+    },
+    {
+      "cik": "0000939767",
+      "name": "EXELIXIS, INC.",
+      "sic": "2836",
+      "sicDescription": "Biological Products, (No Diagnostic Substances)",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-04-12",
+        "accn": "0001193125-18-114961",
+        "doc": "d489684ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-04-15",
+        "accn": "0001193125-21-117232",
+        "doc": "d63026ddef14a.htm"
+      },
+      "post2": {
+        "date": "2024-04-18",
+        "accn": "0000939767-24-000044",
+        "doc": "exel-20240418.htm"
+      }
+    },
+    {
+      "cik": "0001116942",
+      "name": "TTM TECHNOLOGIES INC",
+      "sic": "3672",
+      "sicDescription": "Printed Circuit Boards",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-03-29",
+        "accn": "0001193125-18-100723",
+        "doc": "d539146ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-03-16",
+        "accn": "0001193125-21-081995",
+        "doc": "d122727ddef14a.htm"
+      },
+      "post2": {
+        "date": "2024-03-15",
+        "accn": "0000950170-24-032311",
+        "doc": "ttmi-20240315.htm"
+      }
+    },
+    {
+      "cik": "0001321732",
+      "name": "Penumbra Inc",
+      "sic": "3841",
+      "sicDescription": "Surgical & Medical Instruments & Apparatus",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-04-25",
+        "accn": "0001321732-18-000055",
+        "doc": "penumbrainc2018def14a.htm"
+      },
+      "post": {
+        "date": "2021-04-22",
+        "accn": "0001321732-21-000032",
+        "doc": "penumbrainc2021def14a.htm"
+      },
+      "post2": {
+        "date": "2024-04-24",
+        "accn": "0001321732-24-000052",
+        "doc": "pen-20240424.htm"
+      }
+    },
+    {
+      "cik": "0001528396",
+      "name": "Guidewire Software, Inc.",
+      "sic": "7372",
+      "sicDescription": "Services-Prepackaged Software",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-11-05",
+        "accn": "0001528396-18-000041",
+        "doc": "guidewirefy2018proxy.htm"
+      },
+      "post": {
+        "date": "2021-11-03",
+        "accn": "0001528396-21-000108",
+        "doc": "guidewirefy2021proxydefini.htm"
+      },
+      "post2": {
+        "date": "2024-11-01",
+        "accn": "0001528396-24-000148",
+        "doc": "gdwre-20241101.htm"
+      }
+    },
+    {
+      "cik": "0001179929",
+      "name": "MOLINA HEALTHCARE, INC.",
+      "sic": "6324",
+      "sicDescription": "Hospital & Medical Service Plans",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-03-19",
+        "accn": "0001179929-18-000072",
+        "doc": "a2018proxy.htm"
+      },
+      "post": {
+        "date": "2021-03-22",
+        "accn": "0001179929-21-000055",
+        "doc": "a2021definitiveproxy.htm"
+      },
+      "post2": {
+        "date": "2024-03-21",
+        "accn": "0001179929-24-000063",
+        "doc": "moh-20240321.htm"
+      }
+    },
+    {
+      "cik": "0001632970",
+      "name": "American Healthcare REIT, Inc.",
+      "sic": "6798",
+      "sicDescription": "Real Estate Investment Trusts",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-04-06",
+        "accn": "0001632970-18-000054",
+        "doc": "gahr42018defproxy.htm"
+      },
+      "post": {
+        "date": "2020-04-14",
+        "accn": "0001632970-20-000025",
+        "doc": "gahr42020defproxy.htm"
+      },
+      "post2": {
+        "date": "2024-08-28",
+        "accn": "0001632970-24-000098",
+        "doc": "ahr-20240828.htm"
+      }
+    },
+    {
+      "cik": "0001048477",
+      "name": "BIOMARIN PHARMACEUTICAL INC",
+      "sic": "2834",
+      "sicDescription": "Pharmaceutical Preparations",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-04-24",
+        "accn": "0001206774-18-001344",
+        "doc": "bmrn3334561-def14a.htm"
+      },
+      "post": {
+        "date": "2021-04-13",
+        "accn": "0001206774-21-001100",
+        "doc": "bmrn3796953-def14a.htm"
+      },
+      "post2": {
+        "date": "2024-04-09",
+        "accn": "0001048477-24-000058",
+        "doc": "bmrn-20240408.htm"
+      }
+    },
+    {
+      "cik": "0000917273",
+      "name": "RAMBUS INC",
+      "sic": "3674",
+      "sicDescription": "Semiconductors & Related Devices",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-03-09",
+        "accn": "0001193125-18-077349",
+        "doc": "d539718ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-03-29",
+        "accn": "0001193125-21-098269",
+        "doc": "d117428ddef14a.htm"
+      },
+      "post2": {
+        "date": "2024-03-08",
+        "accn": "0001193125-24-063622",
+        "doc": "d646821ddef14a.htm"
+      }
+    },
+    {
+      "cik": "0000897723",
+      "name": "SANMINA CORP",
+      "sic": "3672",
+      "sicDescription": "Printed Circuit Boards",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-01-24",
+        "accn": "0001047469-18-000393",
+        "doc": "a2234319zdef14a.htm"
+      },
+      "post": {
+        "date": "2021-01-28",
+        "accn": "0001206774-21-000240",
+        "doc": "sanm3809636-def14a.htm"
+      },
+      "post2": {
+        "date": "2024-01-26",
+        "accn": "0001308179-24-000020",
+        "doc": "sanm4245831-def14a.htm"
+      }
+    },
+    {
+      "cik": "0000879407",
+      "name": "ARROWHEAD PHARMACEUTICALS, INC.",
+      "sic": "2834",
+      "sicDescription": "Pharmaceutical Preparations",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-01-25",
+        "accn": "0001193125-18-019852",
+        "doc": "d502300ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-01-28",
+        "accn": "0001193125-21-019640",
+        "doc": "d76219ddef14a.htm"
+      },
+      "post2": {
+        "date": "2024-01-26",
+        "accn": "0001628280-24-002375",
+        "doc": "arwr-20240126.htm"
+      }
+    },
+    {
+      "cik": "0001125376",
+      "name": "ENSIGN GROUP, INC",
+      "sic": "8051",
+      "sicDescription": "Services-Skilled Nursing Care Facilities",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-04-12",
+        "accn": "0001125376-18-000063",
+        "doc": "a2017proxystatement.htm"
+      },
+      "post": {
+        "date": "2021-04-16",
+        "accn": "0001125376-21-000056",
+        "doc": "a2020proxystatement.htm"
+      },
+      "post2": {
+        "date": "2024-04-05",
+        "accn": "0001125376-24-000045",
+        "doc": "ensg-20240405.htm"
+      }
+    },
+    {
+      "cik": "0001590717",
+      "name": "CareTrust REIT, Inc.",
+      "sic": "6798",
+      "sicDescription": "Real Estate Investment Trusts",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-04-20",
+        "accn": "0001193125-18-124989",
+        "doc": "d564467ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-03-19",
+        "accn": "0001628280-21-005179",
+        "doc": "ctre2021proxy.htm"
+      },
+      "post2": {
+        "date": "2024-03-08",
+        "accn": "0001628280-24-009965",
+        "doc": "ctre-20240308.htm"
+      }
+    },
+    {
+      "cik": "0001088856",
+      "name": "CORCEPT THERAPEUTICS INC",
+      "sic": "2834",
+      "sicDescription": "Pharmaceutical Preparations",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-04-24",
+        "accn": "0001564590-18-008875",
+        "doc": "cort-def14a_20180424.htm"
+      },
+      "post": {
+        "date": "2021-04-22",
+        "accn": "0001628280-21-007363",
+        "doc": "a2021def14a.htm"
+      },
+      "post2": {
+        "date": "2024-04-10",
+        "accn": "0001628280-24-015633",
+        "doc": "cort-20240410.htm"
+      }
+    },
+    {
+      "cik": "0000797721",
+      "name": "VIASAT INC",
+      "sic": "4899",
+      "sicDescription": "Communications Services, NEC",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-07-20",
+        "accn": "0001193125-18-221764",
+        "doc": "d566363ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-07-26",
+        "accn": "0001193125-21-223689",
+        "doc": "d128172ddef14a.htm"
+      },
+      "post2": {
+        "date": "2024-07-26",
+        "accn": "0001193125-24-186197",
+        "doc": "d803476ddef14a.htm"
+      }
+    },
+    {
+      "cik": "0001302215",
+      "name": "HOULIHAN LOKEY, INC.",
+      "sic": "6282",
+      "sicDescription": "Investment Advice",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-07-27",
+        "accn": "0001302215-18-000028",
+        "doc": "hli-def14aproxy2018.htm"
+      },
+      "post": {
+        "date": "2021-07-28",
+        "accn": "0001302215-21-000072",
+        "doc": "hli2021-def14a.htm"
+      },
+      "post2": {
+        "date": "2024-07-26",
+        "accn": "0001302215-24-000079",
+        "doc": "hli-20240726.htm"
+      }
+    },
+    {
+      "cik": "0001159036",
+      "name": "HALOZYME THERAPEUTICS, INC.",
+      "sic": "2836",
+      "sicDescription": "Biological Products, (No Diagnostic Substances)",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-03-22",
+        "accn": "0001159036-18-000017",
+        "doc": "haloproxy2018.htm"
+      },
+      "post": {
+        "date": "2021-03-26",
+        "accn": "0001159036-21-000019",
+        "doc": "halodefproxy2021.htm"
+      },
+      "post2": {
+        "date": "2024-03-15",
+        "accn": "0001159036-24-000024",
+        "doc": "halo-20240313.htm"
+      }
+    },
+    {
+      "cik": "0001192448",
+      "name": "GLAUKOS Corp",
+      "sic": "3841",
+      "sicDescription": "Surgical & Medical Instruments & Apparatus",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-04-18",
+        "accn": "0001558370-18-003058",
+        "doc": "def14a.htm"
+      },
+      "post": {
+        "date": "2021-04-22",
+        "accn": "0001558370-21-004648",
+        "doc": "gkos-20210603xdef14a.htm"
+      },
+      "post2": {
+        "date": "2024-04-16",
+        "accn": "0001558370-24-005203",
+        "doc": "gkos-20240530xdef14a.htm"
+      }
+    },
+    {
+      "cik": "0000004127",
+      "name": "SKYWORKS SOLUTIONS, INC.",
+      "sic": "3674",
+      "sicDescription": "Semiconductors & Related Devices",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-04-02",
+        "accn": "0001047469-18-002445",
+        "doc": "a2235049zdef14a.htm"
+      },
+      "post": {
+        "date": "2021-03-26",
+        "accn": "0001047469-21-000739",
+        "doc": "a2243013zdef14a.htm"
+      },
+      "post2": {
+        "date": "2024-03-28",
+        "accn": "0001104659-24-040560",
+        "doc": "tm242679-d5_def14a.htm"
+      }
+    },
+    {
+      "cik": "0001377121",
+      "name": "Protagonist Therapeutics, Inc",
+      "sic": "2834",
+      "sicDescription": "Pharmaceutical Preparations",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-04-18",
+        "accn": "0001047469-18-002924",
+        "doc": "a2235345zdef14a.htm"
+      },
+      "post": {
+        "date": "2021-04-14",
+        "accn": "0001104659-21-050202",
+        "doc": "tm212463-1_def14a.htm"
+      },
+      "post2": {
+        "date": "2024-04-26",
+        "accn": "0001104659-24-052999",
+        "doc": "tm242713-d7_def14a.htm"
+      }
+    },
+    {
+      "cik": "0001671933",
+      "name": "Trade Desk, Inc.",
+      "sic": "7370",
+      "sicDescription": "Services-Computer Programming, Data Processing, Etc.",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-03-23",
+        "accn": "0001564590-18-006676",
+        "doc": "ttd-def14a_20180503.htm"
+      },
+      "post": {
+        "date": "2021-04-13",
+        "accn": "0001564590-21-018698",
+        "doc": "ttd-def14a_20210527.htm"
+      },
+      "post2": {
+        "date": "2024-10-03",
+        "accn": "0001193125-24-231685",
+        "doc": "d854378ddef14a.htm"
+      }
+    },
+    {
+      "cik": "0001571283",
+      "name": "Rexford Industrial Realty, Inc.",
+      "sic": "6798",
+      "sicDescription": "Real Estate Investment Trusts",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-04-27",
+        "accn": "0001571283-18-000019",
+        "doc": "rexrdef14a2018.htm"
+      },
+      "post": {
+        "date": "2021-04-30",
+        "accn": "0001571283-21-000019",
+        "doc": "rexrdef14a2021.htm"
+      },
+      "post2": {
+        "date": "2024-04-15",
+        "accn": "0001571283-24-000012",
+        "doc": "rexr-20240415.htm"
+      }
+    },
+    {
+      "cik": "0001039399",
+      "name": "FORMFACTOR INC",
+      "sic": "3674",
+      "sicDescription": "Semiconductors & Related Devices",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-04-03",
+        "accn": "0000950103-18-004369",
+        "doc": "dp89036_def14a.htm"
+      },
+      "post": {
+        "date": "2021-03-31",
+        "accn": "0001140361-21-011045",
+        "doc": "nc10020261x1_def14a.htm"
+      },
+      "post2": {
+        "date": "2024-04-01",
+        "accn": "0001140361-24-016895",
+        "doc": "ny20018943x1_def14a.htm"
+      }
+    },
+    {
+      "cik": "0000012208",
+      "name": "BIO-RAD LABORATORIES, INC.",
+      "sic": "3826",
+      "sicDescription": "Laboratory Analytical Instruments",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-05-04",
+        "accn": "0001308179-18-000239",
+        "doc": "lbio2018_def14a.htm"
+      },
+      "post": {
+        "date": "2021-03-31",
+        "accn": "0001308179-21-000130",
+        "doc": "lbio2021_def14a.htm"
+      },
+      "post2": {
+        "date": "2024-03-27",
+        "accn": "0001308179-24-000313",
+        "doc": "bio4299161-def14a.htm"
+      }
+    },
+    {
+      "cik": "0000831641",
+      "name": "TETRA TECH INC",
+      "sic": "8711",
+      "sicDescription": "Services-Engineering Services",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-01-24",
+        "accn": "0001047469-18-000398",
+        "doc": "a2234295zdef14a.htm"
+      },
+      "post": {
+        "date": "2021-01-14",
+        "accn": "0001047469-21-000087",
+        "doc": "a2242771zdef14a.htm"
+      },
+      "post2": {
+        "date": "2024-01-18",
+        "accn": "0001104659-24-004794",
+        "doc": "tm242152-2_def14a.htm"
+      }
+    },
+    {
+      "cik": "0000912242",
+      "name": "MACERICH CO",
+      "sic": "6798",
+      "sicDescription": "Real Estate Investment Trusts",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-05-17",
+        "accn": "0001193125-18-166682",
+        "doc": "d568277ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-04-29",
+        "accn": "0001193125-21-140731",
+        "doc": "d145241ddef14a.htm"
+      },
+      "post2": {
+        "date": "2024-04-19",
+        "accn": "0000912242-24-000044",
+        "doc": "mac-20240419.htm"
+      }
+    },
+    {
+      "cik": "0001326110",
+      "name": "ImmunityBio, Inc.",
+      "sic": "2836",
+      "sicDescription": "Biological Products, (No Diagnostic Substances)",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-04-24",
+        "accn": "0001193125-18-128761",
+        "doc": "d537261ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-04-29",
+        "accn": "0001193125-21-140564",
+        "doc": "d135786ddef14a.htm"
+      },
+      "post2": {
+        "date": "2024-04-29",
+        "accn": "0001326110-24-000054",
+        "doc": "ibrx-20240429.htm"
+      }
+    },
+    {
+      "cik": "0001476150",
+      "name": "Terreno Realty Corp",
+      "sic": "6500",
+      "sicDescription": "Real Estate",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-03-16",
+        "accn": "0001193125-18-084724",
+        "doc": "d514534ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-03-16",
+        "accn": "0001193125-21-082995",
+        "doc": "d122156ddef14a.htm"
+      },
+      "post2": {
+        "date": "2024-03-22",
+        "accn": "0001193125-24-074635",
+        "doc": "d520368ddef14a.htm"
+      }
+    },
+    {
+      "cik": "0001288469",
+      "name": "MAXLINEAR, INC",
+      "sic": "3674",
+      "sicDescription": "Semiconductors & Related Devices",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-04-20",
+        "accn": "0001193125-18-124864",
+        "doc": "d542971ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-04-13",
+        "accn": "0001288469-21-000088",
+        "doc": "def14aproxy05122021.htm"
+      },
+      "post2": {
+        "date": "2024-04-04",
+        "accn": "0001288469-24-000055",
+        "doc": "mxl-20240404.htm"
+      }
+    },
+    {
+      "cik": "0001433195",
+      "name": "APPFOLIO INC",
+      "sic": "7372",
+      "sicDescription": "Services-Prepackaged Software",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-04-02",
+        "accn": "0001433195-18-000020",
+        "doc": "a2018proxy.htm"
+      },
+      "post": {
+        "date": "2021-03-29",
+        "accn": "0001433195-21-000037",
+        "doc": "a2021proxy.htm"
+      },
+      "post2": {
+        "date": "2024-04-29",
+        "accn": "0001433195-24-000058",
+        "doc": "appf-20240429.htm"
+      }
+    },
+    {
+      "cik": "0000886163",
+      "name": "LIGAND PHARMACEUTICALS INC",
+      "sic": "2834",
+      "sicDescription": "Pharmaceutical Preparations",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-04-30",
+        "accn": "0000886163-18-000056",
+        "doc": "lgnd-2018annualmeetingproxy.htm"
+      },
+      "post": {
+        "date": "2021-04-23",
+        "accn": "0000886163-21-000058",
+        "doc": "ligand-2021annualmeetingpr.htm"
+      },
+      "post2": {
+        "date": "2024-04-25",
+        "accn": "0000886163-24-000020",
+        "doc": "lngd-20240424.htm"
+      }
+    },
+    {
+      "cik": "0001680062",
+      "name": "ACM Research, Inc.",
+      "sic": "3559",
+      "sicDescription": "Special Industry Machinery, NEC",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-05-01",
+        "accn": "0001654954-18-004618",
+        "doc": "acm_def14a.htm"
+      },
+      "post": {
+        "date": "2021-04-23",
+        "accn": "0001140361-21-014152",
+        "doc": "nc10019669x2_def14a.htm"
+      },
+      "post2": {
+        "date": "2024-04-26",
+        "accn": "0001140361-24-022553",
+        "doc": "ny20018109x1_def14a.htm"
+      }
+    },
+    {
+      "cik": "0000907654",
+      "name": "Oruka Therapeutics, Inc.",
+      "sic": "2834",
+      "sicDescription": "Pharmaceutical Preparations",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-09-20",
+        "accn": "0001193125-18-278722",
+        "doc": "d600447ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-04-21",
+        "accn": "0001564590-21-019817",
+        "doc": "abio-def14a_20210610.htm"
+      },
+      "post2": {
+        "date": "2024-10-18",
+        "accn": "0001140361-24-043698",
+        "doc": "ny20036093x2_def14a.htm"
+      }
+    },
+    {
+      "cik": "0001041803",
+      "name": "PRICESMART INC",
+      "sic": "5331",
+      "sicDescription": "Retail-Variety Stores",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-12-20",
+        "accn": "0001193125-18-354273",
+        "doc": "d662225ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-12-17",
+        "accn": "0001193125-21-360787",
+        "doc": "d266805ddef14a.htm"
+      },
+      "post2": {
+        "date": "2024-12-18",
+        "accn": "0001193125-24-281188",
+        "doc": "d814060ddef14a.htm"
+      }
+    },
+    {
+      "cik": "0001107843",
+      "name": "QUALYS, INC.",
+      "sic": "7372",
+      "sicDescription": "Services-Prepackaged Software",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-04-27",
+        "accn": "0001193125-18-139390",
+        "doc": "d558755ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-04-22",
+        "accn": "0001193125-21-126676",
+        "doc": "d856232ddef14a.htm"
+      },
+      "post2": {
+        "date": "2024-04-24",
+        "accn": "0001193125-24-110066",
+        "doc": "d681296ddef14a.htm"
+      }
+    },
+    {
+      "cik": "0000861459",
+      "name": "GRANITE CONSTRUCTION INC",
+      "sic": "1600",
+      "sicDescription": "Heavy Construction Other Than Bldg Const - Contractors",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-04-13",
+        "accn": "0001564590-18-008126",
+        "doc": "gva-def14a_20180607.htm"
+      },
+      "post": {
+        "date": "2021-04-21",
+        "accn": "0001437749-21-009478",
+        "doc": "gva20210205_def14a.htm"
+      },
+      "post2": {
+        "date": "2024-04-25",
+        "accn": "0000861459-24-000012",
+        "doc": "gva-20240424.htm"
+      }
+    },
+    {
+      "cik": "0001463101",
+      "name": "Enphase Energy, Inc.",
+      "sic": "3674",
+      "sicDescription": "Semiconductors & Related Devices",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-04-02",
+        "accn": "0001463101-18-000031",
+        "doc": "enphase2018defproxy.htm"
+      },
+      "post": {
+        "date": "2021-04-07",
+        "accn": "0001463101-21-000050",
+        "doc": "defproxy2021doc.htm"
+      },
+      "post2": {
+        "date": "2024-04-04",
+        "accn": "0001463101-24-000049",
+        "doc": "enph-20240404.htm"
+      }
+    },
+    {
+      "cik": "0001438533",
+      "name": "Travere Therapeutics, Inc.",
+      "sic": "2834",
+      "sicDescription": "Pharmaceutical Preparations",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-04-05",
+        "accn": "0001438533-18-000012",
+        "doc": "rtrx-2018xproxy.htm"
+      },
+      "post": {
+        "date": "2021-04-16",
+        "accn": "0001438533-21-000012",
+        "doc": "tvtx-2021definitiveproxy.htm"
+      },
+      "post2": {
+        "date": "2024-03-27",
+        "accn": "0001438533-24-000012",
+        "doc": "tvtx-20240327.htm"
+      }
+    },
+    {
+      "cik": "0001492298",
+      "name": "Sabra Health Care REIT, Inc.",
+      "sic": "6798",
+      "sicDescription": "Real Estate Investment Trusts",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-04-25",
+        "accn": "0001193125-18-131295",
+        "doc": "d543243ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-04-26",
+        "accn": "0001193125-21-130073",
+        "doc": "d136813ddef14a.htm"
+      },
+      "post2": {
+        "date": "2024-04-26",
+        "accn": "0001193125-24-116049",
+        "doc": "d768658ddef14a.htm"
+      }
+    },
+    {
+      "cik": "0000790526",
+      "name": "RadNet, Inc.",
+      "sic": "8071",
+      "sicDescription": "Services-Medical Laboratories",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-04-27",
+        "accn": "0001683168-18-001097",
+        "doc": "radnet_def14a.htm"
+      },
+      "post": {
+        "date": "2021-04-29",
+        "accn": "0001683168-21-001588",
+        "doc": "radnet_def14a.htm"
+      },
+      "post2": {
+        "date": "2024-04-26",
+        "accn": "0001683168-24-002737",
+        "doc": "radnet_idef14a.htm"
+      }
+    },
+    {
+      "cik": "0001609253",
+      "name": "California Resources Corp",
+      "sic": "1311",
+      "sicDescription": "Crude Petroleum & Natural Gas",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-03-27",
+        "accn": "0001564590-18-006859",
+        "doc": "crc-def14a_20180509.htm"
+      },
+      "post": {
+        "date": "2021-03-30",
+        "accn": "0001564590-21-016666",
+        "doc": "crc-def14a_20210512.htm"
+      },
+      "post2": {
+        "date": "2024-03-21",
+        "accn": "0000950170-24-034816",
+        "doc": "crc-20240319.htm"
+      }
+    },
+    {
+      "cik": "0001308547",
+      "name": "Dolby Laboratories, Inc.",
+      "sic": "6794",
+      "sicDescription": "Patent Owners & Lessors",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-12-19",
+        "accn": "0001193125-18-352737",
+        "doc": "d666484ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-12-17",
+        "accn": "0001193125-21-359963",
+        "doc": "d259657ddef14a.htm"
+      },
+      "post2": {
+        "date": "2024-12-20",
+        "accn": "0001193125-24-282542",
+        "doc": "d79734ddef14a.htm"
+      }
+    },
+    {
+      "cik": "0001600033",
+      "name": "e.l.f. Beauty, Inc.",
+      "sic": "2844",
+      "sicDescription": "Perfumes, Cosmetics & Other Toilet Preparations",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-04-10",
+        "accn": "0001600033-18-000020",
+        "doc": "def14a_elf2018.htm"
+      },
+      "post": {
+        "date": "2021-07-16",
+        "accn": "0001600033-21-000037",
+        "doc": "proxystatement2021.htm"
+      },
+      "post2": {
+        "date": "2024-07-12",
+        "accn": "0001600033-24-000033",
+        "doc": "elf-20240710.htm"
+      }
+    },
+    {
+      "cik": "0001384101",
+      "name": "VERACYTE, INC.",
+      "sic": "8071",
+      "sicDescription": "Services-Medical Laboratories",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-04-19",
+        "accn": "0001384101-18-000020",
+        "doc": "vcyt-proxy2018xdef14a.htm"
+      },
+      "post": {
+        "date": "2021-04-23",
+        "accn": "0001384101-21-000069",
+        "doc": "vcyt-proxy2021xdef14a.htm"
+      },
+      "post2": {
+        "date": "2024-04-25",
+        "accn": "0001384101-24-000057",
+        "doc": "vcyt-20240424.htm"
+      }
+    },
+    {
+      "cik": "0001610250",
+      "name": "Boot Barn Holdings, Inc.",
+      "sic": "5661",
+      "sicDescription": "Retail-Shoe Stores",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-07-27",
+        "accn": "0001558370-18-005796",
+        "doc": "def14a.htm"
+      },
+      "post": {
+        "date": "2021-07-15",
+        "accn": "0001558370-21-008931",
+        "doc": "tmb-20210825xdef14a.htm"
+      },
+      "post2": {
+        "date": "2024-07-18",
+        "accn": "0001558370-24-009871",
+        "doc": "boot-20240828xdef14a.htm"
+      }
+    },
+    {
+      "cik": "0000817720",
+      "name": "SYNAPTICS Inc",
+      "sic": "3674",
+      "sicDescription": "Semiconductors & Related Devices",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-09-17",
+        "accn": "0001193125-18-275251",
+        "doc": "d612667ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-09-07",
+        "accn": "0001193125-21-266594",
+        "doc": "d105605ddef14a.htm"
+      },
+      "post2": {
+        "date": "2024-09-12",
+        "accn": "0001193125-24-217354",
+        "doc": "d894185ddef14a.htm"
+      }
+    },
+    {
+      "cik": "0001070494",
+      "name": "ACADIA PHARMACEUTICALS INC",
+      "sic": "2834",
+      "sicDescription": "Pharmaceutical Preparations",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-04-30",
+        "accn": "0001193125-18-143620",
+        "doc": "d531714ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-04-30",
+        "accn": "0001564590-21-022589",
+        "doc": "acad-def14a_20210622.htm"
+      },
+      "post2": {
+        "date": "2024-04-26",
+        "accn": "0000950170-24-049182",
+        "doc": "acad-20240426.htm"
+      }
+    },
+    {
+      "cik": "0001607678",
+      "name": "Viking Therapeutics, Inc.",
+      "sic": "2834",
+      "sicDescription": "Pharmaceutical Preparations",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-04-06",
+        "accn": "0001564590-18-007765",
+        "doc": "vktx-def14a_20180524.htm"
+      },
+      "post": {
+        "date": "2021-04-08",
+        "accn": "0001564590-21-018175",
+        "doc": "vktx-def14a_20210520.htm"
+      },
+      "post2": {
+        "date": "2024-04-05",
+        "accn": "0000950170-24-042251",
+        "doc": "vktx-20240405.htm"
+      }
+    },
+    {
+      "cik": "0000887596",
+      "name": "CHEESECAKE FACTORY INC",
+      "sic": "5812",
+      "sicDescription": "Retail-Eating  Places",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-04-19",
+        "accn": "0001047469-18-002947",
+        "doc": "a2235233zdef14a.htm"
+      },
+      "post": {
+        "date": "2021-04-15",
+        "accn": "0001104659-21-050777",
+        "doc": "tm212345-2_def14a.htm"
+      },
+      "post2": {
+        "date": "2024-04-18",
+        "accn": "0001104659-24-048855",
+        "doc": "tm242666d5_def14a.htm"
+      }
+    },
+    {
+      "cik": "0001275014",
+      "name": "Ultra Clean Holdings, Inc.",
+      "sic": "3674",
+      "sicDescription": "Semiconductors & Related Devices",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-04-19",
+        "accn": "0001193125-18-122694",
+        "doc": "d564717ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-04-26",
+        "accn": "0001193125-21-131001",
+        "doc": "d21414ddef14a.htm"
+      },
+      "post2": {
+        "date": "2024-04-26",
+        "accn": "0001140361-24-022572",
+        "doc": "ny20018675x1_def14a.htm"
+      }
+    },
+    {
+      "cik": "0000861842",
+      "name": "CATHAY GENERAL BANCORP",
+      "sic": "6022",
+      "sicDescription": "State Commercial Banks",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-04-12",
+        "accn": "0001437749-18-006780",
+        "doc": "caty20180330_def14a.htm"
+      },
+      "post": {
+        "date": "2021-04-15",
+        "accn": "0001437749-21-009035",
+        "doc": "caty20210401_def14a.htm"
+      },
+      "post2": {
+        "date": "2024-04-11",
+        "accn": "0001437749-24-011784",
+        "doc": "caty20240329_def14a.htm"
+      }
+    },
+    {
+      "cik": "0000833640",
+      "name": "POWER INTEGRATIONS INC",
+      "sic": "3674",
+      "sicDescription": "Semiconductors & Related Devices",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-04-27",
+        "accn": "0000833640-18-000137",
+        "doc": "def14aproxy2018.htm"
+      },
+      "post": {
+        "date": "2021-03-29",
+        "accn": "0000833640-21-000087",
+        "doc": "powi-20210329xdef14a.htm"
+      },
+      "post2": {
+        "date": "2024-03-29",
+        "accn": "0000833640-24-000074",
+        "doc": "powi-20240322xdef14a.htm"
+      }
+    },
+    {
+      "cik": "0000354647",
+      "name": "CVB FINANCIAL CORP",
+      "sic": "6022",
+      "sicDescription": "State Commercial Banks",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-04-04",
+        "accn": "0001193125-18-107251",
+        "doc": "d512240ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-04-05",
+        "accn": "0001193125-21-106026",
+        "doc": "d92148ddef14a.htm"
+      },
+      "post2": {
+        "date": "2024-04-01",
+        "accn": "0000950170-24-039094",
+        "doc": "cvbf-20240401.htm"
+      }
+    },
+    {
+      "cik": "0000883984",
+      "name": "ICU MEDICAL INC/DE",
+      "sic": "3841",
+      "sicDescription": "Surgical & Medical Instruments & Apparatus",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-04-05",
+        "accn": "0000883984-18-000012",
+        "doc": "icui-def14ax2018.htm"
+      },
+      "post": {
+        "date": "2021-04-01",
+        "accn": "0000883984-21-000009",
+        "doc": "icui-def14ax2020.htm"
+      },
+      "post2": {
+        "date": "2024-04-02",
+        "accn": "0000883984-24-000010",
+        "doc": "icui-20240401.htm"
+      }
+    },
+    {
+      "cik": "0001388658",
+      "name": "iRhythm Holdings, Inc.",
+      "sic": "3841",
+      "sicDescription": "Surgical & Medical Instruments & Apparatus",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-04-10",
+        "accn": "0001564590-18-007945",
+        "doc": "irtc-def14a_20180523.htm"
+      },
+      "post": {
+        "date": "2021-04-30",
+        "accn": "0001388658-21-000060",
+        "doc": "irtc-2020x05x22xdef14a.htm"
+      },
+      "post2": {
+        "date": "2024-04-11",
+        "accn": "0001388658-24-000079",
+        "doc": "irtc-20240410.htm"
+      }
+    },
+    {
+      "cik": "0001714899",
+      "name": "Denali Therapeutics Inc.",
+      "sic": "2836",
+      "sicDescription": "Biological Products, (No Diagnostic Substances)",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-04-26",
+        "accn": "0001193125-18-134885",
+        "doc": "d463334ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-04-22",
+        "accn": "0001714899-21-000042",
+        "doc": "fy20def14aproxy.htm"
+      },
+      "post2": {
+        "date": "2024-04-18",
+        "accn": "0001714899-24-000110",
+        "doc": "dnli-20240418.htm"
+      }
+    },
+    {
+      "cik": "0001039065",
+      "name": "OSI SYSTEMS INC",
+      "sic": "3674",
+      "sicDescription": "Semiconductors & Related Devices",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-10-19",
+        "accn": "0001047469-18-006792",
+        "doc": "a2236940zdef14a.htm"
+      },
+      "post": {
+        "date": "2021-10-21",
+        "accn": "0001104659-21-128524",
+        "doc": "tm216596-1_def14a.htm"
+      },
+      "post2": {
+        "date": "2024-10-25",
+        "accn": "0001104659-24-111456",
+        "doc": "tm2419124-2_def14a.htm"
+      }
+    },
+    {
+      "cik": "0001056903",
+      "name": "AMERICAN STATES WATER CO",
+      "sic": "4941",
+      "sicDescription": "Water Supply",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-04-05",
+        "accn": "0001140361-18-017354",
+        "doc": "bp01106x1_def14a.htm"
+      },
+      "post": {
+        "date": "2021-04-05",
+        "accn": "0001140361-21-011605",
+        "doc": "nc10022307x1_def14a.htm"
+      },
+      "post2": {
+        "date": "2024-04-05",
+        "accn": "0001140361-24-018222",
+        "doc": "ny20018460x1_def14a.htm"
+      }
+    },
+    {
+      "cik": "0001547903",
+      "name": "NMI Holdings, Inc.",
+      "sic": "6351",
+      "sicDescription": "Surety Insurance",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-03-29",
+        "accn": "0001547903-18-000057",
+        "doc": "nmih2018proxy.htm"
+      },
+      "post": {
+        "date": "2021-03-30",
+        "accn": "0001547903-21-000083",
+        "doc": "nmih2021proxy.htm"
+      },
+      "post2": {
+        "date": "2024-03-28",
+        "accn": "0001547903-24-000091",
+        "doc": "nmih-20240327.htm"
+      }
+    },
+    {
+      "cik": "0000105132",
+      "name": "WD 40 CO",
+      "sic": "2890",
+      "sicDescription": "Miscellaneous Chemical Products",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-10-31",
+        "accn": "0000105132-18-000039",
+        "doc": "wdfc-20181031xdef14a.htm"
+      },
+      "post": {
+        "date": "2021-11-03",
+        "accn": "0000105132-21-000030",
+        "doc": "wdfc-20211103xdef14a.htm"
+      },
+      "post2": {
+        "date": "2024-11-08",
+        "accn": "0000105132-24-000085",
+        "doc": "wdfc-20241108.htm"
+      }
+    },
+    {
+      "cik": "0001169770",
+      "name": "BANC OF CALIFORNIA, INC.",
+      "sic": "6021",
+      "sicDescription": "National Commercial Banks",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-04-19",
+        "accn": "0001193125-18-122733",
+        "doc": "d537223ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-03-31",
+        "accn": "0001169770-21-000011",
+        "doc": "a2021bancproxy.htm"
+      },
+      "post2": {
+        "date": "2024-03-28",
+        "accn": "0001169770-24-000019",
+        "doc": "banc-20240328.htm"
+      }
+    },
+    {
+      "cik": "0001051627",
+      "name": "AXT INC",
+      "sic": "3674",
+      "sicDescription": "Semiconductors & Related Devices",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-04-13",
+        "accn": "0001558370-18-002970",
+        "doc": "def14a.htm"
+      },
+      "post": {
+        "date": "2021-04-09",
+        "accn": "0001558370-21-004119",
+        "doc": "tmb-20210520xdef14a.htm"
+      },
+      "post2": {
+        "date": "2024-04-05",
+        "accn": "0001558370-24-004782",
+        "doc": "axti-20240516xdef14a.htm"
+      }
+    },
+    {
+      "cik": "0000851520",
+      "name": "EXPONENT INC",
+      "sic": "8742",
+      "sicDescription": "Services-Management Consulting Services",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-04-17",
+        "accn": "0001144204-18-020941",
+        "doc": "tv491111_def14a.htm"
+      },
+      "post": {
+        "date": "2021-04-21",
+        "accn": "0001564590-21-019835",
+        "doc": "expo-def14a_20210603.htm"
+      },
+      "post2": {
+        "date": "2024-04-22",
+        "accn": "0000950170-24-046483",
+        "doc": "expo-20240422.htm"
+      }
+    },
+    {
+      "cik": "0001652535",
+      "name": "ICHOR HOLDINGS, LTD.",
+      "sic": "3674",
+      "sicDescription": "Semiconductors & Related Devices",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-04-05",
+        "accn": "0001564590-18-007623",
+        "doc": "ichr-def14a_20180509.htm"
+      },
+      "post": {
+        "date": "2021-04-07",
+        "accn": "0001564590-21-018004",
+        "doc": "ichr-def14a_20210511.htm"
+      },
+      "post2": {
+        "date": "2024-04-04",
+        "accn": "0001628280-24-014868",
+        "doc": "ichr-20240403.htm"
+      }
+    },
+    {
+      "cik": "0001650132",
+      "name": "Four Corners Property Trust, Inc.",
+      "sic": "6798",
+      "sicDescription": "Real Estate Investment Trusts",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-04-27",
+        "accn": "0001140361-18-020200",
+        "doc": "formdef14a.htm"
+      },
+      "post": {
+        "date": "2021-04-23",
+        "accn": "0001140361-21-014103",
+        "doc": "nc10023344x1_def14a.htm"
+      },
+      "post2": {
+        "date": "2024-04-19",
+        "accn": "0001140361-24-020837",
+        "doc": "ny20022009x1_def14a.htm"
+      }
+    },
+    {
+      "cik": "0000752714",
+      "name": "MCGRATH RENTCORP",
+      "sic": "7359",
+      "sicDescription": "Services-Equipment Rental & Leasing, NEC",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-04-27",
+        "accn": "0001193125-18-138833",
+        "doc": "d416895ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-04-27",
+        "accn": "0001193125-21-134205",
+        "doc": "d115657ddef14a.htm"
+      },
+      "post2": {
+        "date": "2024-10-30",
+        "accn": "0001193125-24-247613",
+        "doc": "d902722ddef14a.htm"
+      }
+    },
+    {
+      "cik": "0001515673",
+      "name": "Ultragenyx Pharmaceutical Inc.",
+      "sic": "2834",
+      "sicDescription": "Pharmaceutical Preparations",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-04-27",
+        "accn": "0001193125-18-136529",
+        "doc": "d556898ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-04-29",
+        "accn": "0001308179-21-000276",
+        "doc": "lrare2021_def14a.htm"
+      },
+      "post2": {
+        "date": "2024-04-26",
+        "accn": "0001308179-24-000609",
+        "doc": "lrare2024_def14a.htm"
+      }
+    },
+    {
+      "cik": "0001280263",
+      "name": "AMBARELLA INC",
+      "sic": "3674",
+      "sicDescription": "Semiconductors & Related Devices",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-04-27",
+        "accn": "0001193125-18-139211",
+        "doc": "d536327ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-04-30",
+        "accn": "0001193125-21-145192",
+        "doc": "d117640ddef14a.htm"
+      },
+      "post2": {
+        "date": "2024-05-03",
+        "accn": "0001193125-24-130845",
+        "doc": "d733791ddef14a.htm"
+      }
+    },
+    {
+      "cik": "0001616533",
+      "name": "Penguin Solutions, Inc.",
+      "sic": "3674",
+      "sicDescription": "Semiconductors & Related Devices",
+      "current_state": "CA",
+      "pre": {
+        "date": "2018-12-14",
+        "accn": "0000950103-18-014680",
+        "doc": "dp99623_def14a.htm"
+      },
+      "post": {
+        "date": "2021-12-21",
+        "accn": "0001140361-21-042634",
+        "doc": "edge20001253x1_def14a.htm"
+      },
+      "post2": {
+        "date": "2024-12-20",
+        "accn": "0001628280-24-052237",
+        "doc": "peng-20241220.htm"
+      }
+    }
+  ],
+  "control": [
+    {
+      "cik": "0000315189",
+      "name": "DEERE & CO",
+      "sic": "3523",
+      "sicDescription": "Farm Machinery & Equipment",
+      "current_state": "IL",
+      "pre": {
+        "date": "2018-01-12",
+        "accn": "0001206774-18-000081",
+        "doc": "deere3307111-def14a.htm"
+      },
+      "post": {
+        "date": "2021-01-08",
+        "accn": "0001206774-21-000055",
+        "doc": "de3809451-def14a.htm"
+      },
+      "post2": {
+        "date": "2024-01-10",
+        "accn": "0001558370-24-000170",
+        "doc": "de-20240228xdef14a.htm"
+      }
+    },
+    {
+      "cik": "0000097476",
+      "name": "TEXAS INSTRUMENTS INC",
+      "sic": "3674",
+      "sicDescription": "Semiconductors & Related Devices",
+      "current_state": "TX",
+      "pre": {
+        "date": "2018-03-13",
+        "accn": "0001193125-18-080243",
+        "doc": "d511269ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-03-09",
+        "accn": "0001193125-21-074319",
+        "doc": "d120322ddef14a.htm"
+      },
+      "post2": {
+        "date": "2024-03-12",
+        "accn": "0000097476-24-000012",
+        "doc": "txn-20240312.htm"
+      }
+    },
+    {
+      "cik": "0001113232",
+      "name": "AXCELIS TECHNOLOGIES INC",
+      "sic": "3559",
+      "sicDescription": "Special Industry Machinery, NEC",
+      "current_state": "MA",
+      "pre": {
+        "date": "2018-03-27",
+        "accn": "0001047469-18-002171",
+        "doc": "a2234748zdef14a.htm"
+      },
+      "post": {
+        "date": "2021-03-25",
+        "accn": "0001047469-21-000721",
+        "doc": "a2242987zdef14a.htm"
+      },
+      "post2": {
+        "date": "2024-03-29",
+        "accn": "0001104659-24-040855",
+        "doc": "tm242686-d4_def14a.htm"
+      }
+    },
+    {
+      "cik": "0000820318",
+      "name": "COHERENT CORP.",
+      "sic": "3827",
+      "sicDescription": "Optical Instruments & Lenses",
+      "current_state": "PA",
+      "pre": {
+        "date": "2018-09-21",
+        "accn": "0001193125-18-280041",
+        "doc": "d553509ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-10-07",
+        "accn": "0001193125-21-294198",
+        "doc": "d187295ddef14a.htm"
+      },
+      "post2": {
+        "date": "2024-10-04",
+        "accn": "0001193125-24-232597",
+        "doc": "d825037ddef14a.htm"
+      }
+    },
+    {
+      "cik": "0000875045",
+      "name": "BIOGEN INC.",
+      "sic": "2836",
+      "sicDescription": "Biological Products, (No Diagnostic Substances)",
+      "current_state": "MA",
+      "pre": {
+        "date": "2018-04-27",
+        "accn": "0001193125-18-138852",
+        "doc": "d519919ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-04-23",
+        "accn": "0001193125-21-129003",
+        "doc": "d602779ddef14a.htm"
+      },
+      "post2": {
+        "date": "2024-04-26",
+        "accn": "0001193125-24-118313",
+        "doc": "d547371ddef14a.htm"
+      }
+    },
+    {
+      "cik": "0000049826",
+      "name": "ILLINOIS TOOL WORKS INC",
+      "sic": "3560",
+      "sicDescription": "General Industrial Machinery & Equipment",
+      "current_state": "IL",
+      "pre": {
+        "date": "2018-03-23",
+        "accn": "0001193125-18-092882",
+        "doc": "d491986ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-03-26",
+        "accn": "0001193125-21-095481",
+        "doc": "d53919ddef14a.htm"
+      },
+      "post2": {
+        "date": "2024-03-22",
+        "accn": "0000049826-24-000012",
+        "doc": "itw-20240321.htm"
+      }
+    },
+    {
+      "cik": "0000069891",
+      "name": "NATIONAL BEVERAGE CORP",
+      "sic": "2086",
+      "sicDescription": "Bottled & Canned Soft Drinks & Carbonated Waters",
+      "current_state": "FL",
+      "pre": {
+        "date": "2018-08-27",
+        "accn": "0001437749-18-016143",
+        "doc": "fizz20180822_def14a.htm"
+      },
+      "post": {
+        "date": "2021-08-27",
+        "accn": "0001437749-21-021094",
+        "doc": "fizz20210819_def14a.htm"
+      },
+      "post2": {
+        "date": "2024-08-23",
+        "accn": "0001437749-24-027677",
+        "doc": "fizz20240820_def14a.htm"
+      }
+    },
+    {
+      "cik": "0000109198",
+      "name": "TJX COMPANIES INC /DE/",
+      "sic": "5651",
+      "sicDescription": "Retail-Family Clothing Stores",
+      "current_state": "MA",
+      "pre": {
+        "date": "2018-10-01",
+        "accn": "0001193125-18-288892",
+        "doc": "d621436ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-04-29",
+        "accn": "0000109198-21-000016",
+        "doc": "a2021proxystatement.htm"
+      },
+      "post2": {
+        "date": "2024-04-25",
+        "accn": "0000109198-24-000023",
+        "doc": "tjx-20240424.htm"
+      }
+    },
+    {
+      "cik": "0001341439",
+      "name": "ORACLE CORP",
+      "sic": "7372",
+      "sicDescription": "Services-Prepackaged Software",
+      "current_state": "TX",
+      "pre": {
+        "date": "2018-09-26",
+        "accn": "0001193125-18-283993",
+        "doc": "d623045ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-09-24",
+        "accn": "0001193125-21-282422",
+        "doc": "d162163ddef14a.htm"
+      },
+      "post2": {
+        "date": "2024-09-25",
+        "accn": "0001193125-24-226139",
+        "doc": "d860928ddef14a.htm"
+      }
+    },
+    {
+      "cik": "0000068505",
+      "name": "Motorola Solutions, Inc.",
+      "sic": "3663",
+      "sicDescription": "Radio & Tv Broadcasting & Communications Equipment",
+      "current_state": "IL",
+      "pre": {
+        "date": "2018-03-28",
+        "accn": "0001193125-18-098522",
+        "doc": "d641073ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-04-01",
+        "accn": "0001193125-21-103275",
+        "doc": "d25774ddef14a.htm"
+      },
+      "post2": {
+        "date": "2024-03-28",
+        "accn": "0001193125-24-079648",
+        "doc": "d517482ddef14a.htm"
+      }
+    },
+    {
+      "cik": "0001037868",
+      "name": "AMETEK INC/",
+      "sic": "3823",
+      "sicDescription": "Industrial Instruments For Measurement, Display, and Control",
+      "current_state": "PA",
+      "pre": {
+        "date": "2018-03-26",
+        "accn": "0001564590-18-006759",
+        "doc": "ame-def14a_20180508.htm"
+      },
+      "post": {
+        "date": "2021-03-15",
+        "accn": "0001564590-21-013035",
+        "doc": "ame-def14a_20210506.htm"
+      },
+      "post2": {
+        "date": "2024-03-12",
+        "accn": "0001037868-24-000022",
+        "doc": "ame-20240312.htm"
+      }
+    },
+    {
+      "cik": "0001408198",
+      "name": "MSCI Inc.",
+      "sic": "7389",
+      "sicDescription": "Services-Business Services, NEC",
+      "current_state": "NY",
+      "pre": {
+        "date": "2018-03-23",
+        "accn": "0001193125-18-093925",
+        "doc": "d520986ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-03-17",
+        "accn": "0001193125-21-083833",
+        "doc": "d131690ddef14a.htm"
+      },
+      "post2": {
+        "date": "2024-03-13",
+        "accn": "0001408198-24-000061",
+        "doc": "msci-20240313.htm"
+      }
+    },
+    {
+      "cik": "0000946581",
+      "name": "TAKE TWO INTERACTIVE SOFTWARE INC",
+      "sic": "7372",
+      "sicDescription": "Services-Prepackaged Software",
+      "current_state": "NY",
+      "pre": {
+        "date": "2018-07-26",
+        "accn": "0001193125-18-227858",
+        "doc": "d534727ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-07-27",
+        "accn": "0001193125-21-225858",
+        "doc": "d148254ddef14a.htm"
+      },
+      "post2": {
+        "date": "2024-07-25",
+        "accn": "0001308179-24-000655",
+        "doc": "lttwo2024_def14a.htm"
+      }
+    },
+    {
+      "cik": "0000788784",
+      "name": "PUBLIC SERVICE ENTERPRISE GROUP INC",
+      "sic": "4931",
+      "sicDescription": "Electric & Other Services Combined",
+      "current_state": "NJ",
+      "pre": {
+        "date": "2018-03-13",
+        "accn": "0001193125-18-080174",
+        "doc": "d506614ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-03-15",
+        "accn": "0001193125-21-081444",
+        "doc": "d85714ddef14a.htm"
+      },
+      "post2": {
+        "date": "2024-03-07",
+        "accn": "0001193125-24-062240",
+        "doc": "d518938ddef14a.htm"
+      }
+    },
+    {
+      "cik": "0001000697",
+      "name": "WATERS CORP /DE/",
+      "sic": "3826",
+      "sicDescription": "Laboratory Analytical Instruments",
+      "current_state": "MA",
+      "pre": {
+        "date": "2018-03-29",
+        "accn": "0001193125-18-100746",
+        "doc": "d519741ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-04-01",
+        "accn": "0001193125-21-103271",
+        "doc": "d15964ddef14a.htm"
+      },
+      "post2": {
+        "date": "2024-04-12",
+        "accn": "0001193125-24-094000",
+        "doc": "d873997ddef14a.htm"
+      }
+    },
+    {
+      "cik": "0001701605",
+      "name": "Baker Hughes Co",
+      "sic": "3533",
+      "sicDescription": "Oil & Gas Field Machinery & Equipment",
+      "current_state": "TX",
+      "pre": {
+        "date": "2018-03-23",
+        "accn": "0001701605-18-000036",
+        "doc": "a2018proxystatement.htm"
+      },
+      "post": {
+        "date": "2021-03-29",
+        "accn": "0001701605-21-000039",
+        "doc": "a2021proxystatement.htm"
+      },
+      "post2": {
+        "date": "2024-04-02",
+        "accn": "0001193125-24-084804",
+        "doc": "d687069ddef14a.htm"
+      }
+    },
+    {
+      "cik": "0000310764",
+      "name": "STRYKER CORP",
+      "sic": "3841",
+      "sicDescription": "Surgical & Medical Instruments & Apparatus",
+      "current_state": "MI",
+      "pre": {
+        "date": "2018-03-21",
+        "accn": "0000310764-18-000065",
+        "doc": "syk2018proxy.htm"
+      },
+      "post": {
+        "date": "2021-03-24",
+        "accn": "0000310764-21-000051",
+        "doc": "syk2021proxy.htm"
+      },
+      "post2": {
+        "date": "2024-03-26",
+        "accn": "0000310764-24-000054",
+        "doc": "syk-20240326.htm"
+      }
+    },
+    {
+      "cik": "0001402436",
+      "name": "SS&C Technologies Holdings Inc",
+      "sic": "7372",
+      "sicDescription": "Services-Prepackaged Software",
+      "current_state": "CT",
+      "pre": {
+        "date": "2018-04-06",
+        "accn": "0001564590-18-007762",
+        "doc": "ssnc-def14a_20180516.htm"
+      },
+      "post": {
+        "date": "2021-04-06",
+        "accn": "0001564590-21-017847",
+        "doc": "ssnc-def14a_20210519.htm"
+      },
+      "post2": {
+        "date": "2024-04-12",
+        "accn": "0000950170-24-044028",
+        "doc": "ssnc-20240412.htm"
+      }
+    },
+    {
+      "cik": "0001326380",
+      "name": "GameStop Corp.",
+      "sic": "5734",
+      "sicDescription": "Retail-Computer & Computer Software Stores",
+      "current_state": "TX",
+      "pre": {
+        "date": "2018-05-16",
+        "accn": "0001326380-18-000052",
+        "doc": "a2018defproxystatement.htm"
+      },
+      "post": {
+        "date": "2021-04-22",
+        "accn": "0001193125-21-126940",
+        "doc": "d122967ddef14a.htm"
+      },
+      "post2": {
+        "date": "2024-04-30",
+        "accn": "0001193125-24-125061",
+        "doc": "d786757ddef14a.htm"
+      }
+    },
+    {
+      "cik": "0001156375",
+      "name": "CME GROUP INC.",
+      "sic": "6200",
+      "sicDescription": "Security & Commodity Brokers, Dealers, Exchanges & Services",
+      "current_state": "IL",
+      "pre": {
+        "date": "2018-09-11",
+        "accn": "0001193125-18-270505",
+        "doc": "d589155ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-03-19",
+        "accn": "0001193125-21-086057",
+        "doc": "d117030ddef14a.htm"
+      },
+      "post2": {
+        "date": "2024-03-18",
+        "accn": "0001156375-24-000018",
+        "doc": "cme-20240318.htm"
+      }
+    },
+    {
+      "cik": "0001014473",
+      "name": "VERISIGN INC/CA",
+      "sic": "7371",
+      "sicDescription": "Services-Computer Programming Services",
+      "current_state": "VA",
+      "pre": {
+        "date": "2018-04-11",
+        "accn": "0001014473-18-000023",
+        "doc": "a2018definitiveproxystatem.htm"
+      },
+      "post": {
+        "date": "2021-04-13",
+        "accn": "0001014473-21-000010",
+        "doc": "a2021definitiveproxystatem.htm"
+      },
+      "post2": {
+        "date": "2024-04-10",
+        "accn": "0001014473-24-000015",
+        "doc": "vrsn-20240410.htm"
+      }
+    },
+    {
+      "cik": "0000766704",
+      "name": "WELLTOWER INC.",
+      "sic": "6798",
+      "sicDescription": "Real Estate Investment Trusts",
+      "current_state": "OH",
+      "pre": {
+        "date": "2018-03-23",
+        "accn": "0001193125-18-092835",
+        "doc": "d506197ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-04-16",
+        "accn": "0001193125-21-118460",
+        "doc": "d49250ddef14a.htm"
+      },
+      "post2": {
+        "date": "2024-04-12",
+        "accn": "0000766704-24-000015",
+        "doc": "well-20240412.htm"
+      }
+    },
+    {
+      "cik": "0001015328",
+      "name": "WINTRUST FINANCIAL CORP",
+      "sic": "6022",
+      "sicDescription": "State Commercial Banks",
+      "current_state": "IL",
+      "pre": {
+        "date": "2018-04-06",
+        "accn": "0001015328-18-000104",
+        "doc": "proxystatementv1.htm"
+      },
+      "post": {
+        "date": "2021-04-08",
+        "accn": "0001015328-21-000096",
+        "doc": "a2021proxystatement.htm"
+      },
+      "post2": {
+        "date": "2024-04-04",
+        "accn": "0001104659-24-043637",
+        "doc": "tm242924-2_def14a.htm"
+      }
+    },
+    {
+      "cik": "0000842023",
+      "name": "BIO-TECHNE Corp",
+      "sic": "2836",
+      "sicDescription": "Biological Products, (No Diagnostic Substances)",
+      "current_state": "MN",
+      "pre": {
+        "date": "2018-09-11",
+        "accn": "0001437749-18-016854",
+        "doc": "tech20180906_def14a.htm"
+      },
+      "post": {
+        "date": "2021-09-14",
+        "accn": "0001140361-21-031213",
+        "doc": "ny20000506x1_def14a.htm"
+      },
+      "post2": {
+        "date": "2024-09-12",
+        "accn": "0001308179-24-000703",
+        "doc": "ltech2024_def14a.htm"
+      }
+    },
+    {
+      "cik": "0000029905",
+      "name": "DOVER Corp",
+      "sic": "3530",
+      "sicDescription": "Construction, Mining & Materials Handling Machinery & Equip",
+      "current_state": "IL",
+      "pre": {
+        "date": "2018-03-22",
+        "accn": "0001193125-18-092116",
+        "doc": "d553246ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-03-18",
+        "accn": "0001193125-21-085115",
+        "doc": "d107384ddef14a.htm"
+      },
+      "post2": {
+        "date": "2024-03-21",
+        "accn": "0001193125-24-073302",
+        "doc": "d826597ddef14a.htm"
+      }
+    },
+    {
+      "cik": "0000857005",
+      "name": "PTC INC.",
+      "sic": "7372",
+      "sicDescription": "Services-Prepackaged Software",
+      "current_state": "MA",
+      "pre": {
+        "date": "2018-01-24",
+        "accn": "0001206774-18-000272",
+        "doc": "ptc3324771-def14a.htm"
+      },
+      "post": {
+        "date": "2021-12-20",
+        "accn": "0001206774-21-002894",
+        "doc": "ptc3973771-def14a.htm"
+      },
+      "post2": {
+        "date": "2024-01-03",
+        "accn": "0001104659-24-000848",
+        "doc": "tm2322323-3_def14a.htm"
+      }
+    },
+    {
+      "cik": "0001324948",
+      "name": "RBC Bearings INC",
+      "sic": "3562",
+      "sicDescription": "Ball & Roller Bearings",
+      "current_state": "CT",
+      "pre": {
+        "date": "2018-07-27",
+        "accn": "0001615774-18-006985",
+        "doc": "s111587_def14a.htm"
+      },
+      "post": {
+        "date": "2021-07-30",
+        "accn": "0001213900-21-039523",
+        "doc": "ea145007-def14a_rbcbearings.htm"
+      },
+      "post2": {
+        "date": "2024-07-26",
+        "accn": "0001140361-24-034358",
+        "doc": "ny20031841x2_def14a.htm"
+      }
+    },
+    {
+      "cik": "0001334036",
+      "name": "Crocs, Inc.",
+      "sic": "3021",
+      "sicDescription": "Rubber & Plastics Footwear",
+      "current_state": "CO",
+      "pre": {
+        "date": "2018-04-24",
+        "accn": "0001628280-18-004920",
+        "doc": "crox2018proxy.htm"
+      },
+      "post": {
+        "date": "2021-04-23",
+        "accn": "0001334036-21-000063",
+        "doc": "crox2021proxy.htm"
+      },
+      "post2": {
+        "date": "2024-04-23",
+        "accn": "0001334036-24-000084",
+        "doc": "crox-20240423.htm"
+      }
+    },
+    {
+      "cik": "0001711279",
+      "name": "Krystal Biotech, Inc.",
+      "sic": "2836",
+      "sicDescription": "Biological Products, (No Diagnostic Substances)",
+      "current_state": "PA",
+      "pre": {
+        "date": "2018-04-20",
+        "accn": "0001193125-18-124863",
+        "doc": "d540976ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-04-06",
+        "accn": "0001193125-21-107627",
+        "doc": "d148315ddef14a.htm"
+      },
+      "post2": {
+        "date": "2024-04-04",
+        "accn": "0001711279-24-000013",
+        "doc": "krys-20240403.htm"
+      }
+    },
+    {
+      "cik": "0000866374",
+      "name": "FLEX LTD.",
+      "sic": "3672",
+      "sicDescription": "Printed Circuit Boards",
+      "current_state": "TX",
+      "pre": {
+        "date": "2018-07-05",
+        "accn": "0001104659-18-044016",
+        "doc": "a18-2481_2def14a.htm"
+      },
+      "post": {
+        "date": "2021-06-25",
+        "accn": "0001308179-21-000297",
+        "doc": "lflex2021_def14a.htm"
+      },
+      "post2": {
+        "date": "2024-06-25",
+        "accn": "0001308179-24-000647",
+        "doc": "lflex2024_def14a.htm"
+      }
+    },
+    {
+      "cik": "0000105770",
+      "name": "WEST PHARMACEUTICAL SERVICES INC",
+      "sic": "3841",
+      "sicDescription": "Surgical & Medical Instruments & Apparatus",
+      "current_state": "PA",
+      "pre": {
+        "date": "2018-03-21",
+        "accn": "0001104659-18-019091",
+        "doc": "a18-2944_2def14a.htm"
+      },
+      "post": {
+        "date": "2021-03-24",
+        "accn": "0001047469-21-000692",
+        "doc": "a2243036zdef14a.htm"
+      },
+      "post2": {
+        "date": "2024-03-13",
+        "accn": "0001558370-24-003056",
+        "doc": "wst-20240423xdef14a.htm"
+      }
+    },
+    {
+      "cik": "0001404655",
+      "name": "HUBSPOT INC",
+      "sic": "7372",
+      "sicDescription": "Services-Prepackaged Software",
+      "current_state": "MA",
+      "pre": {
+        "date": "2018-04-26",
+        "accn": "0001564590-18-009308",
+        "doc": "hubs-def14a_20180606.htm"
+      },
+      "post": {
+        "date": "2021-04-23",
+        "accn": "0001564590-21-020337",
+        "doc": "hubs-def14a_20210603.htm"
+      },
+      "post2": {
+        "date": "2024-04-25",
+        "accn": "0000950170-24-048382",
+        "doc": "hubs-20240425.htm"
+      }
+    },
+    {
+      "cik": "0000899051",
+      "name": "ALLSTATE CORP",
+      "sic": "6331",
+      "sicDescription": "Fire, Marine & Casualty Insurance",
+      "current_state": "IL",
+      "pre": {
+        "date": "2018-03-28",
+        "accn": "0001206774-18-000988",
+        "doc": "allstate3288151-def14a.htm"
+      },
+      "post": {
+        "date": "2021-04-12",
+        "accn": "0001206774-21-001081",
+        "doc": "all3822771-def14a.htm"
+      },
+      "post2": {
+        "date": "2024-04-01",
+        "accn": "0001308179-24-000404",
+        "doc": "all4258441-def14a.htm"
+      }
+    },
+    {
+      "cik": "0001053507",
+      "name": "AMERICAN TOWER CORP /MA/",
+      "sic": "6798",
+      "sicDescription": "Real Estate Investment Trusts",
+      "current_state": "MA",
+      "pre": {
+        "date": "2018-04-12",
+        "accn": "0001193125-18-114920",
+        "doc": "d563232ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-04-14",
+        "accn": "0001053507-21-000075",
+        "doc": "americantowercorporation20.htm"
+      },
+      "post2": {
+        "date": "2024-04-10",
+        "accn": "0001053507-24-000075",
+        "doc": "amt-20240408.htm"
+      }
+    },
+    {
+      "cik": "0001551152",
+      "name": "AbbVie Inc.",
+      "sic": "2834",
+      "sicDescription": "Pharmaceutical Preparations",
+      "current_state": "IL",
+      "pre": {
+        "date": "2018-03-19",
+        "accn": "0001047469-18-001843",
+        "doc": "a2234787zdef14a.htm"
+      },
+      "post": {
+        "date": "2021-03-22",
+        "accn": "0001558370-21-003318",
+        "doc": "tmb-20210507xdef14a.htm"
+      },
+      "post2": {
+        "date": "2024-03-18",
+        "accn": "0001558370-24-003496",
+        "doc": "abbv-20240503xdef14a.htm"
+      }
+    },
+    {
+      "cik": "0001493594",
+      "name": "MACOM Technology Solutions Holdings, Inc.",
+      "sic": "3674",
+      "sicDescription": "Semiconductors & Related Devices",
+      "current_state": "MA",
+      "pre": {
+        "date": "2018-01-16",
+        "accn": "0001193125-18-010511",
+        "doc": "d491757ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-01-15",
+        "accn": "0001493594-21-000004",
+        "doc": "proxy_fy20.htm"
+      },
+      "post2": {
+        "date": "2024-01-17",
+        "accn": "0001493594-24-000014",
+        "doc": "mtsi-20240117.htm"
+      }
+    },
+    {
+      "cik": "0000898293",
+      "name": "JABIL INC",
+      "sic": "3672",
+      "sicDescription": "Printed Circuit Boards",
+      "current_state": "FL",
+      "pre": {
+        "date": "2018-12-10",
+        "accn": "0001174947-18-001442",
+        "doc": "def14a-20975_jabil.htm"
+      },
+      "post": {
+        "date": "2021-12-10",
+        "accn": "0001193125-21-354004",
+        "doc": "d231312ddef14a.htm"
+      },
+      "post2": {
+        "date": "2024-12-12",
+        "accn": "0001193125-24-277123",
+        "doc": "d67416ddef14a.htm"
+      }
+    },
+    {
+      "cik": "0000872589",
+      "name": "REGENERON PHARMACEUTICALS, INC.",
+      "sic": "2834",
+      "sicDescription": "Pharmaceutical Preparations",
+      "current_state": "NY",
+      "pre": {
+        "date": "2018-04-23",
+        "accn": "0001047469-18-003073",
+        "doc": "a2234921zdef14a.htm"
+      },
+      "post": {
+        "date": "2021-04-23",
+        "accn": "0000930413-21-000869",
+        "doc": "c101011_def14a.htm"
+      },
+      "post2": {
+        "date": "2024-04-25",
+        "accn": "0001308179-24-000577",
+        "doc": "lregn2024_def14a.htm"
+      }
+    },
+    {
+      "cik": "0001022079",
+      "name": "QUEST DIAGNOSTICS INC",
+      "sic": "8071",
+      "sicDescription": "Services-Medical Laboratories",
+      "current_state": "NJ",
+      "pre": {
+        "date": "2018-04-04",
+        "accn": "0000930413-18-001188",
+        "doc": "c90545_def14a.htm"
+      },
+      "post": {
+        "date": "2021-04-09",
+        "accn": "0000930413-21-000760",
+        "doc": "c101424_def14a.htm"
+      },
+      "post2": {
+        "date": "2024-04-05",
+        "accn": "0000930413-24-001247",
+        "doc": "c108438_def14a-ixbrl.htm"
+      }
+    },
+    {
+      "cik": "0001297996",
+      "name": "DIGITAL REALTY TRUST, INC.",
+      "sic": "6798",
+      "sicDescription": "Real Estate Investment Trusts",
+      "current_state": "TX",
+      "pre": {
+        "date": "2018-03-29",
+        "accn": "0001308179-18-000099",
+        "doc": "ldlr_2018def14a.htm"
+      },
+      "post": {
+        "date": "2021-04-23",
+        "accn": "0001308179-21-000254",
+        "doc": "ldlr2021_def14a.htm"
+      },
+      "post2": {
+        "date": "2024-04-26",
+        "accn": "0001308179-24-000607",
+        "doc": "ldlr2024_def14a.htm"
+      }
+    },
+    {
+      "cik": "0001178670",
+      "name": "ALNYLAM PHARMACEUTICALS, INC.",
+      "sic": "2834",
+      "sicDescription": "Pharmaceutical Preparations",
+      "current_state": "MA",
+      "pre": {
+        "date": "2018-03-23",
+        "accn": "0001193125-18-094195",
+        "doc": "d519796ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-04-02",
+        "accn": "0001193125-21-105193",
+        "doc": "d19975ddef14a.htm"
+      },
+      "post2": {
+        "date": "2024-04-01",
+        "accn": "0001193125-24-083454",
+        "doc": "d761542ddef14a.htm"
+      }
+    },
+    {
+      "cik": "0001415404",
+      "name": "EchoStar CORP",
+      "sic": "4899",
+      "sicDescription": "Communications Services, NEC",
+      "current_state": "CO",
+      "pre": {
+        "date": "2018-03-20",
+        "accn": "0001415404-18-000009",
+        "doc": "sats2018proxystatement.htm"
+      },
+      "post": {
+        "date": "2021-03-17",
+        "accn": "0001415404-21-000011",
+        "doc": "a2021satsproxystatement.htm"
+      },
+      "post2": {
+        "date": "2024-03-20",
+        "accn": "0001104659-24-036703",
+        "doc": "tm242929d2_def14a.htm"
+      }
+    },
+    {
+      "cik": "0001626115",
+      "name": "PJT Partners Inc.",
+      "sic": "6282",
+      "sicDescription": "Investment Advice",
+      "current_state": "NY",
+      "pre": {
+        "date": "2018-03-16",
+        "accn": "0001193125-18-085930",
+        "doc": "d494408ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-03-16",
+        "accn": "0001193125-21-082884",
+        "doc": "d880476ddef14a.htm"
+      },
+      "post2": {
+        "date": "2024-04-29",
+        "accn": "0001140361-24-022675",
+        "doc": "ny20023511x1_def14a.htm"
+      }
+    },
+    {
+      "cik": "0000730272",
+      "name": "REPLIGEN CORP",
+      "sic": "2836",
+      "sicDescription": "Biological Products, (No Diagnostic Substances)",
+      "current_state": "MA",
+      "pre": {
+        "date": "2018-04-20",
+        "accn": "0001193125-18-123735",
+        "doc": "d529721ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-04-21",
+        "accn": "0001193125-21-123603",
+        "doc": "d95425ddef14a.htm"
+      },
+      "post2": {
+        "date": "2024-04-01",
+        "accn": "0001193125-24-083397",
+        "doc": "d437460ddef14a.htm"
+      }
+    },
+    {
+      "cik": "0001145197",
+      "name": "INSULET CORP",
+      "sic": "3841",
+      "sicDescription": "Surgical & Medical Instruments & Apparatus",
+      "current_state": "MA",
+      "pre": {
+        "date": "2018-04-06",
+        "accn": "0001308179-18-000147",
+        "doc": "lpodd2018_def14a.htm"
+      },
+      "post": {
+        "date": "2021-04-13",
+        "accn": "0001140361-21-012583",
+        "doc": "nc10019032x1_def14a.htm"
+      },
+      "post2": {
+        "date": "2024-04-09",
+        "accn": "0001140361-24-018846",
+        "doc": "ny20016889x1_def14a.htm"
+      }
+    },
+    {
+      "cik": "0001158114",
+      "name": "APPLIED OPTOELECTRONICS, INC.",
+      "sic": "3674",
+      "sicDescription": "Semiconductors & Related Devices",
+      "current_state": "TX",
+      "pre": {
+        "date": "2018-04-27",
+        "accn": "0001047469-18-003294",
+        "doc": "a2235421zdef14a.htm"
+      },
+      "post": {
+        "date": "2021-04-23",
+        "accn": "0001104659-21-054497",
+        "doc": "tm212346-1_def14a.htm"
+      },
+      "post2": {
+        "date": "2024-04-26",
+        "accn": "0001104659-24-052897",
+        "doc": "tm242667d4_def14a.htm"
+      }
+    },
+    {
+      "cik": "0001104506",
+      "name": "INSMED Inc",
+      "sic": "2834",
+      "sicDescription": "Pharmaceutical Preparations",
+      "current_state": "NJ",
+      "pre": {
+        "date": "2018-04-05",
+        "accn": "0001047469-18-002564",
+        "doc": "a2235219zdef14a.htm"
+      },
+      "post": {
+        "date": "2021-04-01",
+        "accn": "0001140361-21-011236",
+        "doc": "nc10021629x1_def14a.htm"
+      },
+      "post2": {
+        "date": "2024-04-01",
+        "accn": "0001140361-24-016917",
+        "doc": "ny20015223x1_def14a.htm"
+      }
+    },
+    {
+      "cik": "0001013237",
+      "name": "FACTSET RESEARCH SYSTEMS INC",
+      "sic": "7370",
+      "sicDescription": "Services-Computer Programming, Data Processing, Etc.",
+      "current_state": "CT",
+      "pre": {
+        "date": "2018-10-30",
+        "accn": "0001437749-18-019031",
+        "doc": "fds20181028_def14a.htm"
+      },
+      "post": {
+        "date": "2021-10-29",
+        "accn": "0001013237-21-000147",
+        "doc": "fds-20210831xproxy.htm"
+      },
+      "post2": {
+        "date": "2024-10-30",
+        "accn": "0001013237-24-000145",
+        "doc": "fds-20241029.htm"
+      }
+    },
+    {
+      "cik": "0001393311",
+      "name": "Public Storage",
+      "sic": "6798",
+      "sicDescription": "Real Estate Investment Trusts",
+      "current_state": "TX",
+      "pre": {
+        "date": "2018-03-16",
+        "accn": "0001193125-18-084722",
+        "doc": "d517720ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-03-16",
+        "accn": "0001193125-21-082780",
+        "doc": "d848425ddef14a.htm"
+      },
+      "post2": {
+        "date": "2024-03-25",
+        "accn": "0000950170-24-035899",
+        "doc": "psa-20240322.htm"
+      }
+    },
+    {
+      "cik": "0001038074",
+      "name": "SILICON LABORATORIES INC.",
+      "sic": "3674",
+      "sicDescription": "Semiconductors & Related Devices",
+      "current_state": "TX",
+      "pre": {
+        "date": "2018-03-08",
+        "accn": "0001193125-18-075145",
+        "doc": "d511285ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-03-10",
+        "accn": "0001193125-21-076203",
+        "doc": "d51058ddef14a.htm"
+      },
+      "post2": {
+        "date": "2024-03-06",
+        "accn": "0001193125-24-060713",
+        "doc": "d600485ddef14a.htm"
+      }
+    },
+    {
+      "cik": "0000031791",
+      "name": "REVVITY, INC.",
+      "sic": "3826",
+      "sicDescription": "Laboratory Analytical Instruments",
+      "current_state": "MA",
+      "pre": {
+        "date": "2018-03-14",
+        "accn": "0001193125-18-081380",
+        "doc": "d510513ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-03-10",
+        "accn": "0001193125-21-075556",
+        "doc": "d15283ddef14a.htm"
+      },
+      "post2": {
+        "date": "2024-03-13",
+        "accn": "0001193125-24-066406",
+        "doc": "d109956ddef14a.htm"
+      }
+    },
+    {
+      "cik": "0000102752",
+      "name": "VSE CORP",
+      "sic": "8711",
+      "sicDescription": "Services-Engineering Services",
+      "current_state": "FL",
+      "pre": {
+        "date": "2018-04-02",
+        "accn": "0000102752-18-000014",
+        "doc": "vsec-def14axproxystatement.htm"
+      },
+      "post": {
+        "date": "2021-04-02",
+        "accn": "0000102752-21-000042",
+        "doc": "vsec-def14axproxystatement.htm"
+      },
+      "post2": {
+        "date": "2024-04-02",
+        "accn": "0000102752-24-000033",
+        "doc": "vsec-20240401.htm"
+      }
+    },
+    {
+      "cik": "0001705696",
+      "name": "VICI PROPERTIES INC.",
+      "sic": "6798",
+      "sicDescription": "Real Estate Investment Trusts",
+      "current_state": "NY",
+      "pre": {
+        "date": "2018-06-21",
+        "accn": "0001193125-18-198692",
+        "doc": "d566068ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-03-15",
+        "accn": "0001193125-21-081388",
+        "doc": "d53575ddef14a.htm"
+      },
+      "post2": {
+        "date": "2024-03-14",
+        "accn": "0001104659-24-034510",
+        "doc": "tm2324899d4_def14a.htm"
+      }
+    },
+    {
+      "cik": "0001324404",
+      "name": "CF Industries Holdings, Inc.",
+      "sic": "2870",
+      "sicDescription": "Agricultural Chemicals",
+      "current_state": "IL",
+      "pre": {
+        "date": "2018-03-29",
+        "accn": "0001047469-18-002337",
+        "doc": "a2234891zdef14a.htm"
+      },
+      "post": {
+        "date": "2021-03-23",
+        "accn": "0001047469-21-000679",
+        "doc": "a2243056zdef14a.htm"
+      },
+      "post2": {
+        "date": "2024-03-07",
+        "accn": "0001104659-24-031807",
+        "doc": "tm242770d2_def14a.htm"
+      }
+    },
+    {
+      "cik": "0001138118",
+      "name": "CBRE GROUP, INC.",
+      "sic": "6500",
+      "sicDescription": "Real Estate",
+      "current_state": "TX",
+      "pre": {
+        "date": "2018-04-05",
+        "accn": "0001193125-18-108719",
+        "doc": "d525817ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-04-05",
+        "accn": "0001193125-21-105528",
+        "doc": "d100729ddef14a.htm"
+      },
+      "post2": {
+        "date": "2024-04-12",
+        "accn": "0001193125-24-093832",
+        "doc": "d721540ddef14a.htm"
+      }
+    },
+    {
+      "cik": "0000772406",
+      "name": "CIRRUS LOGIC, INC.",
+      "sic": "3674",
+      "sicDescription": "Semiconductors & Related Devices",
+      "current_state": "TX",
+      "pre": {
+        "date": "2018-06-06",
+        "accn": "0001193125-18-185589",
+        "doc": "d483618ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-06-03",
+        "accn": "0000772406-21-000019",
+        "doc": "fy21proxy.htm"
+      },
+      "post2": {
+        "date": "2024-06-03",
+        "accn": "0000772406-24-000041",
+        "doc": "crus-20240603.htm"
+      }
+    },
+    {
+      "cik": "0001056696",
+      "name": "MANHATTAN ASSOCIATES INC",
+      "sic": "7372",
+      "sicDescription": "Services-Prepackaged Software",
+      "current_state": "GA",
+      "pre": {
+        "date": "2018-04-04",
+        "accn": "0001564590-18-007588",
+        "doc": "manh-def14a_20180517.htm"
+      },
+      "post": {
+        "date": "2021-03-31",
+        "accn": "0001564590-21-017007",
+        "doc": "manh-def14a_20210513.htm"
+      },
+      "post2": {
+        "date": "2024-04-12",
+        "accn": "0000950170-24-044026",
+        "doc": "manh-20240409.htm"
+      }
+    },
+    {
+      "cik": "0001157601",
+      "name": "MADRIGAL PHARMACEUTICALS, INC.",
+      "sic": "2834",
+      "sicDescription": "Pharmaceutical Preparations",
+      "current_state": "PA",
+      "pre": {
+        "date": "2018-04-27",
+        "accn": "0001140361-18-020146",
+        "doc": "bp09373x1_def14a.htm"
+      },
+      "post": {
+        "date": "2021-04-30",
+        "accn": "0001193125-21-144922",
+        "doc": "d107927ddef14a.htm"
+      },
+      "post2": {
+        "date": "2024-04-29",
+        "accn": "0001193125-24-122657",
+        "doc": "d680809ddef14a.htm"
+      }
+    },
+    {
+      "cik": "0000103145",
+      "name": "VEECO INSTRUMENTS INC",
+      "sic": "3559",
+      "sicDescription": "Special Industry Machinery, NEC",
+      "current_state": "NY",
+      "pre": {
+        "date": "2018-03-19",
+        "accn": "0001104659-18-018471",
+        "doc": "a18-2880_1def14a.htm"
+      },
+      "post": {
+        "date": "2021-03-17",
+        "accn": "0001104659-21-037680",
+        "doc": "tm212521-1_def14a.htm"
+      },
+      "post2": {
+        "date": "2024-03-21",
+        "accn": "0001104659-24-037293",
+        "doc": "tm242731d2_def14a.htm"
+      }
+    },
+    {
+      "cik": "0001579428",
+      "name": "Axsome Therapeutics, Inc.",
+      "sic": "2834",
+      "sicDescription": "Pharmaceutical Preparations",
+      "current_state": "NY",
+      "pre": {
+        "date": "2018-04-30",
+        "accn": "0001047469-18-003312",
+        "doc": "a2235525zdef14a.htm"
+      },
+      "post": {
+        "date": "2021-04-23",
+        "accn": "0001564590-21-020383",
+        "doc": "axsm-def14a_20210423.htm"
+      },
+      "post2": {
+        "date": "2024-04-26",
+        "accn": "0000950170-24-049221",
+        "doc": "axsm-20240426.htm"
+      }
+    },
+    {
+      "cik": "0000909832",
+      "name": "COSTCO WHOLESALE CORP /NEW",
+      "sic": "5331",
+      "sicDescription": "Retail-Variety Stores",
+      "current_state": "WA",
+      "pre": {
+        "date": "2018-12-17",
+        "accn": "0000909832-18-000018",
+        "doc": "costproxy2018.htm"
+      },
+      "post": {
+        "date": "2021-12-10",
+        "accn": "0000909832-21-000017",
+        "doc": "costproxy2021.htm"
+      },
+      "post2": {
+        "date": "2024-12-11",
+        "accn": "0000909832-24-000072",
+        "doc": "cost-20241209.htm"
+      }
+    },
+    {
+      "cik": "0001591698",
+      "name": "Paylocity Holding Corp",
+      "sic": "7372",
+      "sicDescription": "Services-Prepackaged Software",
+      "current_state": "IL",
+      "pre": {
+        "date": "2018-10-23",
+        "accn": "0001206774-18-002966",
+        "doc": "pcty3437851-def14a.htm"
+      },
+      "post": {
+        "date": "2021-10-21",
+        "accn": "0001206774-21-002633",
+        "doc": "pcty3948941-def14a.htm"
+      },
+      "post2": {
+        "date": "2024-10-24",
+        "accn": "0001591698-24-000268",
+        "doc": "pcty-20241022.htm"
+      }
+    },
+    {
+      "cik": "0000874238",
+      "name": "STERLING INFRASTRUCTURE, INC.",
+      "sic": "1600",
+      "sicDescription": "Heavy Construction Other Than Bldg Const - Contractors",
+      "current_state": "TX",
+      "pre": {
+        "date": "2018-03-20",
+        "accn": "0000874238-18-000034",
+        "doc": "strl_03202018xdef14axproxy.htm"
+      },
+      "post": {
+        "date": "2021-03-24",
+        "accn": "0000874238-21-000021",
+        "doc": "a20210324def14a-definitive.htm"
+      },
+      "post2": {
+        "date": "2024-03-26",
+        "accn": "0000874238-24-000067",
+        "doc": "strl-20240325.htm"
+      }
+    },
+    {
+      "cik": "0001111928",
+      "name": "IPG PHOTONICS CORP",
+      "sic": "3674",
+      "sicDescription": "Semiconductors & Related Devices",
+      "current_state": "MA",
+      "pre": {
+        "date": "2018-04-10",
+        "accn": "0001111928-18-000057",
+        "doc": "a2018proxy.htm"
+      },
+      "post": {
+        "date": "2021-04-09",
+        "accn": "0001111928-21-000084",
+        "doc": "ipgphotonicsproxy2021.htm"
+      },
+      "post2": {
+        "date": "2024-05-09",
+        "accn": "0001111928-24-000077",
+        "doc": "ipgp-20240506.htm"
+      }
+    },
+    {
+      "cik": "0001636282",
+      "name": "Spyre Therapeutics, Inc.",
+      "sic": "2834",
+      "sicDescription": "Pharmaceutical Preparations",
+      "current_state": "MA",
+      "pre": {
+        "date": "2018-09-06",
+        "accn": "0001564590-18-022770",
+        "doc": "agle-def14a_20181008.htm"
+      },
+      "post": {
+        "date": "2021-04-22",
+        "accn": "0001564590-21-019953",
+        "doc": "agle-def14a_20210608.htm"
+      },
+      "post2": {
+        "date": "2024-04-01",
+        "accn": "0001636282-24-000021",
+        "doc": "syre-20240401.htm"
+      }
+    },
+    {
+      "cik": "0001034054",
+      "name": "SBA COMMUNICATIONS CORP",
+      "sic": "6798",
+      "sicDescription": "Real Estate Investment Trusts",
+      "current_state": "FL",
+      "pre": {
+        "date": "2018-04-04",
+        "accn": "0001193125-18-106758",
+        "doc": "d530646ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-04-01",
+        "accn": "0001193125-21-103972",
+        "doc": "d115171ddef14a.htm"
+      },
+      "post2": {
+        "date": "2024-04-12",
+        "accn": "0001193125-24-094748",
+        "doc": "d778552ddef14a.htm"
+      }
+    },
+    {
+      "cik": "0001603454",
+      "name": "Celcuity Inc.",
+      "sic": "8071",
+      "sicDescription": "Services-Medical Laboratories",
+      "current_state": "MN",
+      "pre": {
+        "date": "2018-03-27",
+        "accn": "0001144204-18-017191",
+        "doc": "tv489654_def14a.htm"
+      },
+      "post": {
+        "date": "2021-03-31",
+        "accn": "0001654954-21-003623",
+        "doc": "celc_def14a.htm"
+      },
+      "post2": {
+        "date": "2024-08-28",
+        "accn": "0001493152-24-034185",
+        "doc": "formdef14a.htm"
+      }
+    },
+    {
+      "cik": "0001539838",
+      "name": "Diamondback Energy, Inc.",
+      "sic": "1311",
+      "sicDescription": "Crude Petroleum & Natural Gas",
+      "current_state": "TX",
+      "pre": {
+        "date": "2018-04-27",
+        "accn": "0001539838-18-000046",
+        "doc": "a2018diamondbackproxy.htm"
+      },
+      "post": {
+        "date": "2021-04-23",
+        "accn": "0001308179-21-000252",
+        "doc": "lfang2021_def14a.htm"
+      },
+      "post2": {
+        "date": "2024-04-25",
+        "accn": "0001308179-24-000579",
+        "doc": "lfang2024_def14a.htm"
+      }
+    },
+    {
+      "cik": "0000106535",
+      "name": "WEYERHAEUSER CO",
+      "sic": "6798",
+      "sicDescription": "Real Estate Investment Trusts",
+      "current_state": "WA",
+      "pre": {
+        "date": "2018-04-05",
+        "accn": "0001193125-18-107679",
+        "doc": "d497694ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-03-31",
+        "accn": "0001193125-21-101895",
+        "doc": "d65450ddef14a.htm"
+      },
+      "post2": {
+        "date": "2024-03-27",
+        "accn": "0001140361-24-015567",
+        "doc": "ny20012591x1_def14a.htm"
+      }
+    },
+    {
+      "cik": "0000822663",
+      "name": "INTERPARFUMS INC",
+      "sic": "2844",
+      "sicDescription": "Perfumes, Cosmetics & Other Toilet Preparations",
+      "current_state": "NY",
+      "pre": {
+        "date": "2018-07-27",
+        "accn": "0001615774-18-006925",
+        "doc": "s111482_def14a.htm"
+      },
+      "post": {
+        "date": "2021-08-13",
+        "accn": "0001753926-21-000350",
+        "doc": "g082296_def14a.htm"
+      },
+      "post2": {
+        "date": "2024-08-01",
+        "accn": "0001753926-24-001312",
+        "doc": "g084360_def14a.htm"
+      }
+    },
+    {
+      "cik": "0000070318",
+      "name": "TENET HEALTHCARE CORP",
+      "sic": "8062",
+      "sicDescription": "Services-General Medical & Surgical Hospitals, NEC",
+      "current_state": "TX",
+      "pre": {
+        "date": "2018-03-30",
+        "accn": "0001193125-18-103367",
+        "doc": "d448827ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-03-26",
+        "accn": "0001193125-21-096716",
+        "doc": "d132672ddef14a.htm"
+      },
+      "post2": {
+        "date": "2024-04-12",
+        "accn": "0001193125-24-094759",
+        "doc": "d541176ddef14a.htm"
+      }
+    },
+    {
+      "cik": "0000912615",
+      "name": "URBAN OUTFITTERS INC",
+      "sic": "5651",
+      "sicDescription": "Retail-Family Clothing Stores",
+      "current_state": "PA",
+      "pre": {
+        "date": "2018-04-02",
+        "accn": "0001564590-18-007420",
+        "doc": "urbn-def14a_20180605.htm"
+      },
+      "post": {
+        "date": "2021-04-01",
+        "accn": "0001564590-21-017315",
+        "doc": "urbn-def14a_20210608.htm"
+      },
+      "post2": {
+        "date": "2024-04-01",
+        "accn": "0001193125-24-083438",
+        "doc": "d701890ddef14a.htm"
+      }
+    },
+    {
+      "cik": "0000029002",
+      "name": "DIODES INC /DEL/",
+      "sic": "3674",
+      "sicDescription": "Semiconductors & Related Devices",
+      "current_state": "TX",
+      "pre": {
+        "date": "2018-04-06",
+        "accn": "0001564590-18-007728",
+        "doc": "diod-def14a_20180522.htm"
+      },
+      "post": {
+        "date": "2021-04-14",
+        "accn": "0001564590-21-018758",
+        "doc": "diod-def14a_20210524.htm"
+      },
+      "post2": {
+        "date": "2024-04-19",
+        "accn": "0000950170-24-046039",
+        "doc": "diod-20240411.htm"
+      }
+    },
+    {
+      "cik": "0001001316",
+      "name": "TG THERAPEUTICS, INC.",
+      "sic": "2834",
+      "sicDescription": "Pharmaceutical Preparations",
+      "current_state": "NY",
+      "pre": {
+        "date": "2018-04-30",
+        "accn": "0001654954-18-004519",
+        "doc": "tgtx-DEF14A2018.htm"
+      },
+      "post": {
+        "date": "2021-04-30",
+        "accn": "0001558370-21-005391",
+        "doc": "tmb-20210616xdef14a.htm"
+      },
+      "post2": {
+        "date": "2024-04-29",
+        "accn": "0001437749-24-013719",
+        "doc": "tgtx20240423_def14a.htm"
+      }
+    },
+    {
+      "cik": "0001649904",
+      "name": "RHYTHM PHARMACEUTICALS, INC.",
+      "sic": "2834",
+      "sicDescription": "Pharmaceutical Preparations",
+      "current_state": "MA",
+      "pre": {
+        "date": "2018-04-30",
+        "accn": "0001047469-18-003342",
+        "doc": "a2235359zdef14a.htm"
+      },
+      "post": {
+        "date": "2021-04-27",
+        "accn": "0001104659-21-055591",
+        "doc": "tm212464-1_def14a.htm"
+      },
+      "post2": {
+        "date": "2024-04-26",
+        "accn": "0001104659-24-052915",
+        "doc": "tm242714d3_def14a.htm"
+      }
+    },
+    {
+      "cik": "0000940944",
+      "name": "DARDEN RESTAURANTS INC",
+      "sic": "5812",
+      "sicDescription": "Retail-Eating  Places",
+      "current_state": "FL",
+      "pre": {
+        "date": "2018-08-06",
+        "accn": "0000940944-18-000053",
+        "doc": "def14a2018definitiveproxys.htm"
+      },
+      "post": {
+        "date": "2021-08-09",
+        "accn": "0001193125-21-240109",
+        "doc": "d833585ddef14a.htm"
+      },
+      "post2": {
+        "date": "2024-08-05",
+        "accn": "0000950170-24-090429",
+        "doc": "dri-20240801.htm"
+      }
+    },
+    {
+      "cik": "0001511737",
+      "name": "Ubiquiti Inc.",
+      "sic": "3663",
+      "sicDescription": "Radio & Tv Broadcasting & Communications Equipment",
+      "current_state": "NY",
+      "pre": {
+        "date": "2018-10-26",
+        "accn": "0001511737-18-000019",
+        "doc": "ubnt-2018proxy.htm"
+      },
+      "post": {
+        "date": "2021-10-26",
+        "accn": "0001511737-21-000040",
+        "doc": "ubiquiti-2021proxy.htm"
+      },
+      "post2": {
+        "date": "2024-10-28",
+        "accn": "0001511737-24-000065",
+        "doc": "ubnt-20241025.htm"
+      }
+    },
+    {
+      "cik": "0000887343",
+      "name": "COLUMBIA BANKING SYSTEM, INC.",
+      "sic": "6022",
+      "sicDescription": "State Commercial Banks",
+      "current_state": "WA",
+      "pre": {
+        "date": "2018-04-13",
+        "accn": "0001140361-18-018485",
+        "doc": "formdef14a.htm"
+      },
+      "post": {
+        "date": "2021-04-12",
+        "accn": "0001140361-21-012371",
+        "doc": "nc10022254x1_def14a.htm"
+      },
+      "post2": {
+        "date": "2024-03-27",
+        "accn": "0001193125-24-078782",
+        "doc": "d784795ddef14a.htm"
+      }
+    },
+    {
+      "cik": "0000048898",
+      "name": "HUBBELL INC",
+      "sic": "3670",
+      "sicDescription": "Electronic Components & Accessories",
+      "current_state": "CT",
+      "pre": {
+        "date": "2018-03-15",
+        "accn": "0001308179-18-000050",
+        "doc": "lhubb2018-def14a.htm"
+      },
+      "post": {
+        "date": "2021-03-22",
+        "accn": "0001308179-21-000088",
+        "doc": "lhubb2021_def14a.htm"
+      },
+      "post2": {
+        "date": "2024-03-25",
+        "accn": "0001308179-24-000281",
+        "doc": "lhubb2024_def14a.htm"
+      }
+    },
+    {
+      "cik": "0001068851",
+      "name": "PROSPERITY BANCSHARES INC",
+      "sic": "6022",
+      "sicDescription": "State Commercial Banks",
+      "current_state": "TX",
+      "pre": {
+        "date": "2018-03-13",
+        "accn": "0001564590-18-005382",
+        "doc": "pb-def14a_20180417.htm"
+      },
+      "post": {
+        "date": "2021-03-15",
+        "accn": "0001564590-21-013000",
+        "doc": "pb-def14a_20210420.htm"
+      },
+      "post2": {
+        "date": "2024-03-14",
+        "accn": "0000950170-24-031135",
+        "doc": "pb-20240312.htm"
+      }
+    },
+    {
+      "cik": "0000010456",
+      "name": "BAXTER INTERNATIONAL INC",
+      "sic": "3841",
+      "sicDescription": "Surgical & Medical Instruments & Apparatus",
+      "current_state": "IL",
+      "pre": {
+        "date": "2018-03-23",
+        "accn": "0001193125-18-094261",
+        "doc": "d479285ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-03-22",
+        "accn": "0001193125-21-089604",
+        "doc": "d30485ddef14a.htm"
+      },
+      "post2": {
+        "date": "2024-03-25",
+        "accn": "0001193125-24-075975",
+        "doc": "d546571ddef14a.htm"
+      }
+    },
+    {
+      "cik": "0001237831",
+      "name": "GLOBUS MEDICAL INC",
+      "sic": "3841",
+      "sicDescription": "Surgical & Medical Instruments & Apparatus",
+      "current_state": "PA",
+      "pre": {
+        "date": "2018-04-26",
+        "accn": "0001237831-18-000015",
+        "doc": "gmed2018proxy.htm"
+      },
+      "post": {
+        "date": "2021-04-22",
+        "accn": "0001562762-21-000146",
+        "doc": "gmed-20201231xdef14a.htm"
+      },
+      "post2": {
+        "date": "2024-04-26",
+        "accn": "0001562762-24-000102",
+        "doc": "gmed-20231231xdef14a.htm"
+      }
+    },
+    {
+      "cik": "0001262823",
+      "name": "WESTLAKE CORP",
+      "sic": "2860",
+      "sicDescription": "Industrial Organic Chemicals",
+      "current_state": "TX",
+      "pre": {
+        "date": "2018-04-06",
+        "accn": "0001193125-18-109386",
+        "doc": "d513308ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-04-02",
+        "accn": "0001193125-21-104587",
+        "doc": "d36469ddef14a.htm"
+      },
+      "post2": {
+        "date": "2024-03-29",
+        "accn": "0001193125-24-081679",
+        "doc": "d625500ddef14a.htm"
+      }
+    },
+    {
+      "cik": "0000108312",
+      "name": "Woodward, Inc.",
+      "sic": "3620",
+      "sicDescription": "Electrical Industrial Apparatus",
+      "current_state": "CO",
+      "pre": {
+        "date": "2018-12-18",
+        "accn": "0001193125-18-351701",
+        "doc": "d620839ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-12-08",
+        "accn": "0001564590-21-059772",
+        "doc": "wwd-def14a_20220126.htm"
+      },
+      "post2": {
+        "date": "2024-12-06",
+        "accn": "0000950170-24-134154",
+        "doc": "wwd-20241206.htm"
+      }
+    },
+    {
+      "cik": "0000078128",
+      "name": "Essential Utilities, Inc.",
+      "sic": "4941",
+      "sicDescription": "Water Supply",
+      "current_state": "PA",
+      "pre": {
+        "date": "2018-03-29",
+        "accn": "0001193125-18-102016",
+        "doc": "d437454ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-03-22",
+        "accn": "0001552781-21-000145",
+        "doc": "e21134_wtrg-def14a.htm"
+      },
+      "post2": {
+        "date": "2024-03-19",
+        "accn": "0001552781-24-000134",
+        "doc": "e24019_wtrg-def14a.htm"
+      }
+    },
+    {
+      "cik": "0000874766",
+      "name": "HARTFORD INSURANCE GROUP, INC.",
+      "sic": "6331",
+      "sicDescription": "Fire, Marine & Casualty Insurance",
+      "current_state": "CT",
+      "pre": {
+        "date": "2018-04-05",
+        "accn": "0000874766-18-000014",
+        "doc": "hartfordproxy2018.htm"
+      },
+      "post": {
+        "date": "2021-03-29",
+        "accn": "0000874766-21-000024",
+        "doc": "hartfordproxy2021.htm"
+      },
+      "post2": {
+        "date": "2024-04-05",
+        "accn": "0000874766-24-000049",
+        "doc": "hig-20240405.htm"
+      }
+    },
+    {
+      "cik": "0000016040",
+      "name": "CABOT CORP",
+      "sic": "2890",
+      "sicDescription": "Miscellaneous Chemical Products",
+      "current_state": "MA",
+      "pre": {
+        "date": "2018-01-26",
+        "accn": "0001193125-18-021141",
+        "doc": "d503474ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-01-27",
+        "accn": "0001193125-21-018769",
+        "doc": "d92014ddef14a.htm"
+      },
+      "post2": {
+        "date": "2024-01-26",
+        "accn": "0001193125-24-016506",
+        "doc": "d509746ddef14a.htm"
+      }
+    },
+    {
+      "cik": "0000801337",
+      "name": "WEBSTER FINANCIAL CORP",
+      "sic": "6021",
+      "sicDescription": "National Commercial Banks",
+      "current_state": "CT",
+      "pre": {
+        "date": "2018-03-23",
+        "accn": "0001193125-18-093221",
+        "doc": "d526372ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-03-19",
+        "accn": "0001193125-21-086796",
+        "doc": "d104513ddef14a.htm"
+      },
+      "post2": {
+        "date": "2024-03-15",
+        "accn": "0001193125-24-069056",
+        "doc": "d687846ddef14a.htm"
+      }
+    },
+    {
+      "cik": "0000927003",
+      "name": "ADVANCED ENERGY INDUSTRIES INC",
+      "sic": "3679",
+      "sicDescription": "Electronic Components, NEC",
+      "current_state": "CO",
+      "pre": {
+        "date": "2018-03-15",
+        "accn": "0000927003-18-000009",
+        "doc": "a2018definitiveproxystatem.htm"
+      },
+      "post": {
+        "date": "2021-03-10",
+        "accn": "0001558370-21-002720",
+        "doc": "tmb-20210430xdef14a.htm"
+      },
+      "post2": {
+        "date": "2024-03-15",
+        "accn": "0001558370-24-003395",
+        "doc": "aeis-20240425xdef14a.htm"
+      }
+    },
+    {
+      "cik": "0000723531",
+      "name": "PAYCHEX INC",
+      "sic": "8700",
+      "sicDescription": "Services-Engineering, Accounting, Research, Management",
+      "current_state": "NY",
+      "pre": {
+        "date": "2018-09-07",
+        "accn": "0001193125-18-268853",
+        "doc": "d562942ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-09-03",
+        "accn": "0001193125-21-265231",
+        "doc": "d194529ddef14a.htm"
+      },
+      "post2": {
+        "date": "2024-08-30",
+        "accn": "0001193125-24-210377",
+        "doc": "d826431ddef14a.htm"
+      }
+    },
+    {
+      "cik": "0000751978",
+      "name": "VICOR CORP",
+      "sic": "3679",
+      "sicDescription": "Electronic Components, NEC",
+      "current_state": "MA",
+      "pre": {
+        "date": "2018-04-30",
+        "accn": "0001193125-18-143345",
+        "doc": "d494175ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-04-30",
+        "accn": "0001193125-21-144835",
+        "doc": "d82221ddef14a.htm"
+      },
+      "post2": {
+        "date": "2024-04-29",
+        "accn": "0000950170-24-049550",
+        "doc": "vicr-20240429.htm"
+      }
+    },
+    {
+      "cik": "0001025378",
+      "name": "W. P. Carey Inc.",
+      "sic": "6798",
+      "sicDescription": "Real Estate Investment Trusts",
+      "current_state": "NY",
+      "pre": {
+        "date": "2018-04-03",
+        "accn": "0001047469-18-002478",
+        "doc": "a2235072zdef14a.htm"
+      },
+      "post": {
+        "date": "2021-03-31",
+        "accn": "0001047469-21-000802",
+        "doc": "a2243119zdef14a.htm"
+      },
+      "post2": {
+        "date": "2024-03-28",
+        "accn": "0001025378-24-000063",
+        "doc": "wpc-20240328.htm"
+      }
+    },
+    {
+      "cik": "0001067701",
+      "name": "UNITED RENTALS, INC.",
+      "sic": "7359",
+      "sicDescription": "Services-Equipment Rental & Leasing, NEC",
+      "current_state": "CT",
+      "pre": {
+        "date": "2018-03-27",
+        "accn": "0001193125-18-097769",
+        "doc": "d530161ddef14a.htm"
+      },
+      "post": {
+        "date": "2021-03-23",
+        "accn": "0001564590-21-014868",
+        "doc": "uri-def14a_20210506.htm"
+      },
+      "post2": {
+        "date": "2024-03-27",
+        "accn": "0000950170-24-037181",
+        "doc": "uri-20240327.htm"
+      }
+    },
+    {
+      "cik": "0001070081",
+      "name": "PTC THERAPEUTICS, INC.",
+      "sic": "2834",
+      "sicDescription": "Pharmaceutical Preparations",
+      "current_state": "NJ",
+      "pre": {
+        "date": "2018-04-30",
+        "accn": "0001070081-18-000046",
+        "doc": "ptct2018proxy.htm"
+      },
+      "post": {
+        "date": "2021-04-29",
+        "accn": "0001558370-21-005265",
+        "doc": "tmb-20210608xdef14a.htm"
+      },
+      "post2": {
+        "date": "2024-04-26",
+        "accn": "0001558370-24-005924",
+        "doc": "tmb-20240618xdef14a.htm"
+      }
+    },
+    {
+      "cik": "0000889331",
+      "name": "LITTELFUSE INC /DE",
+      "sic": "3613",
+      "sicDescription": "Switchgear & Switchboard Apparatus",
+      "current_state": "IL",
+      "pre": {
+        "date": "2018-03-16",
+        "accn": "0001437749-18-004809",
+        "doc": "lfus20180308_def14a.htm"
+      },
+      "post": {
+        "date": "2021-03-12",
+        "accn": "0000889331-21-000021",
+        "doc": "a2021proxystatementdef14a.htm"
+      },
+      "post2": {
+        "date": "2024-03-14",
+        "accn": "0001140361-24-013241",
+        "doc": "ny20021424x1_def14a.htm"
+      }
+    },
+    {
+      "cik": "0001144215",
+      "name": "ACUITY INC. (DE)",
+      "sic": "3640",
+      "sicDescription": "Electric Lighting & Wiring Equipment",
+      "current_state": "GA",
+      "pre": {
+        "date": "2018-11-19",
+        "accn": "0001144215-18-000131",
+        "doc": "a2018proxydef14a.htm"
+      },
+      "post": {
+        "date": "2021-11-22",
+        "accn": "0001144215-21-000112",
+        "doc": "a2021proxystatementdef14a.htm"
+      },
+      "post2": {
+        "date": "2024-12-12",
+        "accn": "0001144215-24-000112",
+        "doc": "ayi-20241212.htm"
+      }
+    }
+  ],
+  "match_quality": {
+    "exact_sic4": 73,
+    "sic2_only": 23,
+    "no_match": 4
+  },
+  "unmatched_treated": [
+    "MATTEL INC /DE/",
+    "RH",
+    "Callaway Golf Co",
+    "Hercules Capital, Inc."
+  ]
+}

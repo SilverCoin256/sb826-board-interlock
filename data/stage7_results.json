@@ -1,0 +1,36 @@
+{
+  "board_size_summary": {
+    "control_post": 8.107142857142858,
+    "control_post2": 7.714285714285714,
+    "control_pre": 7.6415094339622645,
+    "treated_post": 7.295454545454546,
+    "treated_post2": 7.0,
+    "treated_pre": 6.785714285714286
+  },
+  "did_board_size_pvalues": {
+    "treated:post": 0.9413409643912811,
+    "treated:post2": 0.8412438988919466
+  },
+  "network_did_bootstrap": {
+    "density_DiD_pre_to_post": {
+      "mean": 0.002956499204538442,
+      "ci_lo": -0.0035116334183836724,
+      "ci_hi": 0.01031486872004113
+    },
+    "density_DiD_post_to_post2": {
+      "mean": -0.00035738743172023066,
+      "ci_lo": -0.006189961956090988,
+      "ci_hi": 0.005260732323232322
+    },
+    "centralization_DiD_pre_to_post": {
+      "mean": 0.020255901799544753,
+      "ci_lo": -0.03949123689506068,
+      "ci_hi": 0.09420087275231172
+    },
+    "centralization_DiD_post_to_post2": {
+      "mean": 0.000910179170907111,
+      "ci_lo": -0.0661423264730918,
+      "ci_hi": 0.061025179516250916
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "_note": "Manually verified against the extracted candidate lists in director_candidates_raw.json, cross-checked against the raw HTML windows. Only companies with a genuinely complete-looking board list (not just a handful of 'new nominees') on a given side are included. This is the real output of the hand-coded kill-test pilot -- automated extraction alone was NOT sufficient (see PROJECT_LOG.md for the honest success-rate accounting).",
+  "pre": {
+    "AAPL": ["James Bell", "Tim Cook", "Al Gore", "Bob Iger", "Andrea Jung", "Art Levinson", "Ron Sugar", "Sue Wagner"],
+    "EIX": ["Vanessa C.L. Chang", "James T. Morris", "Kevin M. Payne", "Pedro J. Pizarro", "Linda G. Stuntz", "William P. Sullivan", "Ellen O. Tauscher", "Peter J. Taylor", "Brett White", "Barbara E. Mathews"],
+    "HPQ": ["Aida M. Alvarez", "Shumeet Banerji", "Robert R. Bennett", "Stacy Brown-Philpot", "Stephanie A. Burns", "Mary Anne Citrino", "Stacey Mobley", "Subra Suresh", "Dion J. Weisler"],
+    "ROST": ["Michael Balmuth", "K. Gunnar Bjorklund", "Michael J. Bush", "Norman A. Ferber", "Sharon D. Garrett", "Stephen D. Milligan", "George P. Orban", "Michael O'Sullivan", "Lawrence S. Peiros", "Gregory L. Quesnel"],
+    "CHGG": ["Dave Borders Jr.", "Jenny Brandemuehl", "Andrew Brown", "Esther Lem", "Michael Osier", "Nathan Schultz", "Dan Rosensweig", "Charles Geiger"],
+    "CLX": ["Richard H. Carmona", "Spencer C. Fleischer", "A. D. David Mackay", "W. Matschullat", "Matthew J. Shattock", "M. Ticknor", "Russell J. Weiner", "Christopher J. Williams"],
+    "WSM": ["Laura Alber", "Christiana Smith Shi", "Adrian Bellamy", "Sabrina Simmons", "Anthony Greener", "Jerry Stritzke", "Robert Lord", "Grace Puma"],
+    "LRCX": ["Martin B. Anstice", "Eric K. Brandt", "Michael R. Cannon", "Christine A. Heckart", "Catherine P. Lego", "Stephen G. Newberry", "Abhijit Y. Talwalkar"]
+  },
+  "post": {
+    "EIX": ["Jeanne Beliveau-Dunn", "Carey A. Smith", "Linda G. Stuntz", "Vanessa C.L. Chang", "William P. Sullivan", "James T. Morris", "Peter J. Taylor", "Keith Trent", "Pedro J. Pizarro", "Alisa Do"],
+    "HPQ": ["Aida M. Alvarez", "Shumeet Banerji", "Robert R. Bennett", "Stacy Brown-Philpot", "Stephanie A. Burns", "Mary Anne Citrino", "Richard L. Clemmer", "Enrique Lores", "Subra Suresh"],
+    "ROST": ["K. Gunnar Bjorklund", "Michael J. Bush", "Sharon D. Garrett", "Michael J. Hartshorn", "Stephen D. Milligan", "Patricia H. Mueller", "George P. Orban", "Gregory L. Quesnel"],
+    "CHGG": ["Andrew Brown", "Nathan Schultz", "John Fillmore", "Esther Lem", "Dan Rosensweig"],
+    "CLX": ["Amy Banse", "Richard H. Carmona", "Spencer C. Fleischer", "Esther Lee", "A. D. David Mackay", "Paul Parker", "Linda Rendle", "Matthew J. Shattock", "Kathryn Tesija", "Russell J. Weiner", "Christopher J. Williams"]
+  },
+  "extraction_success_summary": {
+    "companies_attempted": 26,
+    "companies_with_clean_usable_list_pre_side": 8,
+    "companies_with_clean_usable_list_post_side": 5,
+    "companies_with_clean_usable_list_BOTH_sides": 5,
+    "companies_with_zero_usable_extraction_either_side": 12,
+    "note": "First-pass heuristic parser (title-case-line + stopword filter) achieved full pre+post coverage on only 5 of 26 (19%) attempted companies. This is a real, quantified finding about the entity-resolution engineering burden flagged throughout the project's design docs, not a shortfall to hide."
+  }
+}

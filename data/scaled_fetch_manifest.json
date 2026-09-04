@@ -1,0 +1,5186 @@
+[
+  {
+    "group": "treated",
+    "cik": "0000320193",
+    "name": "Apple Inc.",
+    "sic": "3571",
+    "pre": {
+      "status": 200,
+      "bytes": 822164,
+      "file": "treated_0000320193_pre.html",
+      "filing_date": "2017-12-27",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 809546,
+      "file": "treated_0000320193_post.html",
+      "filing_date": "2021-01-05",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1470279,
+      "file": "treated_0000320193_post2.html",
+      "filing_date": "2024-01-11",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0000006951",
+    "name": "APPLIED MATERIALS INC /DE",
+    "sic": "3674",
+    "pre": {
+      "status": 200,
+      "bytes": 1307421,
+      "file": "treated_0000006951_pre.html",
+      "filing_date": "2018-01-25",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1741195,
+      "file": "treated_0000006951_post.html",
+      "filing_date": "2021-01-28",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1790201,
+      "file": "treated_0000006951_post2.html",
+      "filing_date": "2024-01-24",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0000707549",
+    "name": "LAM RESEARCH CORP",
+    "sic": "3559",
+    "pre": {
+      "status": 200,
+      "bytes": 1603875,
+      "file": "treated_0000707549_pre.html",
+      "filing_date": "2018-09-26",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 2301350,
+      "file": "treated_0000707549_post.html",
+      "filing_date": "2021-09-28",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 2759392,
+      "file": "treated_0000707549_post2.html",
+      "filing_date": "2024-09-25",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0000319201",
+    "name": "KLA CORP",
+    "sic": "3827",
+    "pre": {
+      "status": 200,
+      "bytes": 1092349,
+      "file": "treated_0000319201_pre.html",
+      "filing_date": "2018-09-28",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1154066,
+      "file": "treated_0000319201_post.html",
+      "filing_date": "2021-09-24",
+      "detected_state_from_filing_text": "DC"
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1944858,
+      "file": "treated_0000319201_post2.html",
+      "filing_date": "2024-09-24",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0000882095",
+    "name": "GILEAD SCIENCES, INC.",
+    "sic": "2836",
+    "pre": {
+      "status": 200,
+      "bytes": 1466201,
+      "file": "treated_0000882095_pre.html",
+      "filing_date": "2018-03-26",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1663865,
+      "file": "treated_0000882095_post.html",
+      "filing_date": "2021-03-30",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1916289,
+      "file": "treated_0000882095_post2.html",
+      "filing_date": "2024-03-28",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0001262039",
+    "name": "Fortinet, Inc.",
+    "sic": "3577",
+    "pre": {
+      "status": 200,
+      "bytes": 842395,
+      "file": "treated_0001262039_pre.html",
+      "filing_date": "2018-05-11",
+      "detected_state_from_filing_text": "CA"
+    },
+    "post": {
+      "status": 200,
+      "bytes": 951098,
+      "file": "treated_0001262039_post.html",
+      "filing_date": "2021-04-28",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 3109862,
+      "file": "treated_0001262039_post2.html",
+      "filing_date": "2024-04-26",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0000865752",
+    "name": "Monster Beverage Corp",
+    "sic": "2086",
+    "pre": {
+      "status": 200,
+      "bytes": 933292,
+      "file": "treated_0000865752_pre.html",
+      "filing_date": "2018-04-20",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 970157,
+      "file": "treated_0000865752_post.html",
+      "filing_date": "2021-04-28",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1151156,
+      "file": "treated_0000865752_post2.html",
+      "filing_date": "2024-04-26",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0000745732",
+    "name": "ROSS STORES, INC.",
+    "sic": "5651",
+    "pre": {
+      "status": 200,
+      "bytes": 817437,
+      "file": "treated_0000745732_pre.html",
+      "filing_date": "2018-04-10",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 746662,
+      "file": "treated_0000745732_post.html",
+      "filing_date": "2021-04-06",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 871645,
+      "file": "treated_0000745732_post2.html",
+      "filing_date": "2024-04-09",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0000883241",
+    "name": "SYNOPSYS INC",
+    "sic": "7372",
+    "pre": {
+      "status": 200,
+      "bytes": 1178389,
+      "file": "treated_0000883241_pre.html",
+      "filing_date": "2018-02-16",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1968956,
+      "file": "treated_0000883241_post.html",
+      "filing_date": "2021-02-18",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 2457060,
+      "file": "treated_0000883241_post2.html",
+      "filing_date": "2024-02-16",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0001633978",
+    "name": "Lumentum Holdings Inc.",
+    "sic": "3669",
+    "pre": {
+      "status": 200,
+      "bytes": 743268,
+      "file": "treated_0001633978_pre.html",
+      "filing_date": "2018-09-19",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1109214,
+      "file": "treated_0001633978_post.html",
+      "filing_date": "2021-09-30",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1857953,
+      "file": "treated_0001633978_post2.html",
+      "filing_date": "2024-10-03",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0001601046",
+    "name": "Keysight Technologies, Inc.",
+    "sic": "3823",
+    "pre": {
+      "status": 200,
+      "bytes": 1860572,
+      "file": "treated_0001601046_pre.html",
+      "filing_date": "2018-02-09",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 3250264,
+      "file": "treated_0001601046_post.html",
+      "filing_date": "2021-01-29",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 4715392,
+      "file": "treated_0001601046_post2.html",
+      "filing_date": "2024-01-29",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0001633917",
+    "name": "PayPal Holdings, Inc.",
+    "sic": "7389",
+    "pre": {
+      "status": 200,
+      "bytes": 1685245,
+      "file": "treated_0001633917_pre.html",
+      "filing_date": "2018-04-12",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1121456,
+      "file": "treated_0001633917_post.html",
+      "filing_date": "2021-04-13",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 2816415,
+      "file": "treated_0001633917_post2.html",
+      "filing_date": "2024-04-09",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0000769397",
+    "name": "Autodesk, Inc.",
+    "sic": "7372",
+    "pre": {
+      "status": 200,
+      "bytes": 1174483,
+      "file": "treated_0000769397_pre.html",
+      "filing_date": "2018-05-01",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1183701,
+      "file": "treated_0000769397_post.html",
+      "filing_date": "2021-05-04",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1544392,
+      "file": "treated_0000769397_post2.html",
+      "filing_date": "2024-06-14",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0001004980",
+    "name": "PG&E Corp",
+    "sic": "4931",
+    "pre": {
+      "status": 200,
+      "bytes": 1143972,
+      "file": "treated_0001004980_pre.html",
+      "filing_date": "2018-03-26",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1725177,
+      "file": "treated_0001004980_post.html",
+      "filing_date": "2021-04-08",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 2271049,
+      "file": "treated_0001004980_post2.html",
+      "filing_date": "2024-04-04",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0001090872",
+    "name": "AGILENT TECHNOLOGIES, INC.",
+    "sic": "3826",
+    "pre": {
+      "status": 200,
+      "bytes": 2898607,
+      "file": "treated_0001090872_pre.html",
+      "filing_date": "2018-02-08",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 3359128,
+      "file": "treated_0001090872_post.html",
+      "filing_date": "2021-02-04",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 2988402,
+      "file": "treated_0001090872_post2.html",
+      "filing_date": "2024-02-02",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0001002047",
+    "name": "NetApp, Inc.",
+    "sic": "3572",
+    "pre": {
+      "status": 200,
+      "bytes": 1426783,
+      "file": "treated_0001002047_pre.html",
+      "filing_date": "2018-08-01",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1482951,
+      "file": "treated_0001002047_post.html",
+      "filing_date": "2021-07-30",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 3406383,
+      "file": "treated_0001002047_post2.html",
+      "filing_date": "2024-07-26",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0000943819",
+    "name": "RESMED INC",
+    "sic": "3841",
+    "pre": {
+      "status": 200,
+      "bytes": 1409615,
+      "file": "treated_0000943819_pre.html",
+      "filing_date": "2018-10-03",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 2024022,
+      "file": "treated_0000943819_post.html",
+      "filing_date": "2021-10-06",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 2142659,
+      "file": "treated_0000943819_post2.html",
+      "filing_date": "2024-10-03",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0001660134",
+    "name": "Okta, Inc.",
+    "sic": "7372",
+    "pre": {
+      "status": 200,
+      "bytes": 342212,
+      "file": "treated_0001660134_pre.html",
+      "filing_date": "2018-05-09",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1539875,
+      "file": "treated_0001660134_post.html",
+      "filing_date": "2021-05-06",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1290269,
+      "file": "treated_0001660134_post2.html",
+      "filing_date": "2024-05-09",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0000719955",
+    "name": "WILLIAMS SONOMA INC",
+    "sic": "5700",
+    "pre": {
+      "status": 200,
+      "bytes": 1144915,
+      "file": "treated_0000719955_pre.html",
+      "filing_date": "2018-04-13",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1275210,
+      "file": "treated_0000719955_post.html",
+      "filing_date": "2021-04-16",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1381467,
+      "file": "treated_0000719955_post2.html",
+      "filing_date": "2024-04-16",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0001397911",
+    "name": "LPL Financial Holdings Inc.",
+    "sic": "6200",
+    "pre": {
+      "status": 200,
+      "bytes": 1947141,
+      "file": "treated_0001397911_pre.html",
+      "filing_date": "2018-03-29",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1672770,
+      "file": "treated_0001397911_post.html",
+      "filing_date": "2021-03-22",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1745499,
+      "file": "treated_0001397911_post2.html",
+      "filing_date": "2024-03-28",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0001713683",
+    "name": "Zscaler, Inc.",
+    "sic": "7371",
+    "pre": {
+      "status": 200,
+      "bytes": 500161,
+      "file": "treated_0001713683_pre.html",
+      "filing_date": "2018-11-08",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1066933,
+      "file": "treated_0001713683_post.html",
+      "filing_date": "2021-11-24",
+      "detected_state_from_filing_text": "CA"
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1574837,
+      "file": "treated_0001713683_post2.html",
+      "filing_date": "2024-11-22",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0000920522",
+    "name": "ESSEX PROPERTY TRUST, INC.",
+    "sic": "6798",
+    "pre": {
+      "status": 200,
+      "bytes": 2585252,
+      "file": "treated_0000920522_pre.html",
+      "filing_date": "2018-03-23",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1585506,
+      "file": "treated_0000920522_post.html",
+      "filing_date": "2021-03-26",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 2013227,
+      "file": "treated_0000920522_post2.html",
+      "filing_date": "2024-03-28",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0001069157",
+    "name": "EAST WEST BANCORP INC",
+    "sic": "6022",
+    "pre": {
+      "status": 200,
+      "bytes": 704639,
+      "file": "treated_0001069157_pre.html",
+      "filing_date": "2018-04-17",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 881638,
+      "file": "treated_0001069157_post.html",
+      "filing_date": "2021-04-15",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1010725,
+      "file": "treated_0001069157_post2.html",
+      "filing_date": "2024-04-11",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0000914475",
+    "name": "NEUROCRINE BIOSCIENCES INC",
+    "sic": "2836",
+    "pre": {
+      "status": 200,
+      "bytes": 920610,
+      "file": "treated_0000914475_pre.html",
+      "filing_date": "2018-04-04",
+      "detected_state_from_filing_text": "CA"
+    },
+    "post": {
+      "status": 200,
+      "bytes": 643983,
+      "file": "treated_0000914475_post.html",
+      "filing_date": "2021-04-09",
+      "detected_state_from_filing_text": "CA"
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1657894,
+      "file": "treated_0000914475_post2.html",
+      "filing_date": "2024-04-10",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0001375365",
+    "name": "Super Micro Computer, Inc.",
+    "sic": "3571",
+    "pre": {
+      "status": 200,
+      "bytes": 766468,
+      "file": "treated_0001375365_pre.html",
+      "filing_date": "2017-01-18",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 714512,
+      "file": "treated_0001375365_post.html",
+      "filing_date": "2021-04-23",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1298647,
+      "file": "treated_0001375365_post2.html",
+      "filing_date": "2023-12-08",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0001618732",
+    "name": "Nutanix, Inc.",
+    "sic": "7372",
+    "pre": {
+      "status": 200,
+      "bytes": 1456493,
+      "file": "treated_0001618732_pre.html",
+      "filing_date": "2018-11-05",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1105288,
+      "file": "treated_0001618732_post.html",
+      "filing_date": "2021-10-26",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1006416,
+      "file": "treated_0001618732_post2.html",
+      "filing_date": "2024-10-22",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0001032975",
+    "name": "LOGITECH INTERNATIONAL S.A.",
+    "sic": "3577",
+    "pre": {
+      "status": 200,
+      "bytes": 1576463,
+      "file": "treated_0001032975_pre.html",
+      "filing_date": "2018-07-24",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1250317,
+      "file": "treated_0001032975_post.html",
+      "filing_date": "2021-07-23",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 2410082,
+      "file": "treated_0001032975_post2.html",
+      "filing_date": "2024-07-26",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0000910521",
+    "name": "DECKERS OUTDOOR CORP",
+    "sic": "3021",
+    "pre": {
+      "status": 200,
+      "bytes": 1495754,
+      "file": "treated_0000910521_pre.html",
+      "filing_date": "2018-07-27",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1249894,
+      "file": "treated_0000910521_post.html",
+      "filing_date": "2021-07-27",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1803793,
+      "file": "treated_0000910521_post2.html",
+      "filing_date": "2024-07-23",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0000939767",
+    "name": "EXELIXIS, INC.",
+    "sic": "2836",
+    "pre": {
+      "status": 200,
+      "bytes": 900620,
+      "file": "treated_0000939767_pre.html",
+      "filing_date": "2018-04-12",
+      "detected_state_from_filing_text": "CA"
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1678695,
+      "file": "treated_0000939767_post.html",
+      "filing_date": "2021-04-15",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 4348980,
+      "file": "treated_0000939767_post2.html",
+      "filing_date": "2024-04-18",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0001116942",
+    "name": "TTM TECHNOLOGIES INC",
+    "sic": "3672",
+    "pre": {
+      "status": 200,
+      "bytes": 893568,
+      "file": "treated_0001116942_pre.html",
+      "filing_date": "2018-03-29",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1056690,
+      "file": "treated_0001116942_post.html",
+      "filing_date": "2021-03-16",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 3798374,
+      "file": "treated_0001116942_post2.html",
+      "filing_date": "2024-03-15",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0001321732",
+    "name": "Penumbra Inc",
+    "sic": "3841",
+    "pre": {
+      "status": 200,
+      "bytes": 589501,
+      "file": "treated_0001321732_pre.html",
+      "filing_date": "2018-04-25",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 600971,
+      "file": "treated_0001321732_post.html",
+      "filing_date": "2021-04-22",
+      "detected_state_from_filing_text": "CA"
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 599549,
+      "file": "treated_0001321732_post2.html",
+      "filing_date": "2024-04-24",
+      "detected_state_from_filing_text": "CA"
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0001528396",
+    "name": "Guidewire Software, Inc.",
+    "sic": "7372",
+    "pre": {
+      "status": 200,
+      "bytes": 1585309,
+      "file": "treated_0001528396_pre.html",
+      "filing_date": "2018-11-05",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1066396,
+      "file": "treated_0001528396_post.html",
+      "filing_date": "2021-11-03",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1354739,
+      "file": "treated_0001528396_post2.html",
+      "filing_date": "2024-11-01",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0001179929",
+    "name": "MOLINA HEALTHCARE, INC.",
+    "sic": "6324",
+    "pre": {
+      "status": 200,
+      "bytes": 1748820,
+      "file": "treated_0001179929_pre.html",
+      "filing_date": "2018-03-19",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1386854,
+      "file": "treated_0001179929_post.html",
+      "filing_date": "2021-03-22",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1508124,
+      "file": "treated_0001179929_post2.html",
+      "filing_date": "2024-03-21",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0001632970",
+    "name": "American Healthcare REIT, Inc.",
+    "sic": "6798",
+    "pre": {
+      "status": 200,
+      "bytes": 449216,
+      "file": "treated_0001632970_pre.html",
+      "filing_date": "2018-04-06",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 445695,
+      "file": "treated_0001632970_post.html",
+      "filing_date": "2020-04-14",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1067729,
+      "file": "treated_0001632970_post2.html",
+      "filing_date": "2024-08-28",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0001048477",
+    "name": "BIOMARIN PHARMACEUTICAL INC",
+    "sic": "2834",
+    "pre": {
+      "status": 200,
+      "bytes": 1129948,
+      "file": "treated_0001048477_pre.html",
+      "filing_date": "2018-04-24",
+      "detected_state_from_filing_text": "CA"
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1857720,
+      "file": "treated_0001048477_post.html",
+      "filing_date": "2021-04-13",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 2362581,
+      "file": "treated_0001048477_post2.html",
+      "filing_date": "2024-04-09",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0000917273",
+    "name": "RAMBUS INC",
+    "sic": "3674",
+    "pre": {
+      "status": 200,
+      "bytes": 1150957,
+      "file": "treated_0000917273_pre.html",
+      "filing_date": "2018-03-09",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 548146,
+      "file": "treated_0000917273_post.html",
+      "filing_date": "2021-03-29",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 761072,
+      "file": "treated_0000917273_post2.html",
+      "filing_date": "2024-03-08",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0000897723",
+    "name": "SANMINA CORP",
+    "sic": "3672",
+    "pre": {
+      "status": 200,
+      "bytes": 886261,
+      "file": "treated_0000897723_pre.html",
+      "filing_date": "2018-01-24",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1273661,
+      "file": "treated_0000897723_post.html",
+      "filing_date": "2021-01-28",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1702784,
+      "file": "treated_0000897723_post2.html",
+      "filing_date": "2024-01-26",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0000879407",
+    "name": "ARROWHEAD PHARMACEUTICALS, INC.",
+    "sic": "2834",
+    "pre": {
+      "status": 200,
+      "bytes": 775105,
+      "file": "treated_0000879407_pre.html",
+      "filing_date": "2018-01-25",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1105930,
+      "file": "treated_0000879407_post.html",
+      "filing_date": "2021-01-28",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 979121,
+      "file": "treated_0000879407_post2.html",
+      "filing_date": "2024-01-26",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0001125376",
+    "name": "ENSIGN GROUP, INC",
+    "sic": "8051",
+    "pre": {
+      "status": 200,
+      "bytes": 1631818,
+      "file": "treated_0001125376_pre.html",
+      "filing_date": "2018-04-12",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 850857,
+      "file": "treated_0001125376_post.html",
+      "filing_date": "2021-04-16",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1042865,
+      "file": "treated_0001125376_post2.html",
+      "filing_date": "2024-04-05",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0001590717",
+    "name": "CareTrust REIT, Inc.",
+    "sic": "6798",
+    "pre": {
+      "status": 200,
+      "bytes": 484055,
+      "file": "treated_0001590717_pre.html",
+      "filing_date": "2018-04-20",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 919643,
+      "file": "treated_0001590717_post.html",
+      "filing_date": "2021-03-19",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 987859,
+      "file": "treated_0001590717_post2.html",
+      "filing_date": "2024-03-08",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0001088856",
+    "name": "CORCEPT THERAPEUTICS INC",
+    "sic": "2834",
+    "pre": {
+      "status": 200,
+      "bytes": 804268,
+      "file": "treated_0001088856_pre.html",
+      "filing_date": "2018-04-24",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 495131,
+      "file": "treated_0001088856_post.html",
+      "filing_date": "2021-04-22",
+      "detected_state_from_filing_text": "CA"
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1150165,
+      "file": "treated_0001088856_post2.html",
+      "filing_date": "2024-04-10",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0000797721",
+    "name": "VIASAT INC",
+    "sic": "4899",
+    "pre": {
+      "status": 200,
+      "bytes": 1223772,
+      "file": "treated_0000797721_pre.html",
+      "filing_date": "2018-07-20",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1629968,
+      "file": "treated_0000797721_post.html",
+      "filing_date": "2021-07-26",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1973033,
+      "file": "treated_0000797721_post2.html",
+      "filing_date": "2024-07-26",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0001302215",
+    "name": "HOULIHAN LOKEY, INC.",
+    "sic": "6282",
+    "pre": {
+      "status": 200,
+      "bytes": 614450,
+      "file": "treated_0001302215_pre.html",
+      "filing_date": "2018-07-27",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 500528,
+      "file": "treated_0001302215_post.html",
+      "filing_date": "2021-07-28",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 611558,
+      "file": "treated_0001302215_post2.html",
+      "filing_date": "2024-07-26",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0001159036",
+    "name": "HALOZYME THERAPEUTICS, INC.",
+    "sic": "2836",
+    "pre": {
+      "status": 200,
+      "bytes": 1081686,
+      "file": "treated_0001159036_pre.html",
+      "filing_date": "2018-03-22",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1280082,
+      "file": "treated_0001159036_post.html",
+      "filing_date": "2021-03-26",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 941767,
+      "file": "treated_0001159036_post2.html",
+      "filing_date": "2024-03-15",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0001192448",
+    "name": "GLAUKOS Corp",
+    "sic": "3841",
+    "pre": {
+      "status": 200,
+      "bytes": 1465659,
+      "file": "treated_0001192448_pre.html",
+      "filing_date": "2018-04-18",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1882334,
+      "file": "treated_0001192448_post.html",
+      "filing_date": "2021-04-22",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 4090305,
+      "file": "treated_0001192448_post2.html",
+      "filing_date": "2024-04-16",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0000004127",
+    "name": "SKYWORKS SOLUTIONS, INC.",
+    "sic": "3674",
+    "pre": {
+      "status": 200,
+      "bytes": 1491341,
+      "file": "treated_0000004127_pre.html",
+      "filing_date": "2018-04-02",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1590914,
+      "file": "treated_0000004127_post.html",
+      "filing_date": "2021-03-26",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 2683649,
+      "file": "treated_0000004127_post2.html",
+      "filing_date": "2024-03-28",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0001377121",
+    "name": "Protagonist Therapeutics, Inc",
+    "sic": "2834",
+    "pre": {
+      "status": 200,
+      "bytes": 403457,
+      "file": "treated_0001377121_pre.html",
+      "filing_date": "2018-04-18",
+      "detected_state_from_filing_text": "CA"
+    },
+    "post": {
+      "status": 200,
+      "bytes": 617355,
+      "file": "treated_0001377121_post.html",
+      "filing_date": "2021-04-14",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 689893,
+      "file": "treated_0001377121_post2.html",
+      "filing_date": "2024-04-26",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0001671933",
+    "name": "Trade Desk, Inc.",
+    "sic": "7370",
+    "pre": {
+      "status": 200,
+      "bytes": 1411102,
+      "file": "treated_0001671933_pre.html",
+      "filing_date": "2018-03-23",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1893825,
+      "file": "treated_0001671933_post.html",
+      "filing_date": "2021-04-13",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1202561,
+      "file": "treated_0001671933_post2.html",
+      "filing_date": "2024-10-03",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0001571283",
+    "name": "Rexford Industrial Realty, Inc.",
+    "sic": "6798",
+    "pre": {
+      "status": 200,
+      "bytes": 1448170,
+      "file": "treated_0001571283_pre.html",
+      "filing_date": "2018-04-27",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1389991,
+      "file": "treated_0001571283_post.html",
+      "filing_date": "2021-04-30",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1984812,
+      "file": "treated_0001571283_post2.html",
+      "filing_date": "2024-04-15",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0001039399",
+    "name": "FORMFACTOR INC",
+    "sic": "3674",
+    "pre": {
+      "status": 200,
+      "bytes": 520002,
+      "file": "treated_0001039399_pre.html",
+      "filing_date": "2018-04-03",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1227783,
+      "file": "treated_0001039399_post.html",
+      "filing_date": "2021-03-31",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1489004,
+      "file": "treated_0001039399_post2.html",
+      "filing_date": "2024-04-01",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0000012208",
+    "name": "BIO-RAD LABORATORIES, INC.",
+    "sic": "3826",
+    "pre": {
+      "status": 200,
+      "bytes": 667835,
+      "file": "treated_0000012208_pre.html",
+      "filing_date": "2018-05-04",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 684681,
+      "file": "treated_0000012208_post.html",
+      "filing_date": "2021-03-31",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 905917,
+      "file": "treated_0000012208_post2.html",
+      "filing_date": "2024-03-27",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0000831641",
+    "name": "TETRA TECH INC",
+    "sic": "8711",
+    "pre": {
+      "status": 200,
+      "bytes": 3130208,
+      "file": "treated_0000831641_pre.html",
+      "filing_date": "2018-01-24",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 3690061,
+      "file": "treated_0000831641_post.html",
+      "filing_date": "2021-01-14",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 2280366,
+      "file": "treated_0000831641_post2.html",
+      "filing_date": "2024-01-18",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0000912242",
+    "name": "MACERICH CO",
+    "sic": "6798",
+    "pre": {
+      "status": 200,
+      "bytes": 972094,
+      "file": "treated_0000912242_pre.html",
+      "filing_date": "2018-05-17",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1448562,
+      "file": "treated_0000912242_post.html",
+      "filing_date": "2021-04-29",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1471101,
+      "file": "treated_0000912242_post2.html",
+      "filing_date": "2024-04-19",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0001326110",
+    "name": "ImmunityBio, Inc.",
+    "sic": "2836",
+    "pre": {
+      "status": 200,
+      "bytes": 337587,
+      "file": "treated_0001326110_pre.html",
+      "filing_date": "2018-04-24",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 522489,
+      "file": "treated_0001326110_post.html",
+      "filing_date": "2021-04-29",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1305375,
+      "file": "treated_0001326110_post2.html",
+      "filing_date": "2024-04-29",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0001476150",
+    "name": "Terreno Realty Corp",
+    "sic": "6500",
+    "pre": {
+      "status": 200,
+      "bytes": 419554,
+      "file": "treated_0001476150_pre.html",
+      "filing_date": "2018-03-16",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 493443,
+      "file": "treated_0001476150_post.html",
+      "filing_date": "2021-03-16",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 706356,
+      "file": "treated_0001476150_post2.html",
+      "filing_date": "2024-03-22",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0001288469",
+    "name": "MAXLINEAR, INC",
+    "sic": "3674",
+    "pre": {
+      "status": 200,
+      "bytes": 604573,
+      "file": "treated_0001288469_pre.html",
+      "filing_date": "2018-04-20",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 883025,
+      "file": "treated_0001288469_post.html",
+      "filing_date": "2021-04-13",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1316180,
+      "file": "treated_0001288469_post2.html",
+      "filing_date": "2024-04-04",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0001433195",
+    "name": "APPFOLIO INC",
+    "sic": "7372",
+    "pre": {
+      "status": 200,
+      "bytes": 638061,
+      "file": "treated_0001433195_pre.html",
+      "filing_date": "2018-04-02",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 773736,
+      "file": "treated_0001433195_post.html",
+      "filing_date": "2021-03-29",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1538962,
+      "file": "treated_0001433195_post2.html",
+      "filing_date": "2024-04-29",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0000886163",
+    "name": "LIGAND PHARMACEUTICALS INC",
+    "sic": "2834",
+    "pre": {
+      "status": 200,
+      "bytes": 916603,
+      "file": "treated_0000886163_pre.html",
+      "filing_date": "2018-04-30",
+      "detected_state_from_filing_text": "CA"
+    },
+    "post": {
+      "status": 200,
+      "bytes": 844447,
+      "file": "treated_0000886163_post.html",
+      "filing_date": "2021-04-23",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1322349,
+      "file": "treated_0000886163_post2.html",
+      "filing_date": "2024-04-25",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0001680062",
+    "name": "ACM Research, Inc.",
+    "sic": "3559",
+    "pre": {
+      "status": 200,
+      "bytes": 753895,
+      "file": "treated_0001680062_pre.html",
+      "filing_date": "2018-05-01",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 957979,
+      "file": "treated_0001680062_post.html",
+      "filing_date": "2021-04-23",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1284303,
+      "file": "treated_0001680062_post2.html",
+      "filing_date": "2024-04-26",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0000907654",
+    "name": "Oruka Therapeutics, Inc.",
+    "sic": "2834",
+    "pre": {
+      "status": 200,
+      "bytes": 341459,
+      "file": "treated_0000907654_pre.html",
+      "filing_date": "2018-09-20",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 581602,
+      "file": "treated_0000907654_post.html",
+      "filing_date": "2021-04-21",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 149139,
+      "file": "treated_0000907654_post2.html",
+      "filing_date": "2024-10-18",
+      "detected_state_from_filing_text": "CA"
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0001041803",
+    "name": "PRICESMART INC",
+    "sic": "5331",
+    "pre": {
+      "status": 200,
+      "bytes": 606574,
+      "file": "treated_0001041803_pre.html",
+      "filing_date": "2018-12-20",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 816775,
+      "file": "treated_0001041803_post.html",
+      "filing_date": "2021-12-17",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1508533,
+      "file": "treated_0001041803_post2.html",
+      "filing_date": "2024-12-18",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0001107843",
+    "name": "QUALYS, INC.",
+    "sic": "7372",
+    "pre": {
+      "status": 200,
+      "bytes": 664793,
+      "file": "treated_0001107843_pre.html",
+      "filing_date": "2018-04-27",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 812767,
+      "file": "treated_0001107843_post.html",
+      "filing_date": "2021-04-22",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1430922,
+      "file": "treated_0001107843_post2.html",
+      "filing_date": "2024-04-24",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0000861459",
+    "name": "GRANITE CONSTRUCTION INC",
+    "sic": "1600",
+    "pre": {
+      "status": 200,
+      "bytes": 1427493,
+      "file": "treated_0000861459_pre.html",
+      "filing_date": "2018-04-13",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1214083,
+      "file": "treated_0000861459_post.html",
+      "filing_date": "2021-04-21",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1267244,
+      "file": "treated_0000861459_post2.html",
+      "filing_date": "2024-04-25",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0001463101",
+    "name": "Enphase Energy, Inc.",
+    "sic": "3674",
+    "pre": {
+      "status": 200,
+      "bytes": 721486,
+      "file": "treated_0001463101_pre.html",
+      "filing_date": "2018-04-02",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1188837,
+      "file": "treated_0001463101_post.html",
+      "filing_date": "2021-04-07",
+      "detected_state_from_filing_text": "CA"
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1311383,
+      "file": "treated_0001463101_post2.html",
+      "filing_date": "2024-04-04",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0001438533",
+    "name": "Travere Therapeutics, Inc.",
+    "sic": "2834",
+    "pre": {
+      "status": 200,
+      "bytes": 1305530,
+      "file": "treated_0001438533_pre.html",
+      "filing_date": "2018-04-05",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1257430,
+      "file": "treated_0001438533_post.html",
+      "filing_date": "2021-04-16",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1431000,
+      "file": "treated_0001438533_post2.html",
+      "filing_date": "2024-03-27",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0001492298",
+    "name": "Sabra Health Care REIT, Inc.",
+    "sic": "6798",
+    "pre": {
+      "status": 200,
+      "bytes": 582165,
+      "file": "treated_0001492298_pre.html",
+      "filing_date": "2018-04-25",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 695501,
+      "file": "treated_0001492298_post.html",
+      "filing_date": "2021-04-26",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1390893,
+      "file": "treated_0001492298_post2.html",
+      "filing_date": "2024-04-26",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0000790526",
+    "name": "RadNet, Inc.",
+    "sic": "8071",
+    "pre": {
+      "status": 200,
+      "bytes": 488097,
+      "file": "treated_0000790526_pre.html",
+      "filing_date": "2018-04-27",
+      "detected_state_from_filing_text": "CA"
+    },
+    "post": {
+      "status": 200,
+      "bytes": 771245,
+      "file": "treated_0000790526_post.html",
+      "filing_date": "2021-04-29",
+      "detected_state_from_filing_text": "CA"
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 917274,
+      "file": "treated_0000790526_post2.html",
+      "filing_date": "2024-04-26",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0001609253",
+    "name": "California Resources Corp",
+    "sic": "1311",
+    "pre": {
+      "status": 200,
+      "bytes": 3909960,
+      "file": "treated_0001609253_pre.html",
+      "filing_date": "2018-03-27",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 3614505,
+      "file": "treated_0001609253_post.html",
+      "filing_date": "2021-03-30",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 2943144,
+      "file": "treated_0001609253_post2.html",
+      "filing_date": "2024-03-21",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0001308547",
+    "name": "Dolby Laboratories, Inc.",
+    "sic": "6794",
+    "pre": {
+      "status": 200,
+      "bytes": 911561,
+      "file": "treated_0001308547_pre.html",
+      "filing_date": "2018-12-19",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 978342,
+      "file": "treated_0001308547_post.html",
+      "filing_date": "2021-12-17",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1303416,
+      "file": "treated_0001308547_post2.html",
+      "filing_date": "2024-12-20",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0001600033",
+    "name": "e.l.f. Beauty, Inc.",
+    "sic": "2844",
+    "pre": {
+      "status": 200,
+      "bytes": 853455,
+      "file": "treated_0001600033_pre.html",
+      "filing_date": "2018-04-10",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1946852,
+      "file": "treated_0001600033_post.html",
+      "filing_date": "2021-07-16",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 2186375,
+      "file": "treated_0001600033_post2.html",
+      "filing_date": "2024-07-12",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0001384101",
+    "name": "VERACYTE, INC.",
+    "sic": "8071",
+    "pre": {
+      "status": 200,
+      "bytes": 440457,
+      "file": "treated_0001384101_pre.html",
+      "filing_date": "2018-04-19",
+      "detected_state_from_filing_text": "CA"
+    },
+    "post": {
+      "status": 200,
+      "bytes": 739738,
+      "file": "treated_0001384101_post.html",
+      "filing_date": "2021-04-23",
+      "detected_state_from_filing_text": "CA"
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1101611,
+      "file": "treated_0001384101_post2.html",
+      "filing_date": "2024-04-25",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0001610250",
+    "name": "Boot Barn Holdings, Inc.",
+    "sic": "5661",
+    "pre": {
+      "status": 200,
+      "bytes": 944218,
+      "file": "treated_0001610250_pre.html",
+      "filing_date": "2018-07-27",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1879499,
+      "file": "treated_0001610250_post.html",
+      "filing_date": "2021-07-15",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1845046,
+      "file": "treated_0001610250_post2.html",
+      "filing_date": "2024-07-18",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0000817720",
+    "name": "SYNAPTICS Inc",
+    "sic": "3674",
+    "pre": {
+      "status": 200,
+      "bytes": 1066281,
+      "file": "treated_0000817720_pre.html",
+      "filing_date": "2018-09-17",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1258968,
+      "file": "treated_0000817720_post.html",
+      "filing_date": "2021-09-07",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1488738,
+      "file": "treated_0000817720_post2.html",
+      "filing_date": "2024-09-12",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0001070494",
+    "name": "ACADIA PHARMACEUTICALS INC",
+    "sic": "2834",
+    "pre": {
+      "status": 200,
+      "bytes": 740804,
+      "file": "treated_0001070494_pre.html",
+      "filing_date": "2018-04-30",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 2629844,
+      "file": "treated_0001070494_post.html",
+      "filing_date": "2021-04-30",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 2806924,
+      "file": "treated_0001070494_post2.html",
+      "filing_date": "2024-04-26",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0001607678",
+    "name": "Viking Therapeutics, Inc.",
+    "sic": "2834",
+    "pre": {
+      "status": 200,
+      "bytes": 642014,
+      "file": "treated_0001607678_pre.html",
+      "filing_date": "2018-04-06",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 598591,
+      "file": "treated_0001607678_post.html",
+      "filing_date": "2021-04-08",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1361571,
+      "file": "treated_0001607678_post2.html",
+      "filing_date": "2024-04-05",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0000887596",
+    "name": "CHEESECAKE FACTORY INC",
+    "sic": "5812",
+    "pre": {
+      "status": 200,
+      "bytes": 1904392,
+      "file": "treated_0000887596_pre.html",
+      "filing_date": "2018-04-19",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 2096308,
+      "file": "treated_0000887596_post.html",
+      "filing_date": "2021-04-15",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 2287112,
+      "file": "treated_0000887596_post2.html",
+      "filing_date": "2024-04-18",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0001275014",
+    "name": "Ultra Clean Holdings, Inc.",
+    "sic": "3674",
+    "pre": {
+      "status": 200,
+      "bytes": 587542,
+      "file": "treated_0001275014_pre.html",
+      "filing_date": "2018-04-19",
+      "detected_state_from_filing_text": "CA"
+    },
+    "post": {
+      "status": 200,
+      "bytes": 701286,
+      "file": "treated_0001275014_post.html",
+      "filing_date": "2021-04-26",
+      "detected_state_from_filing_text": "CA"
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1262502,
+      "file": "treated_0001275014_post2.html",
+      "filing_date": "2024-04-26",
+      "detected_state_from_filing_text": "CA"
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0000861842",
+    "name": "CATHAY GENERAL BANCORP",
+    "sic": "6022",
+    "pre": {
+      "status": 200,
+      "bytes": 1366376,
+      "file": "treated_0000861842_pre.html",
+      "filing_date": "2018-04-12",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1244430,
+      "file": "treated_0000861842_post.html",
+      "filing_date": "2021-04-15",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1421113,
+      "file": "treated_0000861842_post2.html",
+      "filing_date": "2024-04-11",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0000833640",
+    "name": "POWER INTEGRATIONS INC",
+    "sic": "3674",
+    "pre": {
+      "status": 200,
+      "bytes": 967892,
+      "file": "treated_0000833640_pre.html",
+      "filing_date": "2018-04-27",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1654003,
+      "file": "treated_0000833640_post.html",
+      "filing_date": "2021-03-29",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1512668,
+      "file": "treated_0000833640_post2.html",
+      "filing_date": "2024-03-29",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0000354647",
+    "name": "CVB FINANCIAL CORP",
+    "sic": "6022",
+    "pre": {
+      "status": 200,
+      "bytes": 1143057,
+      "file": "treated_0000354647_pre.html",
+      "filing_date": "2018-04-04",
+      "detected_state_from_filing_text": "CA"
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1379491,
+      "file": "treated_0000354647_post.html",
+      "filing_date": "2021-04-05",
+      "detected_state_from_filing_text": "CA"
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 2802355,
+      "file": "treated_0000354647_post2.html",
+      "filing_date": "2024-04-01",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0000883984",
+    "name": "ICU MEDICAL INC/DE",
+    "sic": "3841",
+    "pre": {
+      "status": 200,
+      "bytes": 1308225,
+      "file": "treated_0000883984_pre.html",
+      "filing_date": "2018-04-05",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 893078,
+      "file": "treated_0000883984_post.html",
+      "filing_date": "2021-04-01",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1016838,
+      "file": "treated_0000883984_post2.html",
+      "filing_date": "2024-04-02",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0001388658",
+    "name": "iRhythm Holdings, Inc.",
+    "sic": "3841",
+    "pre": {
+      "status": 200,
+      "bytes": 1353285,
+      "file": "treated_0001388658_pre.html",
+      "filing_date": "2018-04-10",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 963368,
+      "file": "treated_0001388658_post.html",
+      "filing_date": "2021-04-30",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1316741,
+      "file": "treated_0001388658_post2.html",
+      "filing_date": "2024-04-11",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0001714899",
+    "name": "Denali Therapeutics Inc.",
+    "sic": "2836",
+    "pre": {
+      "status": 200,
+      "bytes": 380215,
+      "file": "treated_0001714899_pre.html",
+      "filing_date": "2018-04-26",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 836353,
+      "file": "treated_0001714899_post.html",
+      "filing_date": "2021-04-22",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1101673,
+      "file": "treated_0001714899_post2.html",
+      "filing_date": "2024-04-18",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0001039065",
+    "name": "OSI SYSTEMS INC",
+    "sic": "3674",
+    "pre": {
+      "status": 200,
+      "bytes": 596988,
+      "file": "treated_0001039065_pre.html",
+      "filing_date": "2018-10-19",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1154645,
+      "file": "treated_0001039065_post.html",
+      "filing_date": "2021-10-21",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1864360,
+      "file": "treated_0001039065_post2.html",
+      "filing_date": "2024-10-25",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0001056903",
+    "name": "AMERICAN STATES WATER CO",
+    "sic": "4941",
+    "pre": {
+      "status": 200,
+      "bytes": 1210376,
+      "file": "treated_0001056903_pre.html",
+      "filing_date": "2018-04-05",
+      "detected_state_from_filing_text": "DC"
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1138092,
+      "file": "treated_0001056903_post.html",
+      "filing_date": "2021-04-05",
+      "detected_state_from_filing_text": "DC"
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1977069,
+      "file": "treated_0001056903_post2.html",
+      "filing_date": "2024-04-05",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0001547903",
+    "name": "NMI Holdings, Inc.",
+    "sic": "6351",
+    "pre": {
+      "status": 200,
+      "bytes": 689583,
+      "file": "treated_0001547903_pre.html",
+      "filing_date": "2018-03-29",
+      "detected_state_from_filing_text": "CA"
+    },
+    "post": {
+      "status": 200,
+      "bytes": 898933,
+      "file": "treated_0001547903_post.html",
+      "filing_date": "2021-03-30",
+      "detected_state_from_filing_text": "CA"
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1416071,
+      "file": "treated_0001547903_post2.html",
+      "filing_date": "2024-03-28",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0000105132",
+    "name": "WD 40 CO",
+    "sic": "2890",
+    "pre": {
+      "status": 200,
+      "bytes": 1678401,
+      "file": "treated_0000105132_pre.html",
+      "filing_date": "2018-10-31",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1842889,
+      "file": "treated_0000105132_post.html",
+      "filing_date": "2021-11-03",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1180113,
+      "file": "treated_0000105132_post2.html",
+      "filing_date": "2024-11-08",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0001169770",
+    "name": "BANC OF CALIFORNIA, INC.",
+    "sic": "6021",
+    "pre": {
+      "status": 200,
+      "bytes": 2499143,
+      "file": "treated_0001169770_pre.html",
+      "filing_date": "2018-04-19",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1621005,
+      "file": "treated_0001169770_post.html",
+      "filing_date": "2021-03-31",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 2003077,
+      "file": "treated_0001169770_post2.html",
+      "filing_date": "2024-03-28",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0001051627",
+    "name": "AXT INC",
+    "sic": "3674",
+    "pre": {
+      "status": 200,
+      "bytes": 1477367,
+      "file": "treated_0001051627_pre.html",
+      "filing_date": "2018-04-13",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1259648,
+      "file": "treated_0001051627_post.html",
+      "filing_date": "2021-04-09",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1496904,
+      "file": "treated_0001051627_post2.html",
+      "filing_date": "2024-04-05",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0000851520",
+    "name": "EXPONENT INC",
+    "sic": "8742",
+    "pre": {
+      "status": 200,
+      "bytes": 434975,
+      "file": "treated_0000851520_pre.html",
+      "filing_date": "2018-04-17",
+      "detected_state_from_filing_text": "CA"
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1472412,
+      "file": "treated_0000851520_post.html",
+      "filing_date": "2021-04-21",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1472300,
+      "file": "treated_0000851520_post2.html",
+      "filing_date": "2024-04-22",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0001652535",
+    "name": "ICHOR HOLDINGS, LTD.",
+    "sic": "3674",
+    "pre": {
+      "status": 200,
+      "bytes": 789697,
+      "file": "treated_0001652535_pre.html",
+      "filing_date": "2018-04-05",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 923135,
+      "file": "treated_0001652535_post.html",
+      "filing_date": "2021-04-07",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1301713,
+      "file": "treated_0001652535_post2.html",
+      "filing_date": "2024-04-04",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0001650132",
+    "name": "Four Corners Property Trust, Inc.",
+    "sic": "6798",
+    "pre": {
+      "status": 200,
+      "bytes": 656784,
+      "file": "treated_0001650132_pre.html",
+      "filing_date": "2018-04-27",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 885236,
+      "file": "treated_0001650132_post.html",
+      "filing_date": "2021-04-23",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1090845,
+      "file": "treated_0001650132_post2.html",
+      "filing_date": "2024-04-19",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0000752714",
+    "name": "MCGRATH RENTCORP",
+    "sic": "7359",
+    "pre": {
+      "status": 200,
+      "bytes": 595373,
+      "file": "treated_0000752714_pre.html",
+      "filing_date": "2018-04-27",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 578743,
+      "file": "treated_0000752714_post.html",
+      "filing_date": "2021-04-27",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 830284,
+      "file": "treated_0000752714_post2.html",
+      "filing_date": "2024-10-30",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0001515673",
+    "name": "Ultragenyx Pharmaceutical Inc.",
+    "sic": "2834",
+    "pre": {
+      "status": 200,
+      "bytes": 565181,
+      "file": "treated_0001515673_pre.html",
+      "filing_date": "2018-04-27",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 738555,
+      "file": "treated_0001515673_post.html",
+      "filing_date": "2021-04-29",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1087516,
+      "file": "treated_0001515673_post2.html",
+      "filing_date": "2024-04-26",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0001280263",
+    "name": "AMBARELLA INC",
+    "sic": "3674",
+    "pre": {
+      "status": 200,
+      "bytes": 521398,
+      "file": "treated_0001280263_pre.html",
+      "filing_date": "2018-04-27",
+      "detected_state_from_filing_text": "CA"
+    },
+    "post": {
+      "status": 200,
+      "bytes": 797242,
+      "file": "treated_0001280263_post.html",
+      "filing_date": "2021-04-30",
+      "detected_state_from_filing_text": "CA"
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1120715,
+      "file": "treated_0001280263_post2.html",
+      "filing_date": "2024-05-03",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "treated",
+    "cik": "0001616533",
+    "name": "Penguin Solutions, Inc.",
+    "sic": "3674",
+    "pre": {
+      "status": 200,
+      "bytes": 599855,
+      "file": "treated_0001616533_pre.html",
+      "filing_date": "2018-12-14",
+      "detected_state_from_filing_text": "CA"
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1824882,
+      "file": "treated_0001616533_post.html",
+      "filing_date": "2021-12-21",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1342952,
+      "file": "treated_0001616533_post2.html",
+      "filing_date": "2024-12-20",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0000315189",
+    "name": "DEERE & CO",
+    "sic": "3523",
+    "pre": {
+      "status": 200,
+      "bytes": 1483079,
+      "file": "control_0000315189_pre.html",
+      "filing_date": "2018-01-12",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1585097,
+      "file": "control_0000315189_post.html",
+      "filing_date": "2021-01-08",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 7497424,
+      "file": "control_0000315189_post2.html",
+      "filing_date": "2024-01-10",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0000097476",
+    "name": "TEXAS INSTRUMENTS INC",
+    "sic": "3674",
+    "pre": {
+      "status": 200,
+      "bytes": 987998,
+      "file": "control_0000097476_pre.html",
+      "filing_date": "2018-03-13",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 885184,
+      "file": "control_0000097476_post.html",
+      "filing_date": "2021-03-09",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1650188,
+      "file": "control_0000097476_post2.html",
+      "filing_date": "2024-03-12",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0001113232",
+    "name": "AXCELIS TECHNOLOGIES INC",
+    "sic": "3559",
+    "pre": {
+      "status": 200,
+      "bytes": 551553,
+      "file": "control_0001113232_pre.html",
+      "filing_date": "2018-03-27",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 510787,
+      "file": "control_0001113232_post.html",
+      "filing_date": "2021-03-25",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1156304,
+      "file": "control_0001113232_post2.html",
+      "filing_date": "2024-03-29",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0000820318",
+    "name": "COHERENT CORP.",
+    "sic": "3827",
+    "pre": {
+      "status": 200,
+      "bytes": 1362855,
+      "file": "control_0000820318_pre.html",
+      "filing_date": "2018-09-21",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 939225,
+      "file": "control_0000820318_post.html",
+      "filing_date": "2021-10-07",
+      "detected_state_from_filing_text": "PA"
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1956703,
+      "file": "control_0000820318_post2.html",
+      "filing_date": "2024-10-04",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0000875045",
+    "name": "BIOGEN INC.",
+    "sic": "2836",
+    "pre": {
+      "status": 200,
+      "bytes": 1488421,
+      "file": "control_0000875045_pre.html",
+      "filing_date": "2018-04-27",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 2038235,
+      "file": "control_0000875045_post.html",
+      "filing_date": "2021-04-23",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 2059972,
+      "file": "control_0000875045_post2.html",
+      "filing_date": "2024-04-26",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0000049826",
+    "name": "ILLINOIS TOOL WORKS INC",
+    "sic": "3560",
+    "pre": {
+      "status": 200,
+      "bytes": 1064390,
+      "file": "control_0000049826_pre.html",
+      "filing_date": "2018-03-23",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1273954,
+      "file": "control_0000049826_post.html",
+      "filing_date": "2021-03-26",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 2275324,
+      "file": "control_0000049826_post2.html",
+      "filing_date": "2024-03-22",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0000069891",
+    "name": "NATIONAL BEVERAGE CORP",
+    "sic": "2086",
+    "pre": {
+      "status": 200,
+      "bytes": 248568,
+      "file": "control_0000069891_pre.html",
+      "filing_date": "2018-08-27",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 351086,
+      "file": "control_0000069891_post.html",
+      "filing_date": "2021-08-27",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 441891,
+      "file": "control_0000069891_post2.html",
+      "filing_date": "2024-08-23",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0000109198",
+    "name": "TJX COMPANIES INC /DE/",
+    "sic": "5651",
+    "pre": {
+      "status": 200,
+      "bytes": 104001,
+      "file": "control_0000109198_pre.html",
+      "filing_date": "2018-10-01",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1505498,
+      "file": "control_0000109198_post.html",
+      "filing_date": "2021-04-29",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1426288,
+      "file": "control_0000109198_post2.html",
+      "filing_date": "2024-04-25",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0001341439",
+    "name": "ORACLE CORP",
+    "sic": "7372",
+    "pre": {
+      "status": 200,
+      "bytes": 1372908,
+      "file": "control_0001341439_pre.html",
+      "filing_date": "2018-09-26",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1515785,
+      "file": "control_0001341439_post.html",
+      "filing_date": "2021-09-24",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1632276,
+      "file": "control_0001341439_post2.html",
+      "filing_date": "2024-09-25",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0000068505",
+    "name": "Motorola Solutions, Inc.",
+    "sic": "3663",
+    "pre": {
+      "status": 200,
+      "bytes": 1636850,
+      "file": "control_0000068505_pre.html",
+      "filing_date": "2018-03-28",
+      "detected_state_from_filing_text": "DC"
+    },
+    "post": {
+      "status": 200,
+      "bytes": 2477782,
+      "file": "control_0000068505_post.html",
+      "filing_date": "2021-04-01",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 2675875,
+      "file": "control_0000068505_post2.html",
+      "filing_date": "2024-03-28",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0001037868",
+    "name": "AMETEK INC/",
+    "sic": "3823",
+    "pre": {
+      "status": 200,
+      "bytes": 4405493,
+      "file": "control_0001037868_pre.html",
+      "filing_date": "2018-03-26",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 2251282,
+      "file": "control_0001037868_post.html",
+      "filing_date": "2021-03-15",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 973787,
+      "file": "control_0001037868_post2.html",
+      "filing_date": "2024-03-12",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0001408198",
+    "name": "MSCI Inc.",
+    "sic": "7389",
+    "pre": {
+      "status": 200,
+      "bytes": 1417167,
+      "file": "control_0001408198_pre.html",
+      "filing_date": "2018-03-23",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1645369,
+      "file": "control_0001408198_post.html",
+      "filing_date": "2021-03-17",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 2179928,
+      "file": "control_0001408198_post2.html",
+      "filing_date": "2024-03-13",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0000946581",
+    "name": "TAKE TWO INTERACTIVE SOFTWARE INC",
+    "sic": "7372",
+    "pre": {
+      "status": 200,
+      "bytes": 782833,
+      "file": "control_0000946581_pre.html",
+      "filing_date": "2018-07-26",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1531373,
+      "file": "control_0000946581_post.html",
+      "filing_date": "2021-07-27",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1098145,
+      "file": "control_0000946581_post2.html",
+      "filing_date": "2024-07-25",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0000788784",
+    "name": "PUBLIC SERVICE ENTERPRISE GROUP INC",
+    "sic": "4931",
+    "pre": {
+      "status": 200,
+      "bytes": 1923025,
+      "file": "control_0000788784_pre.html",
+      "filing_date": "2018-03-13",
+      "detected_state_from_filing_text": "NJ"
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1877871,
+      "file": "control_0000788784_post.html",
+      "filing_date": "2021-03-15",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 2111393,
+      "file": "control_0000788784_post2.html",
+      "filing_date": "2024-03-07",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0001000697",
+    "name": "WATERS CORP /DE/",
+    "sic": "3826",
+    "pre": {
+      "status": 200,
+      "bytes": 1046541,
+      "file": "control_0001000697_pre.html",
+      "filing_date": "2018-03-29",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 998070,
+      "file": "control_0001000697_post.html",
+      "filing_date": "2021-04-01",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1167699,
+      "file": "control_0001000697_post2.html",
+      "filing_date": "2024-04-12",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0001701605",
+    "name": "Baker Hughes Co",
+    "sic": "3533",
+    "pre": {
+      "status": 200,
+      "bytes": 2038528,
+      "file": "control_0001701605_pre.html",
+      "filing_date": "2018-03-23",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1811401,
+      "file": "control_0001701605_post.html",
+      "filing_date": "2021-03-29",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 2118492,
+      "file": "control_0001701605_post2.html",
+      "filing_date": "2024-04-02",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0000310764",
+    "name": "STRYKER CORP",
+    "sic": "3841",
+    "pre": {
+      "status": 200,
+      "bytes": 1190227,
+      "file": "control_0000310764_pre.html",
+      "filing_date": "2018-03-21",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 998606,
+      "file": "control_0000310764_post.html",
+      "filing_date": "2021-03-24",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1189568,
+      "file": "control_0000310764_post2.html",
+      "filing_date": "2024-03-26",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0001402436",
+    "name": "SS&C Technologies Holdings Inc",
+    "sic": "7372",
+    "pre": {
+      "status": 200,
+      "bytes": 1058165,
+      "file": "control_0001402436_pre.html",
+      "filing_date": "2018-04-06",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1613970,
+      "file": "control_0001402436_post.html",
+      "filing_date": "2021-04-06",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 3322580,
+      "file": "control_0001402436_post2.html",
+      "filing_date": "2024-04-12",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0001326380",
+    "name": "GameStop Corp.",
+    "sic": "5734",
+    "pre": {
+      "status": 200,
+      "bytes": 1530965,
+      "file": "control_0001326380_pre.html",
+      "filing_date": "2018-05-16",
+      "detected_state_from_filing_text": "DC"
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1035716,
+      "file": "control_0001326380_post.html",
+      "filing_date": "2021-04-22",
+      "detected_state_from_filing_text": "DC"
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 834749,
+      "file": "control_0001326380_post2.html",
+      "filing_date": "2024-04-30",
+      "detected_state_from_filing_text": "DC"
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0001156375",
+    "name": "CME GROUP INC.",
+    "sic": "6200",
+    "pre": {
+      "status": 200,
+      "bytes": 811373,
+      "file": "control_0001156375_pre.html",
+      "filing_date": "2018-09-11",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1862286,
+      "file": "control_0001156375_post.html",
+      "filing_date": "2021-03-19",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 2393852,
+      "file": "control_0001156375_post2.html",
+      "filing_date": "2024-03-18",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0001014473",
+    "name": "VERISIGN INC/CA",
+    "sic": "7371",
+    "pre": {
+      "status": 200,
+      "bytes": 855178,
+      "file": "control_0001014473_pre.html",
+      "filing_date": "2018-04-11",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 985239,
+      "file": "control_0001014473_post.html",
+      "filing_date": "2021-04-13",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1087794,
+      "file": "control_0001014473_post2.html",
+      "filing_date": "2024-04-10",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0000766704",
+    "name": "WELLTOWER INC.",
+    "sic": "6798",
+    "pre": {
+      "status": 200,
+      "bytes": 1554133,
+      "file": "control_0000766704_pre.html",
+      "filing_date": "2018-03-23",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1121834,
+      "file": "control_0000766704_post.html",
+      "filing_date": "2021-04-16",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1988303,
+      "file": "control_0000766704_post2.html",
+      "filing_date": "2024-04-12",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0001015328",
+    "name": "WINTRUST FINANCIAL CORP",
+    "sic": "6022",
+    "pre": {
+      "status": 200,
+      "bytes": 1429298,
+      "file": "control_0001015328_pre.html",
+      "filing_date": "2018-04-06",
+      "detected_state_from_filing_text": "DC"
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1140676,
+      "file": "control_0001015328_post.html",
+      "filing_date": "2021-04-08",
+      "detected_state_from_filing_text": "DC"
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 2518975,
+      "file": "control_0001015328_post2.html",
+      "filing_date": "2024-04-04",
+      "detected_state_from_filing_text": "DC"
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0000842023",
+    "name": "BIO-TECHNE Corp",
+    "sic": "2836",
+    "pre": {
+      "status": 200,
+      "bytes": 1282524,
+      "file": "control_0000842023_pre.html",
+      "filing_date": "2018-09-11",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1974838,
+      "file": "control_0000842023_post.html",
+      "filing_date": "2021-09-14",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1960396,
+      "file": "control_0000842023_post2.html",
+      "filing_date": "2024-09-12",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0000029905",
+    "name": "DOVER Corp",
+    "sic": "3530",
+    "pre": {
+      "status": 200,
+      "bytes": 1286925,
+      "file": "control_0000029905_pre.html",
+      "filing_date": "2018-03-22",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1582646,
+      "file": "control_0000029905_post.html",
+      "filing_date": "2021-03-18",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1904560,
+      "file": "control_0000029905_post2.html",
+      "filing_date": "2024-03-21",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0000857005",
+    "name": "PTC INC.",
+    "sic": "7372",
+    "pre": {
+      "status": 200,
+      "bytes": 969372,
+      "file": "control_0000857005_pre.html",
+      "filing_date": "2018-01-24",
+      "detected_state_from_filing_text": "MA"
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1139201,
+      "file": "control_0000857005_post.html",
+      "filing_date": "2021-12-20",
+      "detected_state_from_filing_text": "MA"
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 3144764,
+      "file": "control_0000857005_post2.html",
+      "filing_date": "2024-01-03",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0001324948",
+    "name": "RBC Bearings INC",
+    "sic": "3562",
+    "pre": {
+      "status": 200,
+      "bytes": 1038930,
+      "file": "control_0001324948_pre.html",
+      "filing_date": "2018-07-27",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 915976,
+      "file": "control_0001324948_post.html",
+      "filing_date": "2021-07-30",
+      "detected_state_from_filing_text": "CT"
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1551411,
+      "file": "control_0001324948_post2.html",
+      "filing_date": "2024-07-26",
+      "detected_state_from_filing_text": "CT"
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0001334036",
+    "name": "Crocs, Inc.",
+    "sic": "3021",
+    "pre": {
+      "status": 200,
+      "bytes": 841382,
+      "file": "control_0001334036_pre.html",
+      "filing_date": "2018-04-24",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 769249,
+      "file": "control_0001334036_post.html",
+      "filing_date": "2021-04-23",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 943955,
+      "file": "control_0001334036_post2.html",
+      "filing_date": "2024-04-23",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0001711279",
+    "name": "Krystal Biotech, Inc.",
+    "sic": "2836",
+    "pre": {
+      "status": 200,
+      "bytes": 219629,
+      "file": "control_0001711279_pre.html",
+      "filing_date": "2018-04-20",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 264220,
+      "file": "control_0001711279_post.html",
+      "filing_date": "2021-04-06",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 892118,
+      "file": "control_0001711279_post2.html",
+      "filing_date": "2024-04-04",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0000866374",
+    "name": "FLEX LTD.",
+    "sic": "3672",
+    "pre": {
+      "status": 200,
+      "bytes": 1867069,
+      "file": "control_0000866374_pre.html",
+      "filing_date": "2018-07-05",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1396144,
+      "file": "control_0000866374_post.html",
+      "filing_date": "2021-06-25",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1638841,
+      "file": "control_0000866374_post2.html",
+      "filing_date": "2024-06-25",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0000105770",
+    "name": "WEST PHARMACEUTICAL SERVICES INC",
+    "sic": "3841",
+    "pre": {
+      "status": 200,
+      "bytes": 1688715,
+      "file": "control_0000105770_pre.html",
+      "filing_date": "2018-03-21",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1789848,
+      "file": "control_0000105770_post.html",
+      "filing_date": "2021-03-24",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 2412298,
+      "file": "control_0000105770_post2.html",
+      "filing_date": "2024-03-13",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0001404655",
+    "name": "HUBSPOT INC",
+    "sic": "7372",
+    "pre": {
+      "status": 200,
+      "bytes": 2227013,
+      "file": "control_0001404655_pre.html",
+      "filing_date": "2018-04-26",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 2534251,
+      "file": "control_0001404655_post.html",
+      "filing_date": "2021-04-23",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 2548410,
+      "file": "control_0001404655_post2.html",
+      "filing_date": "2024-04-25",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0000899051",
+    "name": "ALLSTATE CORP",
+    "sic": "6331",
+    "pre": {
+      "status": 200,
+      "bytes": 1554118,
+      "file": "control_0000899051_pre.html",
+      "filing_date": "2018-03-28",
+      "detected_state_from_filing_text": "IL"
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1774955,
+      "file": "control_0000899051_post.html",
+      "filing_date": "2021-04-12",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 2568965,
+      "file": "control_0000899051_post2.html",
+      "filing_date": "2024-04-01",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0001053507",
+    "name": "AMERICAN TOWER CORP /MA/",
+    "sic": "6798",
+    "pre": {
+      "status": 200,
+      "bytes": 1562499,
+      "file": "control_0001053507_pre.html",
+      "filing_date": "2018-04-12",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 2065093,
+      "file": "control_0001053507_post.html",
+      "filing_date": "2021-04-14",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 2200678,
+      "file": "control_0001053507_post2.html",
+      "filing_date": "2024-04-10",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0001551152",
+    "name": "AbbVie Inc.",
+    "sic": "2834",
+    "pre": {
+      "status": 200,
+      "bytes": 1449094,
+      "file": "control_0001551152_pre.html",
+      "filing_date": "2018-03-19",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 3084325,
+      "file": "control_0001551152_post.html",
+      "filing_date": "2021-03-22",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 3122823,
+      "file": "control_0001551152_post2.html",
+      "filing_date": "2024-03-18",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0001493594",
+    "name": "MACOM Technology Solutions Holdings, Inc.",
+    "sic": "3674",
+    "pre": {
+      "status": 200,
+      "bytes": 564843,
+      "file": "control_0001493594_pre.html",
+      "filing_date": "2018-01-16",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1078711,
+      "file": "control_0001493594_post.html",
+      "filing_date": "2021-01-15",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 982646,
+      "file": "control_0001493594_post2.html",
+      "filing_date": "2024-01-17",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0000898293",
+    "name": "JABIL INC",
+    "sic": "3672",
+    "pre": {
+      "status": 200,
+      "bytes": 679308,
+      "file": "control_0000898293_pre.html",
+      "filing_date": "2018-12-10",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 960748,
+      "file": "control_0000898293_post.html",
+      "filing_date": "2021-12-10",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1435787,
+      "file": "control_0000898293_post2.html",
+      "filing_date": "2024-12-12",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0000872589",
+    "name": "REGENERON PHARMACEUTICALS, INC.",
+    "sic": "2834",
+    "pre": {
+      "status": 200,
+      "bytes": 3872073,
+      "file": "control_0000872589_pre.html",
+      "filing_date": "2018-04-23",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1686829,
+      "file": "control_0000872589_post.html",
+      "filing_date": "2021-04-23",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1855801,
+      "file": "control_0000872589_post2.html",
+      "filing_date": "2024-04-25",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0001022079",
+    "name": "QUEST DIAGNOSTICS INC",
+    "sic": "8071",
+    "pre": {
+      "status": 200,
+      "bytes": 930247,
+      "file": "control_0001022079_pre.html",
+      "filing_date": "2018-04-04",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1062983,
+      "file": "control_0001022079_post.html",
+      "filing_date": "2021-04-09",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1151236,
+      "file": "control_0001022079_post2.html",
+      "filing_date": "2024-04-05",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0001297996",
+    "name": "DIGITAL REALTY TRUST, INC.",
+    "sic": "6798",
+    "pre": {
+      "status": 200,
+      "bytes": 1028627,
+      "file": "control_0001297996_pre.html",
+      "filing_date": "2018-03-29",
+      "detected_state_from_filing_text": "VA"
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1351057,
+      "file": "control_0001297996_post.html",
+      "filing_date": "2021-04-23",
+      "detected_state_from_filing_text": "CA"
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1243470,
+      "file": "control_0001297996_post2.html",
+      "filing_date": "2024-04-26",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0001178670",
+    "name": "ALNYLAM PHARMACEUTICALS, INC.",
+    "sic": "2834",
+    "pre": {
+      "status": 200,
+      "bytes": 1143577,
+      "file": "control_0001178670_pre.html",
+      "filing_date": "2018-03-23",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1233030,
+      "file": "control_0001178670_post.html",
+      "filing_date": "2021-04-02",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1508276,
+      "file": "control_0001178670_post2.html",
+      "filing_date": "2024-04-01",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0001415404",
+    "name": "EchoStar CORP",
+    "sic": "4899",
+    "pre": {
+      "status": 200,
+      "bytes": 924646,
+      "file": "control_0001415404_pre.html",
+      "filing_date": "2018-03-20",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 904669,
+      "file": "control_0001415404_post.html",
+      "filing_date": "2021-03-17",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 882657,
+      "file": "control_0001415404_post2.html",
+      "filing_date": "2024-03-20",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0001626115",
+    "name": "PJT Partners Inc.",
+    "sic": "6282",
+    "pre": {
+      "status": 200,
+      "bytes": 501325,
+      "file": "control_0001626115_pre.html",
+      "filing_date": "2018-03-16",
+      "detected_state_from_filing_text": "NY"
+    },
+    "post": {
+      "status": 200,
+      "bytes": 888125,
+      "file": "control_0001626115_post.html",
+      "filing_date": "2021-03-16",
+      "detected_state_from_filing_text": "NY"
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1663093,
+      "file": "control_0001626115_post2.html",
+      "filing_date": "2024-04-29",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0000730272",
+    "name": "REPLIGEN CORP",
+    "sic": "2836",
+    "pre": {
+      "status": 200,
+      "bytes": 620626,
+      "file": "control_0000730272_pre.html",
+      "filing_date": "2018-04-20",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1194496,
+      "file": "control_0000730272_post.html",
+      "filing_date": "2021-04-21",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1764470,
+      "file": "control_0000730272_post2.html",
+      "filing_date": "2024-04-01",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0001145197",
+    "name": "INSULET CORP",
+    "sic": "3841",
+    "pre": {
+      "status": 200,
+      "bytes": 1355285,
+      "file": "control_0001145197_pre.html",
+      "filing_date": "2018-04-06",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1913044,
+      "file": "control_0001145197_post.html",
+      "filing_date": "2021-04-13",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 2193384,
+      "file": "control_0001145197_post2.html",
+      "filing_date": "2024-04-09",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0001158114",
+    "name": "APPLIED OPTOELECTRONICS, INC.",
+    "sic": "3674",
+    "pre": {
+      "status": 200,
+      "bytes": 880281,
+      "file": "control_0001158114_pre.html",
+      "filing_date": "2018-04-27",
+      "detected_state_from_filing_text": "TX"
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1332638,
+      "file": "control_0001158114_post.html",
+      "filing_date": "2021-04-23",
+      "detected_state_from_filing_text": "TX"
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1748078,
+      "file": "control_0001158114_post2.html",
+      "filing_date": "2024-04-26",
+      "detected_state_from_filing_text": "TX"
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0001104506",
+    "name": "INSMED Inc",
+    "sic": "2834",
+    "pre": {
+      "status": 200,
+      "bytes": 741612,
+      "file": "control_0001104506_pre.html",
+      "filing_date": "2018-04-05",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 991360,
+      "file": "control_0001104506_post.html",
+      "filing_date": "2021-04-01",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 2133056,
+      "file": "control_0001104506_post2.html",
+      "filing_date": "2024-04-01",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0001013237",
+    "name": "FACTSET RESEARCH SYSTEMS INC",
+    "sic": "7370",
+    "pre": {
+      "status": 200,
+      "bytes": 798900,
+      "file": "control_0001013237_pre.html",
+      "filing_date": "2018-10-30",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1170517,
+      "file": "control_0001013237_post.html",
+      "filing_date": "2021-10-29",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1621319,
+      "file": "control_0001013237_post2.html",
+      "filing_date": "2024-10-30",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0001393311",
+    "name": "Public Storage",
+    "sic": "6798",
+    "pre": {
+      "status": 200,
+      "bytes": 782065,
+      "file": "control_0001393311_pre.html",
+      "filing_date": "2018-03-16",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1397964,
+      "file": "control_0001393311_post.html",
+      "filing_date": "2021-03-16",
+      "detected_state_from_filing_text": "CA"
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 3598910,
+      "file": "control_0001393311_post2.html",
+      "filing_date": "2024-03-25",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0001038074",
+    "name": "SILICON LABORATORIES INC.",
+    "sic": "3674",
+    "pre": {
+      "status": 200,
+      "bytes": 624784,
+      "file": "control_0001038074_pre.html",
+      "filing_date": "2018-03-08",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1059901,
+      "file": "control_0001038074_post.html",
+      "filing_date": "2021-03-10",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 966659,
+      "file": "control_0001038074_post2.html",
+      "filing_date": "2024-03-06",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0000031791",
+    "name": "REVVITY, INC.",
+    "sic": "3826",
+    "pre": {
+      "status": 200,
+      "bytes": 945121,
+      "file": "control_0000031791_pre.html",
+      "filing_date": "2018-03-14",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1506620,
+      "file": "control_0000031791_post.html",
+      "filing_date": "2021-03-10",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1768237,
+      "file": "control_0000031791_post2.html",
+      "filing_date": "2024-03-13",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0000102752",
+    "name": "VSE CORP",
+    "sic": "8711",
+    "pre": {
+      "status": 200,
+      "bytes": 709106,
+      "file": "control_0000102752_pre.html",
+      "filing_date": "2018-04-02",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 988661,
+      "file": "control_0000102752_post.html",
+      "filing_date": "2021-04-02",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 945645,
+      "file": "control_0000102752_post2.html",
+      "filing_date": "2024-04-02",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0001705696",
+    "name": "VICI PROPERTIES INC.",
+    "sic": "6798",
+    "pre": {
+      "status": 200,
+      "bytes": 450842,
+      "file": "control_0001705696_pre.html",
+      "filing_date": "2018-06-21",
+      "detected_state_from_filing_text": "NY"
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1209462,
+      "file": "control_0001705696_post.html",
+      "filing_date": "2021-03-15",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 2381373,
+      "file": "control_0001705696_post2.html",
+      "filing_date": "2024-03-14",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0001324404",
+    "name": "CF Industries Holdings, Inc.",
+    "sic": "2870",
+    "pre": {
+      "status": 200,
+      "bytes": 1318841,
+      "file": "control_0001324404_pre.html",
+      "filing_date": "2018-03-29",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1661351,
+      "file": "control_0001324404_post.html",
+      "filing_date": "2021-03-23",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 2149595,
+      "file": "control_0001324404_post2.html",
+      "filing_date": "2024-03-07",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0001138118",
+    "name": "CBRE GROUP, INC.",
+    "sic": "6500",
+    "pre": {
+      "status": 200,
+      "bytes": 2005805,
+      "file": "control_0001138118_pre.html",
+      "filing_date": "2018-04-05",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1529911,
+      "file": "control_0001138118_post.html",
+      "filing_date": "2021-04-05",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 2127340,
+      "file": "control_0001138118_post2.html",
+      "filing_date": "2024-04-12",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0000772406",
+    "name": "CIRRUS LOGIC, INC.",
+    "sic": "3674",
+    "pre": {
+      "status": 200,
+      "bytes": 1101449,
+      "file": "control_0000772406_pre.html",
+      "filing_date": "2018-06-06",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1140623,
+      "file": "control_0000772406_post.html",
+      "filing_date": "2021-06-03",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1721917,
+      "file": "control_0000772406_post2.html",
+      "filing_date": "2024-06-03",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0001056696",
+    "name": "MANHATTAN ASSOCIATES INC",
+    "sic": "7372",
+    "pre": {
+      "status": 200,
+      "bytes": 1520752,
+      "file": "control_0001056696_pre.html",
+      "filing_date": "2018-04-04",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1612242,
+      "file": "control_0001056696_post.html",
+      "filing_date": "2021-03-31",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1562982,
+      "file": "control_0001056696_post2.html",
+      "filing_date": "2024-04-12",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0001157601",
+    "name": "MADRIGAL PHARMACEUTICALS, INC.",
+    "sic": "2834",
+    "pre": {
+      "status": 200,
+      "bytes": 831775,
+      "file": "control_0001157601_pre.html",
+      "filing_date": "2018-04-27",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1043831,
+      "file": "control_0001157601_post.html",
+      "filing_date": "2021-04-30",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1685983,
+      "file": "control_0001157601_post2.html",
+      "filing_date": "2024-04-29",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0000103145",
+    "name": "VEECO INSTRUMENTS INC",
+    "sic": "3559",
+    "pre": {
+      "status": 200,
+      "bytes": 1104520,
+      "file": "control_0000103145_pre.html",
+      "filing_date": "2018-03-19",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1779124,
+      "file": "control_0000103145_post.html",
+      "filing_date": "2021-03-17",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 2088342,
+      "file": "control_0000103145_post2.html",
+      "filing_date": "2024-03-21",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0001579428",
+    "name": "Axsome Therapeutics, Inc.",
+    "sic": "2834",
+    "pre": {
+      "status": 200,
+      "bytes": 314133,
+      "file": "control_0001579428_pre.html",
+      "filing_date": "2018-04-30",
+      "detected_state_from_filing_text": "NY"
+    },
+    "post": {
+      "status": 200,
+      "bytes": 2003053,
+      "file": "control_0001579428_post.html",
+      "filing_date": "2021-04-23",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1642595,
+      "file": "control_0001579428_post2.html",
+      "filing_date": "2024-04-26",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0000909832",
+    "name": "COSTCO WHOLESALE CORP /NEW",
+    "sic": "5331",
+    "pre": {
+      "status": 200,
+      "bytes": 785581,
+      "file": "control_0000909832_pre.html",
+      "filing_date": "2018-12-17",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 568590,
+      "file": "control_0000909832_post.html",
+      "filing_date": "2021-12-10",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 622178,
+      "file": "control_0000909832_post2.html",
+      "filing_date": "2024-12-11",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0001591698",
+    "name": "Paylocity Holding Corp",
+    "sic": "7372",
+    "pre": {
+      "status": 200,
+      "bytes": 657424,
+      "file": "control_0001591698_pre.html",
+      "filing_date": "2018-10-23",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 843568,
+      "file": "control_0001591698_post.html",
+      "filing_date": "2021-10-21",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1350000,
+      "file": "control_0001591698_post2.html",
+      "filing_date": "2024-10-24",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0000874238",
+    "name": "STERLING INFRASTRUCTURE, INC.",
+    "sic": "1600",
+    "pre": {
+      "status": 200,
+      "bytes": 1082723,
+      "file": "control_0000874238_pre.html",
+      "filing_date": "2018-03-20",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1215232,
+      "file": "control_0000874238_post.html",
+      "filing_date": "2021-03-24",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1250314,
+      "file": "control_0000874238_post2.html",
+      "filing_date": "2024-03-26",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0001111928",
+    "name": "IPG PHOTONICS CORP",
+    "sic": "3674",
+    "pre": {
+      "status": 200,
+      "bytes": 1228000,
+      "file": "control_0001111928_pre.html",
+      "filing_date": "2018-04-10",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1096835,
+      "file": "control_0001111928_post.html",
+      "filing_date": "2021-04-09",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1262478,
+      "file": "control_0001111928_post2.html",
+      "filing_date": "2024-05-09",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0001636282",
+    "name": "Spyre Therapeutics, Inc.",
+    "sic": "2834",
+    "pre": {
+      "status": 200,
+      "bytes": 974240,
+      "file": "control_0001636282_pre.html",
+      "filing_date": "2018-09-06",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 947357,
+      "file": "control_0001636282_post.html",
+      "filing_date": "2021-04-22",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 572031,
+      "file": "control_0001636282_post2.html",
+      "filing_date": "2024-04-01",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0001034054",
+    "name": "SBA COMMUNICATIONS CORP",
+    "sic": "6798",
+    "pre": {
+      "status": 200,
+      "bytes": 1265062,
+      "file": "control_0001034054_pre.html",
+      "filing_date": "2018-04-04",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1296767,
+      "file": "control_0001034054_post.html",
+      "filing_date": "2021-04-01",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 2259316,
+      "file": "control_0001034054_post2.html",
+      "filing_date": "2024-04-12",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0001603454",
+    "name": "Celcuity Inc.",
+    "sic": "8071",
+    "pre": {
+      "status": 200,
+      "bytes": 250031,
+      "file": "control_0001603454_pre.html",
+      "filing_date": "2018-03-27",
+      "detected_state_from_filing_text": "MN"
+    },
+    "post": {
+      "status": 200,
+      "bytes": 394037,
+      "file": "control_0001603454_post.html",
+      "filing_date": "2021-03-31",
+      "detected_state_from_filing_text": "MN"
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 168062,
+      "file": "control_0001603454_post2.html",
+      "filing_date": "2024-08-28",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0001539838",
+    "name": "Diamondback Energy, Inc.",
+    "sic": "1311",
+    "pre": {
+      "status": 200,
+      "bytes": 1251120,
+      "file": "control_0001539838_pre.html",
+      "filing_date": "2018-04-27",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1528378,
+      "file": "control_0001539838_post.html",
+      "filing_date": "2021-04-23",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1382669,
+      "file": "control_0001539838_post2.html",
+      "filing_date": "2024-04-25",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0000106535",
+    "name": "WEYERHAEUSER CO",
+    "sic": "6798",
+    "pre": {
+      "status": 200,
+      "bytes": 1310865,
+      "file": "control_0000106535_pre.html",
+      "filing_date": "2018-04-05",
+      "detected_state_from_filing_text": "WA"
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1538885,
+      "file": "control_0000106535_post.html",
+      "filing_date": "2021-03-31",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 2005635,
+      "file": "control_0000106535_post2.html",
+      "filing_date": "2024-03-27",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0000822663",
+    "name": "INTERPARFUMS INC",
+    "sic": "2844",
+    "pre": {
+      "status": 200,
+      "bytes": 584831,
+      "file": "control_0000822663_pre.html",
+      "filing_date": "2018-07-27",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 839762,
+      "file": "control_0000822663_post.html",
+      "filing_date": "2021-08-13",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 880484,
+      "file": "control_0000822663_post2.html",
+      "filing_date": "2024-08-01",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0000070318",
+    "name": "TENET HEALTHCARE CORP",
+    "sic": "8062",
+    "pre": {
+      "status": 200,
+      "bytes": 1625796,
+      "file": "control_0000070318_pre.html",
+      "filing_date": "2018-03-30",
+      "detected_state_from_filing_text": "DC"
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1396894,
+      "file": "control_0000070318_post.html",
+      "filing_date": "2021-03-26",
+      "detected_state_from_filing_text": "DC"
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1959735,
+      "file": "control_0000070318_post2.html",
+      "filing_date": "2024-04-12",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0000912615",
+    "name": "URBAN OUTFITTERS INC",
+    "sic": "5651",
+    "pre": {
+      "status": 200,
+      "bytes": 1622948,
+      "file": "control_0000912615_pre.html",
+      "filing_date": "2018-04-02",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1979572,
+      "file": "control_0000912615_post.html",
+      "filing_date": "2021-04-01",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 643547,
+      "file": "control_0000912615_post2.html",
+      "filing_date": "2024-04-01",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0000029002",
+    "name": "DIODES INC /DEL/",
+    "sic": "3674",
+    "pre": {
+      "status": 200,
+      "bytes": 1982987,
+      "file": "control_0000029002_pre.html",
+      "filing_date": "2018-04-06",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1892586,
+      "file": "control_0000029002_post.html",
+      "filing_date": "2021-04-14",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 2285475,
+      "file": "control_0000029002_post2.html",
+      "filing_date": "2024-04-19",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0001001316",
+    "name": "TG THERAPEUTICS, INC.",
+    "sic": "2834",
+    "pre": {
+      "status": 200,
+      "bytes": 657105,
+      "file": "control_0001001316_pre.html",
+      "filing_date": "2018-04-30",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 876561,
+      "file": "control_0001001316_post.html",
+      "filing_date": "2021-04-30",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 935875,
+      "file": "control_0001001316_post2.html",
+      "filing_date": "2024-04-29",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0001649904",
+    "name": "RHYTHM PHARMACEUTICALS, INC.",
+    "sic": "2834",
+    "pre": {
+      "status": 200,
+      "bytes": 351048,
+      "file": "control_0001649904_pre.html",
+      "filing_date": "2018-04-30",
+      "detected_state_from_filing_text": "MA"
+    },
+    "post": {
+      "status": 200,
+      "bytes": 782894,
+      "file": "control_0001649904_post.html",
+      "filing_date": "2021-04-27",
+      "detected_state_from_filing_text": "MA"
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1473029,
+      "file": "control_0001649904_post2.html",
+      "filing_date": "2024-04-26",
+      "detected_state_from_filing_text": "MA"
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0000940944",
+    "name": "DARDEN RESTAURANTS INC",
+    "sic": "5812",
+    "pre": {
+      "status": 200,
+      "bytes": 1441413,
+      "file": "control_0000940944_pre.html",
+      "filing_date": "2018-08-06",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1758810,
+      "file": "control_0000940944_post.html",
+      "filing_date": "2021-08-09",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 4722593,
+      "file": "control_0000940944_post2.html",
+      "filing_date": "2024-08-05",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0001511737",
+    "name": "Ubiquiti Inc.",
+    "sic": "3663",
+    "pre": {
+      "status": 200,
+      "bytes": 631232,
+      "file": "control_0001511737_pre.html",
+      "filing_date": "2018-10-26",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 460703,
+      "file": "control_0001511737_post.html",
+      "filing_date": "2021-10-26",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 523605,
+      "file": "control_0001511737_post2.html",
+      "filing_date": "2024-10-28",
+      "detected_state_from_filing_text": "NY"
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0000887343",
+    "name": "COLUMBIA BANKING SYSTEM, INC.",
+    "sic": "6022",
+    "pre": {
+      "status": 200,
+      "bytes": 1388400,
+      "file": "control_0000887343_pre.html",
+      "filing_date": "2018-04-13",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1022664,
+      "file": "control_0000887343_post.html",
+      "filing_date": "2021-04-12",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1749055,
+      "file": "control_0000887343_post2.html",
+      "filing_date": "2024-03-27",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0000048898",
+    "name": "HUBBELL INC",
+    "sic": "3670",
+    "pre": {
+      "status": 200,
+      "bytes": 1161162,
+      "file": "control_0000048898_pre.html",
+      "filing_date": "2018-03-15",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1155897,
+      "file": "control_0000048898_post.html",
+      "filing_date": "2021-03-22",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1386873,
+      "file": "control_0000048898_post2.html",
+      "filing_date": "2024-03-25",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0001068851",
+    "name": "PROSPERITY BANCSHARES INC",
+    "sic": "6022",
+    "pre": {
+      "status": 200,
+      "bytes": 1188686,
+      "file": "control_0001068851_pre.html",
+      "filing_date": "2018-03-13",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1209895,
+      "file": "control_0001068851_post.html",
+      "filing_date": "2021-03-15",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1203155,
+      "file": "control_0001068851_post2.html",
+      "filing_date": "2024-03-14",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0000010456",
+    "name": "BAXTER INTERNATIONAL INC",
+    "sic": "3841",
+    "pre": {
+      "status": 200,
+      "bytes": 1245342,
+      "file": "control_0000010456_pre.html",
+      "filing_date": "2018-03-23",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 2383605,
+      "file": "control_0000010456_post.html",
+      "filing_date": "2021-03-22",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 3014545,
+      "file": "control_0000010456_post2.html",
+      "filing_date": "2024-03-25",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0001237831",
+    "name": "GLOBUS MEDICAL INC",
+    "sic": "3841",
+    "pre": {
+      "status": 200,
+      "bytes": 675031,
+      "file": "control_0001237831_pre.html",
+      "filing_date": "2018-04-26",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1156068,
+      "file": "control_0001237831_post.html",
+      "filing_date": "2021-04-22",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1991069,
+      "file": "control_0001237831_post2.html",
+      "filing_date": "2024-04-26",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0001262823",
+    "name": "WESTLAKE CORP",
+    "sic": "2860",
+    "pre": {
+      "status": 200,
+      "bytes": 392844,
+      "file": "control_0001262823_pre.html",
+      "filing_date": "2018-04-06",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 463713,
+      "file": "control_0001262823_post.html",
+      "filing_date": "2021-04-02",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 763665,
+      "file": "control_0001262823_post2.html",
+      "filing_date": "2024-03-29",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0000108312",
+    "name": "Woodward, Inc.",
+    "sic": "3620",
+    "pre": {
+      "status": 200,
+      "bytes": 1074810,
+      "file": "control_0000108312_pre.html",
+      "filing_date": "2018-12-18",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 2161792,
+      "file": "control_0000108312_post.html",
+      "filing_date": "2021-12-08",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 2099808,
+      "file": "control_0000108312_post2.html",
+      "filing_date": "2024-12-06",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0000078128",
+    "name": "Essential Utilities, Inc.",
+    "sic": "4941",
+    "pre": {
+      "status": 200,
+      "bytes": 1258838,
+      "file": "control_0000078128_pre.html",
+      "filing_date": "2018-03-29",
+      "detected_state_from_filing_text": "PA"
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1818788,
+      "file": "control_0000078128_post.html",
+      "filing_date": "2021-03-22",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1811308,
+      "file": "control_0000078128_post2.html",
+      "filing_date": "2024-03-19",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0000874766",
+    "name": "HARTFORD INSURANCE GROUP, INC.",
+    "sic": "6331",
+    "pre": {
+      "status": 200,
+      "bytes": 2559739,
+      "file": "control_0000874766_pre.html",
+      "filing_date": "2018-04-05",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1774513,
+      "file": "control_0000874766_post.html",
+      "filing_date": "2021-03-29",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1746053,
+      "file": "control_0000874766_post2.html",
+      "filing_date": "2024-04-05",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0000016040",
+    "name": "CABOT CORP",
+    "sic": "2890",
+    "pre": {
+      "status": 200,
+      "bytes": 893655,
+      "file": "control_0000016040_pre.html",
+      "filing_date": "2018-01-26",
+      "detected_state_from_filing_text": "MA"
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1565452,
+      "file": "control_0000016040_post.html",
+      "filing_date": "2021-01-27",
+      "detected_state_from_filing_text": "MA"
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1700129,
+      "file": "control_0000016040_post2.html",
+      "filing_date": "2024-01-26",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0000801337",
+    "name": "WEBSTER FINANCIAL CORP",
+    "sic": "6021",
+    "pre": {
+      "status": 200,
+      "bytes": 708327,
+      "file": "control_0000801337_pre.html",
+      "filing_date": "2018-03-23",
+      "detected_state_from_filing_text": "CT"
+    },
+    "post": {
+      "status": 200,
+      "bytes": 930468,
+      "file": "control_0000801337_post.html",
+      "filing_date": "2021-03-19",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1486863,
+      "file": "control_0000801337_post2.html",
+      "filing_date": "2024-03-15",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0000927003",
+    "name": "ADVANCED ENERGY INDUSTRIES INC",
+    "sic": "3679",
+    "pre": {
+      "status": 200,
+      "bytes": 989611,
+      "file": "control_0000927003_pre.html",
+      "filing_date": "2018-03-15",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 2399387,
+      "file": "control_0000927003_post.html",
+      "filing_date": "2021-03-10",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 2681573,
+      "file": "control_0000927003_post2.html",
+      "filing_date": "2024-03-15",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0000723531",
+    "name": "PAYCHEX INC",
+    "sic": "8700",
+    "pre": {
+      "status": 200,
+      "bytes": 1858463,
+      "file": "control_0000723531_pre.html",
+      "filing_date": "2018-09-07",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1677822,
+      "file": "control_0000723531_post.html",
+      "filing_date": "2021-09-03",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 2239295,
+      "file": "control_0000723531_post2.html",
+      "filing_date": "2024-08-30",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0000751978",
+    "name": "VICOR CORP",
+    "sic": "3679",
+    "pre": {
+      "status": 200,
+      "bytes": 416244,
+      "file": "control_0000751978_pre.html",
+      "filing_date": "2018-04-30",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 398445,
+      "file": "control_0000751978_post.html",
+      "filing_date": "2021-04-30",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1519995,
+      "file": "control_0000751978_post2.html",
+      "filing_date": "2024-04-29",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0001025378",
+    "name": "W. P. Carey Inc.",
+    "sic": "6798",
+    "pre": {
+      "status": 200,
+      "bytes": 1506396,
+      "file": "control_0001025378_pre.html",
+      "filing_date": "2018-04-03",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1498298,
+      "file": "control_0001025378_post.html",
+      "filing_date": "2021-03-31",
+      "detected_state_from_filing_text": "NY"
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1497885,
+      "file": "control_0001025378_post2.html",
+      "filing_date": "2024-03-28",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0001067701",
+    "name": "UNITED RENTALS, INC.",
+    "sic": "7359",
+    "pre": {
+      "status": 200,
+      "bytes": 1041354,
+      "file": "control_0001067701_pre.html",
+      "filing_date": "2018-03-27",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 2506108,
+      "file": "control_0001067701_post.html",
+      "filing_date": "2021-03-23",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 2341798,
+      "file": "control_0001067701_post2.html",
+      "filing_date": "2024-03-27",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0001070081",
+    "name": "PTC THERAPEUTICS, INC.",
+    "sic": "2834",
+    "pre": {
+      "status": 200,
+      "bytes": 1366746,
+      "file": "control_0001070081_pre.html",
+      "filing_date": "2018-04-30",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 1844919,
+      "file": "control_0001070081_post.html",
+      "filing_date": "2021-04-29",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 2195426,
+      "file": "control_0001070081_post2.html",
+      "filing_date": "2024-04-26",
+      "detected_state_from_filing_text": null
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0000889331",
+    "name": "LITTELFUSE INC /DE",
+    "sic": "3613",
+    "pre": {
+      "status": 200,
+      "bytes": 1345078,
+      "file": "control_0000889331_pre.html",
+      "filing_date": "2018-03-16",
+      "detected_state_from_filing_text": "IL"
+    },
+    "post": {
+      "status": 200,
+      "bytes": 898023,
+      "file": "control_0000889331_post.html",
+      "filing_date": "2021-03-12",
+      "detected_state_from_filing_text": "IL"
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 1713536,
+      "file": "control_0000889331_post2.html",
+      "filing_date": "2024-03-14",
+      "detected_state_from_filing_text": "IL"
+    }
+  },
+  {
+    "group": "control",
+    "cik": "0001144215",
+    "name": "ACUITY INC. (DE)",
+    "sic": "3640",
+    "pre": {
+      "status": 200,
+      "bytes": 1411411,
+      "file": "control_0001144215_pre.html",
+      "filing_date": "2018-11-19",
+      "detected_state_from_filing_text": null
+    },
+    "post": {
+      "status": 200,
+      "bytes": 2201004,
+      "file": "control_0001144215_post.html",
+      "filing_date": "2021-11-22",
+      "detected_state_from_filing_text": null
+    },
+    "post2": {
+      "status": 200,
+      "bytes": 5356139,
+      "file": "control_0001144215_post2.html",
+      "filing_date": "2024-12-12",
+      "detected_state_from_filing_text": null
+    }
+  }
+]

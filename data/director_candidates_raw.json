@@ -1,0 +1,776 @@
+{
+  "AAPL_post": {
+    "marker": "Election of Directors",
+    "char_offset": 19991,
+    "candidates": [
+      "Independent Registered",
+      "Public\u00a0Accounting\u00a0Firm",
+      "Proxy Access Amendments",
+      "Annual\u00a0Base\u00a0Salary",
+      "Annual\u00a0Cash\u00a0Incentive",
+      "Long-Term\u00a0Equity\u00a0Awards",
+      "Looking Forward"
+    ],
+    "n": 7
+  },
+  "AAPL_pre": {
+    "marker": "Board of Directors and Committees",
+    "char_offset": 11237,
+    "candidates": [
+      "Company\u00a0Boards",
+      "James Bell",
+      "Tim\u00a0Cook",
+      "Al Gore",
+      "Bob Iger",
+      "Andrea Jung",
+      "Art\u00a0Levinson",
+      "Ron Sugar",
+      "Sue Wagner",
+      "Annual Base Salary",
+      "Annual Cash Incentive",
+      "Long-Term\u00a0Equity\u00a0Incentives",
+      "Apple Values",
+      "Supplier Responsibility"
+    ],
+    "n": 14
+  },
+  "ADSK_post": {
+    "marker": "Election of Directors",
+    "char_offset": 7730,
+    "candidates": [
+      "Stockholder Engagement",
+      "Financial Measures",
+      "PROXY STATEMENT FOR",
+      "Proxy Statement Summary",
+      "Board Recommendation",
+      "Page Number",
+      "Principal Occupation",
+      "Andrew Anagnost",
+      "Karen Blasing"
+    ],
+    "n": 9
+  },
+  "ADSK_pre": {
+    "marker": "Election of Directors",
+    "char_offset": 9640,
+    "candidates": [
+      "Performance Metrics",
+      "Net Total Subscription Additions",
+      "Non-GAAP Total Spend",
+      "Technology Industry Experience",
+      "Senior Leadership Experience",
+      "Financial Experience",
+      "International Experience"
+    ],
+    "n": 7
+  },
+  "AMAT_post": {
+    "marker": "NOMINEES FOR ELECTION",
+    "char_offset": 506656,
+    "candidates": [],
+    "n": 0
+  },
+  "AMAT_pre": {
+    "marker": "NOMINEES FOR ELECTION",
+    "char_offset": 281827,
+    "candidates": [],
+    "n": 0
+  },
+  "A_post": {
+    "marker": "Election of Directors",
+    "char_offset": 249713,
+    "candidates": [],
+    "n": 0
+  },
+  "A_pre": {
+    "marker": "ELECTION OF DIRECTORS",
+    "char_offset": 12135,
+    "candidates": [
+      "Non-Employee Director Reimbursement",
+      "Board Leadership Structure",
+      "Board Communications",
+      "Director Independence",
+      "Executive Summary",
+      "Determining Executive Pay",
+      "Additional Information",
+      "Pension Benefits",
+      "BENEFICIAL OWNERSHIP",
+      "Term Expires"
+    ],
+    "n": 10
+  },
+  "CHGG_post": {
+    "marker": "Election of Directors",
+    "char_offset": 92042,
+    "candidates": [
+      "Andrew Brown",
+      "Nathan Schultz",
+      "John Fillmore",
+      "Esther Lem",
+      "EXECUTIVE SUMMARY",
+      "Dan Rosensweig",
+      "Chief Financial Officer",
+      "Chief Marketing Officer",
+      "Financial Performance Highlights"
+    ],
+    "n": 9
+  },
+  "CHGG_pre": {
+    "marker": "Election of Directors",
+    "char_offset": 86868,
+    "candidates": [
+      "Dave Borders Jr.",
+      "Jenny Brandemuehl",
+      "Andrew Brown",
+      "Esther Lem",
+      "Michael Osier",
+      "Nathan Schultz",
+      "EXECUTIVE SUMMARY",
+      "Dan Rosensweig",
+      "Chief Financial Officer",
+      "Chief Outcomes Officer",
+      "Chief Learning Officer",
+      "Chief Marketing Officer",
+      "Charles Geiger",
+      "Former Chief Product Officer",
+      "What We Do",
+      "What We Don't Do"
+    ],
+    "n": 16
+  },
+  "CLX_post": {
+    "marker": "Our Director Nominees",
+    "char_offset": 13832,
+    "candidates": [
+      "Our Director Nominees",
+      "Shareholder Engagement",
+      "Board Leadership Structure",
+      "Vote Required",
+      "How Our Directors Govern",
+      "Our Company",
+      "Stock Ownership Information",
+      "THE CLOROX COMPANY",
+      "Voting Information",
+      "Eliminating Duplicative Proxy Materials",
+      "Proxy Summary",
+      "FOR EACH NOMINEE",
+      "Principal Occupation",
+      "Amy Banse",
+      "Richard H. Carmona",
+      "Spencer C. Fleischer",
+      "Esther Lee",
+      "A. D. David Mackay",
+      "Paul Parker",
+      "Linda Rendle",
+      "Matthew J. Shattock",
+      "Kathryn Tesija",
+      "Russell J. Weiner",
+      "Christopher J. Williams"
+    ],
+    "n": 24
+  },
+  "CLX_pre": {
+    "marker": "Our Director Nominees",
+    "char_offset": 13378,
+    "candidates": [
+      "Our Director Nominees",
+      "Principal Occupation",
+      "H. Carmona",
+      "C. Fleischer",
+      "D. David Mackay",
+      "W. Matschullat",
+      "J. Shattock",
+      "Lead Independent Director",
+      "M. Ticknor",
+      "J. Weiner",
+      "J. Williams",
+      "THE CLOROX",
+      "THE CLOROX COMPANY",
+      "Proxy Summary"
+    ],
+    "n": 14
+  },
+  "DECK_post": {
+    "marker": "Election of Directors",
+    "char_offset": 12494,
+    "candidates": [
+      "Other Business",
+      "Board Recommendations",
+      "Dave Powers",
+      "Proxy Statement Summary",
+      "Director Nominees",
+      "Executive Officers",
+      "Executive Summary",
+      "Related-Person Transactions"
+    ],
+    "n": 8
+  },
+  "DECK_pre": {
+    "marker": "Election of Directors",
+    "char_offset": 11506,
+    "candidates": [
+      "Other Business",
+      "Board Recommendations",
+      "David Powers",
+      "Director Nominees",
+      "Executive Officers",
+      "Executive Summary",
+      "Related Person Transactions"
+    ],
+    "n": 7
+  },
+  "EIX_post": {
+    "marker": "Election of Directors",
+    "char_offset": 9640,
+    "candidates": [
+      "Jeanne Beliveau-Dunn",
+      "Carey A. Smith",
+      "Linda G. Stuntz",
+      "Vanessa C.L. Chang",
+      "William P. Sullivan",
+      "James T. Morris",
+      "Peter J. Taylor",
+      "Keith Trent",
+      "Pedro J. Pizarro",
+      "Alisa Do",
+      "Edison International",
+      "Director Biographical Information",
+      "Stock Ownership",
+      "Pension Benefits Table",
+      "CEO Pay-Ratio Disclosure",
+      "Stakeholder Alignment"
+    ],
+    "n": 16
+  },
+  "EIX_pre": {
+    "marker": "Election of Directors",
+    "char_offset": 7176,
+    "candidates": [
+      "Vanessa C.L. Chang",
+      "James T. Morris",
+      "Kevin M. Payne",
+      "Pedro J. Pizarro",
+      "Linda G. Stuntz",
+      "William P. Sullivan",
+      "Ellen O. Tauscher",
+      "Peter J. Taylor",
+      "Brett White",
+      "Registered Public Accounting Firm",
+      "Shareholder Proxy Access",
+      "Barbara E. Mathews",
+      "Edison International",
+      "Southern California Edison Company",
+      "Proxy Summary",
+      "Our Stock Ownership",
+      "Pension Benefits",
+      "CEO Pay-Ratio Disclosure",
+      "PROXY SUMMARY"
+    ],
+    "n": 19
+  },
+  "ESS_post": {
+    "marker": "Election of Directors",
+    "char_offset": 11405,
+    "candidates": [
+      "Long-Term Performance Charts",
+      "Dividend Per Share",
+      "Best Practices",
+      "Presiding Independent Director",
+      "Effective Board Risk Oversight",
+      "Regular Succession Planning",
+      "No Employment Agreements",
+      "No Tax Gross-Ups",
+      "Maintain Political Contributions Policy"
+    ],
+    "n": 9
+  },
+  "ESS_pre": {
+    "marker": "Election of Directors",
+    "char_offset": 13110,
+    "candidates": [
+      "Long-Term Performance Charts",
+      "Presiding Independent Director",
+      "Effective Board Risk Oversight",
+      "Regular Succession Planning",
+      "No Employment Agreements",
+      "No Tax Gross-Ups"
+    ],
+    "n": 6
+  },
+  "GILD_post": {
+    "marker": "Election of Directors",
+    "char_offset": 12803,
+    "candidates": [
+      "Board Structure",
+      "Board Processes",
+      "Executive Officers",
+      "CEO Pay Ratio",
+      "Stock Ownership Information",
+      "Back Cover"
+    ],
+    "n": 6
+  },
+  "GILD_pre": {
+    "marker": "Election of Directors",
+    "char_offset": 8971,
+    "candidates": [
+      "Board Structure",
+      "Board Processes",
+      "Executive Officers",
+      "Pay Ratio Disclosure",
+      "Stock Ownership Information",
+      "Director Nominees",
+      "Lead Independent Director",
+      "Kelly A. Kramer",
+      "Kevin E. Lofton",
+      "Gayle E. Wilson",
+      "Board Snapshot",
+      "Medical Services",
+      "Healthcare Policy",
+      "Gender Diversity",
+      "Evolving Leadership Structure"
+    ],
+    "n": 15
+  },
+  "HPQ_post": {
+    "marker": "Our Director Nominees",
+    "char_offset": 10657,
+    "candidates": [
+      "Our Director Nominees",
+      "HP\u00a0Director",
+      "Public Registrant Boards",
+      "Name Principal Occupation",
+      "Aida M. Alvarez",
+      "Oportun Financial Corporation",
+      "Shumeet Banerji",
+      "Reliance Industries Ltd.",
+      "Robert R. Bennett",
+      "Discovery Inc.",
+      "Liberty Media Corporation",
+      "Stacy Brown-Philpot",
+      "Stephanie A. Burns",
+      "Kellogg Company",
+      "Mary Anne Citrino",
+      "Ahold Delhaize",
+      "Alcoa Corporation",
+      "Richard L. Clemmer",
+      "Aptiv PLC",
+      "Enrique Lores",
+      "General Motors Company",
+      "Morgan Stanley",
+      "Subra Suresh",
+      "Singapore Exchange Limited",
+      "Proxy Statement Summary",
+      "Nominee Composition",
+      "Independent Board Leadership",
+      "Gender Diversity",
+      "Ethnic Diversity"
+    ],
+    "n": 29
+  },
+  "HPQ_pre": {
+    "marker": "Election of Directors",
+    "char_offset": 10005,
+    "candidates": [
+      "Principal Occupation",
+      "HP Director",
+      "Public Registrant Boards",
+      "Aida M. Alvarez",
+      "Shumeet Banerji",
+      "Reliance Industries Ltd.",
+      "Robert R. Bennett",
+      "Liberty Media Corporation",
+      "Stacy Brown-Philpot",
+      "Stephanie A. Burns",
+      "Kellogg Company",
+      "Mary Anne Citrino",
+      "Royal Ahold Delhaize",
+      "Alcoa Corporation",
+      "Stacey Mobley",
+      "Subra Suresh",
+      "Dion J. Weisler",
+      "Thermo Fisher Scientific Inc.",
+      "Proxy Statement Summary",
+      "Board Leadership",
+      "Best Practices"
+    ],
+    "n": 21
+  },
+  "JACK_post": {
+    "marker": "Nominees for Director",
+    "char_offset": 5696,
+    "candidates": [
+      "Lead Director",
+      "Executive Sessions",
+      "Insider Participation",
+      "I. \u2009\u2009\u2009\u2009Executive Summary",
+      "Retirement Plan Benefits"
+    ],
+    "n": 5
+  },
+  "JACK_pre": {
+    "marker": "Nominees for Director",
+    "char_offset": 5147,
+    "candidates": [
+      "Lead Director",
+      "Executive Sessions",
+      "I.\u00a0\u00a0\u00a0\u00a0Executive Summary",
+      "Retirement Plan Benefits",
+      "Phillip H. Rudolph"
+    ],
+    "n": 5
+  },
+  "KLAC_post": {
+    "marker": "ELECTION OF DIRECTORS",
+    "char_offset": 4636,
+    "candidates": [
+      "PRICEWATERHOUSECOOPERS LLP AS",
+      "OUR INDEPENDENT",
+      "INFORMATION ABOUT EXECUTIVE OFFICERS",
+      "OWNERS AND MANAGEMENT",
+      "QUESTIONS AND ANSWERS"
+    ],
+    "n": 5
+  },
+  "KLAC_pre": {
+    "marker": "Election of Directors",
+    "char_offset": 5155,
+    "candidates": [
+      "Information About Executive Officers",
+      "QUESTIONS AND ANSWERS"
+    ],
+    "n": 2
+  },
+  "KRC_post": {
+    "marker": "Nominees for Director",
+    "char_offset": 141736,
+    "candidates": [
+      "KILROY REALTY",
+      "Annual Board Evaluations"
+    ],
+    "n": 2
+  },
+  "KRC_pre": {
+    "marker": "Nominees for Director",
+    "char_offset": 95347,
+    "candidates": [
+      "Kilroy\u00a0Realty\u00a0Corporation",
+      "Annual Board Evaluations"
+    ],
+    "n": 2
+  },
+  "LRCX_post": {
+    "marker": "Nominees for Director",
+    "char_offset": 11873,
+    "candidates": [
+      "Other Voting Matters",
+      "Proxy Statement Summary",
+      "About Lam Research Corporation"
+    ],
+    "n": 3
+  },
+  "LRCX_pre": {
+    "marker": "Nominees for Director",
+    "char_offset": 9382,
+    "candidates": [
+      "Other Voting Matters",
+      "Statement Summary",
+      "Voting Matters",
+      "Board\u00a0Vote",
+      "Other Current Public",
+      "Martin B. Anstice",
+      "Eric K. Brandt",
+      "Michael R. Cannon",
+      "Seagate\u00a0Technology",
+      "Youssef A.",
+      "Christine A. Heckart",
+      "Catherine P. Lego",
+      "IPG Photonics",
+      "Stephen G. Newberry",
+      "Abhijit Y. Talwalkar",
+      "TE Connectivity",
+      "USI Corporation",
+      "Industry Knowledge"
+    ],
+    "n": 18
+  },
+  "MAT_post": {
+    "marker": "Election of Directors",
+    "char_offset": 13294,
+    "candidates": [
+      "Board Structure",
+      "Executive Officers",
+      "Pay-For-Performance Philosophy",
+      "Estimated Potential Payments",
+      "Principal Stockholders"
+    ],
+    "n": 5
+  },
+  "MAT_pre": {
+    "marker": "Nominees for Director",
+    "char_offset": 101403,
+    "candidates": [
+      "Executive Chairman."
+    ],
+    "n": 1
+  },
+  "MOH_post": {
+    "marker": "Board of Directors and Committees",
+    "char_offset": 4436,
+    "candidates": [
+      "Related Party Transactions",
+      "CEO Pay Ratio",
+      "Others Matters",
+      "ABOUT MOLINA HEALTHCARE",
+      "Our Mission",
+      "Our Vision",
+      "Premium Revenue",
+      "Total Revenue",
+      "After-Tax Margin",
+      "Other Notable Achievements",
+      "Low Cost"
+    ],
+    "n": 11
+  },
+  "MOH_pre": {
+    "marker": "Board of Directors and Committees",
+    "char_offset": 3962,
+    "candidates": [
+      "CEO Pay Ratio",
+      "Related Party Transactions",
+      "Others Matters",
+      "ABOUT MOLINA HEALTHCARE",
+      "Our Mission",
+      "Total Revenue",
+      "Net Loss Margin",
+      "Ending Membership",
+      "Board Vote Recommendation",
+      "Executive Sessions",
+      "Share Ownership Requirements"
+    ],
+    "n": 11
+  },
+  "O_post": {
+    "marker": "Nominees for Director",
+    "char_offset": 131751,
+    "candidates": [
+      "Board Refreshment",
+      "Realty Income",
+      "Stockholder Recommendations"
+    ],
+    "n": 3
+  },
+  "O_pre": {
+    "marker": "Nominees for Director",
+    "char_offset": 62632,
+    "candidates": [
+      "Realty Income",
+      "Stockholder Recommendations",
+      "Board Independence"
+    ],
+    "n": 3
+  },
+  "PCG_post": {
+    "marker": "Nominees for Director",
+    "char_offset": 35789,
+    "candidates": [
+      "Director Biographies",
+      "Cheryl F. Campbell",
+      "Kerry W. Cooper",
+      "Arno L. Harris"
+    ],
+    "n": 4
+  },
+  "PCG_pre": {
+    "marker": "Nominees for Director",
+    "char_offset": 8173,
+    "candidates": [
+      "Board Leadership Structure",
+      "Director Nomination Process",
+      "Risk Management",
+      "Board Oversight",
+      "SHARE OWNERSHIP INFORMATION",
+      "Principal Shareholders",
+      "RELATED PARTY TRANSACTIONS",
+      "LEGAL PROCEEDINGS",
+      "Joint Proxy Statement"
+    ],
+    "n": 9
+  },
+  "RHI_post": {
+    "marker": "Election of Directors",
+    "char_offset": 5498,
+    "candidates": [
+      "Directors Skills Matrix",
+      "Director Independence",
+      "Director Succession Plan",
+      "Risk Oversight Role",
+      "Executive Officers",
+      "Other Benefits",
+      "CEO Pay Ratio",
+      "Required Director Ownership",
+      "General Information Section",
+      "Beneficial Stock Ownership",
+      "Voting Tabulation Information",
+      "Proxy Summary",
+      "BUSINESS HIGHLIGHTS",
+      "Cumulative Total Stockholder Returns",
+      "Stockholder Value Creation",
+      "Global Anti-Corruption Policy",
+      "Securities Laws"
+    ],
+    "n": 17
+  },
+  "RHI_pre": {
+    "marker": "Nominees for Director",
+    "char_offset": 141381,
+    "candidates": [
+      "Marc H. Morial",
+      "Barbara J. Novogradac",
+      "Frederick A. Richman"
+    ],
+    "n": 3
+  },
+  "RH_post": {
+    "marker": "Election of Directors",
+    "char_offset": 29151,
+    "candidates": [
+      "INTENTIONALLY LEFT BLANK",
+      "SECURITY OWNERSHIP OF TOP"
+    ],
+    "n": 2
+  },
+  "RH_pre": {
+    "marker": "Nominees for Director",
+    "char_offset": 34862,
+    "candidates": [
+      "Gary Friedman",
+      "Carlos Alberini",
+      "Keith C. Belling"
+    ],
+    "n": 3
+  },
+  "RMD_post": {
+    "marker": null,
+    "candidates": [],
+    "n": 0,
+    "note": "NO SECTION MARKER FOUND"
+  },
+  "RMD_pre": {
+    "marker": null,
+    "candidates": [],
+    "n": 0,
+    "note": "NO SECTION MARKER FOUND"
+  },
+  "ROST_post": {
+    "marker": "Election of Directors",
+    "char_offset": 26059,
+    "candidates": [
+      "Principal Position",
+      "K. Gunnar Bjorklund",
+      "Michael J. Bush",
+      "Sharon D. Garrett",
+      "Michael J. Hartshorn",
+      "Stephen D. Milligan",
+      "Patricia H. Mueller",
+      "George P. Orban",
+      "Gregory L. Quesnel"
+    ],
+    "n": 9
+  },
+  "ROST_pre": {
+    "marker": "Election of Directors",
+    "char_offset": 24320,
+    "candidates": [
+      "Principal Position",
+      "Michael Balmuth",
+      "K. Gunnar Bjorklund",
+      "Michael J. Bush",
+      "Norman A. Ferber",
+      "Sharon D. Garrett",
+      "Stephen D. Milligan",
+      "George P. Orban",
+      "Michael O'Sullivan",
+      "Lawrence S. Peiros",
+      "Gregory L. Quesnel"
+    ],
+    "n": 11
+  },
+  "SNPS_post": {
+    "marker": "Our Director Nominees",
+    "char_offset": 25237,
+    "candidates": [
+      "Our Director Nominees",
+      "Professional Experience",
+      "Relevant Skills",
+      "PTC Inc.",
+      "Oracle Corporation"
+    ],
+    "n": 5
+  },
+  "SNPS_pre": {
+    "marker": "Our Director Nominees",
+    "char_offset": 14105,
+    "candidates": [
+      "Our Director Nominees",
+      "Synopsys Inc.",
+      "Dr.\u00a0Chi-Foon",
+      "Janice D.",
+      "PTC Inc.",
+      "International Game Technology"
+    ],
+    "n": 6
+  },
+  "V_post": {
+    "marker": "ELECTION OF DIRECTORS",
+    "char_offset": 13756,
+    "candidates": [
+      "DIRECTOR NOMINEE BIOGRAPHIES",
+      "BENEFICIAL OWNERSHIP",
+      "OF EQUITY SECURITIES",
+      "EXECUTIVE OFFICERS",
+      "AND ANALYSIS",
+      "Executive Summary",
+      "Visa Retirement Plan",
+      "CEO PAY",
+      "OUR NEOs",
+      "Who Can Vote",
+      "How Proxies Are Voted",
+      "Proxy Solicitor",
+      "Voting Results",
+      "PROXY SUMMARY",
+      "VOTING MATTERS",
+      "Page\u00a0Number"
+    ],
+    "n": 16
+  },
+  "V_pre": {
+    "marker": "Election of Directors",
+    "char_offset": 341890,
+    "candidates": [],
+    "n": 0
+  },
+  "WSM_post": {
+    "marker": "ELECTION OF DIRECTORS",
+    "char_offset": 8239,
+    "candidates": [
+      "NOTE ABOUT FORWARD-LOOKING STATEMENTS"
+    ],
+    "n": 1
+  },
+  "WSM_pre": {
+    "marker": "Election of Directors",
+    "char_offset": 340378,
+    "candidates": [
+      "Laura Alber",
+      "Christiana Smith Shi",
+      "Adrian Bellamy",
+      "Sabrina Simmons",
+      "Anthony Greener",
+      "Jerry Stritzke",
+      "Robert Lord",
+      "Grace Puma"
+    ],
+    "n": 8
+  }
+}

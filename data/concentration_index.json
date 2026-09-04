@@ -1,0 +1,7 @@
+{
+  "n_unique_new_appointees": 81,
+  "n_total_new_appointments": 81,
+  "gini_of_appointment_counts": 0.0,
+  "max_boards_by_single_appointee": 1,
+  "note": "High Gini / high max = tokenism-consistent (small recycled pool). Low Gini = broad-based entry (H1-alt consistent). NOTE: only detects recycling WITHIN this sample -- an appointee could sit on many more boards outside the sample and appear as 1 here."
+}

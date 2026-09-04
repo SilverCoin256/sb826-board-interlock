@@ -1,0 +1,51 @@
+{
+  "pre": {
+    "n_firms": 8,
+    "n_directors": 68,
+    "n_interlock_edges": 0,
+    "within_sample_density": 0.0
+  },
+  "post": {
+    "n_firms": 5,
+    "n_directors": 43,
+    "n_interlock_edges": 0,
+    "within_sample_density": 0.0
+  },
+  "turnover": {
+    "CHGG": {
+      "pre_n": 8,
+      "post_n": 5,
+      "kept": 4,
+      "departed": 4,
+      "added": 1
+    },
+    "CLX": {
+      "pre_n": 8,
+      "post_n": 11,
+      "kept": 6,
+      "departed": 2,
+      "added": 5
+    },
+    "EIX": {
+      "pre_n": 10,
+      "post_n": 10,
+      "kept": 6,
+      "departed": 4,
+      "added": 4
+    },
+    "HPQ": {
+      "pre_n": 9,
+      "post_n": 9,
+      "kept": 7,
+      "departed": 2,
+      "added": 2
+    },
+    "ROST": {
+      "pre_n": 10,
+      "post_n": 8,
+      "kept": 6,
+      "departed": 4,
+      "added": 2
+    }
+  }
+}

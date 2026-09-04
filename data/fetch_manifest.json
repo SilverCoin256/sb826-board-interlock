@@ -1,0 +1,600 @@
+[
+  {
+    "ticker": "AAPL",
+    "cik": "0000320193",
+    "name": "Apple Inc.",
+    "pre": {
+      "ticker": "AAPL",
+      "tag": "pre",
+      "url": "https://www.sec.gov/Archives/edgar/data/320193/000119312517380130/d400278ddef14a.htm",
+      "status": 200,
+      "bytes": 822164,
+      "saved": "/Users/shaurya/CascadeProjects/sb826-board-interlock/data/raw_def14a/AAPL_pre.html",
+      "filing_date": "2017-12-27"
+    },
+    "post": {
+      "ticker": "AAPL",
+      "tag": "post",
+      "url": "https://www.sec.gov/Archives/edgar/data/320193/000119312521001987/d767770ddef14a.htm",
+      "status": 200,
+      "bytes": 809546,
+      "saved": "/Users/shaurya/CascadeProjects/sb826-board-interlock/data/raw_def14a/AAPL_post.html",
+      "filing_date": "2021-01-05"
+    }
+  },
+  {
+    "ticker": "V",
+    "cik": "0001403161",
+    "name": "VISA INC.",
+    "pre": {
+      "ticker": "V",
+      "tag": "pre",
+      "url": "https://www.sec.gov/Archives/edgar/data/1403161/000119312518343216/d635500ddef14a.htm",
+      "status": 200,
+      "bytes": 1680461,
+      "saved": "/Users/shaurya/CascadeProjects/sb826-board-interlock/data/raw_def14a/V_pre.html",
+      "filing_date": "2018-12-06"
+    },
+    "post": {
+      "ticker": "V",
+      "tag": "post",
+      "url": "https://www.sec.gov/Archives/edgar/data/1403161/000119312521346291/d184850ddef14a.htm",
+      "status": 200,
+      "bytes": 1607496,
+      "saved": "/Users/shaurya/CascadeProjects/sb826-board-interlock/data/raw_def14a/V_post.html",
+      "filing_date": "2021-12-02"
+    }
+  },
+  {
+    "ticker": "CLX",
+    "cik": "0000021076",
+    "name": "CLOROX CO /DE/",
+    "pre": {
+      "ticker": "CLX",
+      "tag": "pre",
+      "url": "https://www.sec.gov/Archives/edgar/data/21076/000120677418002874/clorox3458181-def14a.htm",
+      "status": 200,
+      "bytes": 2718161,
+      "saved": "/Users/shaurya/CascadeProjects/sb826-board-interlock/data/raw_def14a/CLX_pre.html",
+      "filing_date": "2018-10-01"
+    },
+    "post": {
+      "ticker": "CLX",
+      "tag": "post",
+      "url": "https://www.sec.gov/Archives/edgar/data/21076/000120677421002562/clorox3957551-def14a.htm",
+      "status": 200,
+      "bytes": 2845327,
+      "saved": "/Users/shaurya/CascadeProjects/sb826-board-interlock/data/raw_def14a/CLX_post.html",
+      "filing_date": "2021-10-06"
+    }
+  },
+  {
+    "ticker": "PCG",
+    "cik": "0001004980",
+    "name": "PG&E Corp",
+    "pre": {
+      "ticker": "PCG",
+      "tag": "pre",
+      "url": "https://www.sec.gov/Archives/edgar/data/1004980/000130817918000082/lpcg2018_def14a.htm",
+      "status": 200,
+      "bytes": 1143972,
+      "saved": "/Users/shaurya/CascadeProjects/sb826-board-interlock/data/raw_def14a/PCG_pre.html",
+      "filing_date": "2018-03-26"
+    },
+    "post": {
+      "ticker": "PCG",
+      "tag": "post",
+      "url": "https://www.sec.gov/Archives/edgar/data/1004980/000130817921000200/lpcg2021_def14a.htm",
+      "status": 200,
+      "bytes": 1725177,
+      "saved": "/Users/shaurya/CascadeProjects/sb826-board-interlock/data/raw_def14a/PCG_post.html",
+      "filing_date": "2021-04-08"
+    }
+  },
+  {
+    "ticker": "GILD",
+    "cik": "0000882095",
+    "name": "GILEAD SCIENCES, INC.",
+    "pre": {
+      "ticker": "GILD",
+      "tag": "pre",
+      "url": "https://www.sec.gov/Archives/edgar/data/882095/000120677418000957/gilead3281381-def14a.htm",
+      "status": 200,
+      "bytes": 1466201,
+      "saved": "/Users/shaurya/CascadeProjects/sb826-board-interlock/data/raw_def14a/GILD_pre.html",
+      "filing_date": "2018-03-26"
+    },
+    "post": {
+      "ticker": "GILD",
+      "tag": "post",
+      "url": "https://www.sec.gov/Archives/edgar/data/882095/000120677421000908/gild3818501-def14a.htm",
+      "status": 200,
+      "bytes": 1663865,
+      "saved": "/Users/shaurya/CascadeProjects/sb826-board-interlock/data/raw_def14a/GILD_post.html",
+      "filing_date": "2021-03-30"
+    }
+  },
+  {
+    "ticker": "AMAT",
+    "cik": "0000006951",
+    "name": "APPLIED MATERIALS INC /DE",
+    "pre": {
+      "ticker": "AMAT",
+      "tag": "pre",
+      "url": "https://www.sec.gov/Archives/edgar/data/6951/000119312518019840/d459884ddef14a.htm",
+      "status": 200,
+      "bytes": 1307421,
+      "saved": "/Users/shaurya/CascadeProjects/sb826-board-interlock/data/raw_def14a/AMAT_pre.html",
+      "filing_date": "2018-01-25"
+    },
+    "post": {
+      "ticker": "AMAT",
+      "tag": "post",
+      "url": "https://www.sec.gov/Archives/edgar/data/6951/000119312521020838/d931543ddef14a.htm",
+      "status": 200,
+      "bytes": 1741195,
+      "saved": "/Users/shaurya/CascadeProjects/sb826-board-interlock/data/raw_def14a/AMAT_post.html",
+      "filing_date": "2021-01-28"
+    }
+  },
+  {
+    "ticker": "EIX",
+    "cik": "0000827052",
+    "name": "EDISON INTERNATIONAL",
+    "pre": {
+      "ticker": "EIX",
+      "tag": "pre",
+      "url": "https://www.sec.gov/Archives/edgar/data/827052/000120677418000854/edison3328951-def14a.htm",
+      "status": 200,
+      "bytes": 1650108,
+      "saved": "/Users/shaurya/CascadeProjects/sb826-board-interlock/data/raw_def14a/EIX_pre.html",
+      "filing_date": "2018-03-16"
+    },
+    "post": {
+      "ticker": "EIX",
+      "tag": "post",
+      "url": "https://www.sec.gov/Archives/edgar/data/827052/000120677421000696/eix3851521-def14a.htm",
+      "status": 200,
+      "bytes": 1275586,
+      "saved": "/Users/shaurya/CascadeProjects/sb826-board-interlock/data/raw_def14a/EIX_post.html",
+      "filing_date": "2021-03-12"
+    }
+  },
+  {
+    "ticker": "MAT",
+    "cik": "0000063276",
+    "name": "MATTEL INC /DE/",
+    "pre": {
+      "ticker": "MAT",
+      "tag": "pre",
+      "url": "https://www.sec.gov/Archives/edgar/data/63276/000119312518108841/d482786ddef14a.htm",
+      "status": 200,
+      "bytes": 3820856,
+      "saved": "/Users/shaurya/CascadeProjects/sb826-board-interlock/data/raw_def14a/MAT_pre.html",
+      "filing_date": "2018-04-05"
+    },
+    "post": {
+      "ticker": "MAT",
+      "tag": "post",
+      "url": "https://www.sec.gov/Archives/edgar/data/63276/000120677421001094/mat3833161-def14a.htm",
+      "status": 200,
+      "bytes": 1982919,
+      "saved": "/Users/shaurya/CascadeProjects/sb826-board-interlock/data/raw_def14a/MAT_post.html",
+      "filing_date": "2021-04-13"
+    }
+  },
+  {
+    "ticker": "ROST",
+    "cik": "0000745732",
+    "name": "ROSS STORES, INC.",
+    "pre": {
+      "ticker": "ROST",
+      "tag": "pre",
+      "url": "https://www.sec.gov/Archives/edgar/data/745732/000074573218000008/fy2018proxy.htm",
+      "status": 200,
+      "bytes": 817437,
+      "saved": "/Users/shaurya/CascadeProjects/sb826-board-interlock/data/raw_def14a/ROST_pre.html",
+      "filing_date": "2018-04-10"
+    },
+    "post": {
+      "ticker": "ROST",
+      "tag": "post",
+      "url": "https://www.sec.gov/Archives/edgar/data/745732/000074573221000021/fy2021proxy.htm",
+      "status": 200,
+      "bytes": 746662,
+      "saved": "/Users/shaurya/CascadeProjects/sb826-board-interlock/data/raw_def14a/ROST_post.html",
+      "filing_date": "2021-04-06"
+    }
+  },
+  {
+    "ticker": "WSM",
+    "cik": "0000719955",
+    "name": "WILLIAMS SONOMA INC",
+    "pre": {
+      "ticker": "WSM",
+      "tag": "pre",
+      "url": "https://www.sec.gov/Archives/edgar/data/719955/000119312518116995/d561100ddef14a.htm",
+      "status": 200,
+      "bytes": 1144915,
+      "saved": "/Users/shaurya/CascadeProjects/sb826-board-interlock/data/raw_def14a/WSM_pre.html",
+      "filing_date": "2018-04-13"
+    },
+    "post": {
+      "ticker": "WSM",
+      "tag": "post",
+      "url": "https://www.sec.gov/Archives/edgar/data/719955/000119312521119450/d108438ddef14a.htm",
+      "status": 200,
+      "bytes": 1275210,
+      "saved": "/Users/shaurya/CascadeProjects/sb826-board-interlock/data/raw_def14a/WSM_post.html",
+      "filing_date": "2021-04-16"
+    }
+  },
+  {
+    "ticker": "HPQ",
+    "cik": "0000047217",
+    "name": "HP INC",
+    "pre": {
+      "ticker": "HPQ",
+      "tag": "pre",
+      "url": "https://www.sec.gov/Archives/edgar/data/47217/000120677418000563/hp3289181-def14a.htm",
+      "status": 200,
+      "bytes": 1117709,
+      "saved": "/Users/shaurya/CascadeProjects/sb826-board-interlock/data/raw_def14a/HPQ_pre.html",
+      "filing_date": "2018-02-26"
+    },
+    "post": {
+      "ticker": "HPQ",
+      "tag": "post",
+      "url": "https://www.sec.gov/Archives/edgar/data/47217/000120677421000494/hpq3871831-def14a.htm",
+      "status": 200,
+      "bytes": 1254888,
+      "saved": "/Users/shaurya/CascadeProjects/sb826-board-interlock/data/raw_def14a/HPQ_post.html",
+      "filing_date": "2021-02-22"
+    }
+  },
+  {
+    "ticker": "MOH",
+    "cik": "0001179929",
+    "name": "MOLINA HEALTHCARE, INC.",
+    "pre": {
+      "ticker": "MOH",
+      "tag": "pre",
+      "url": "https://www.sec.gov/Archives/edgar/data/1179929/000117992918000072/a2018proxy.htm",
+      "status": 200,
+      "bytes": 1748820,
+      "saved": "/Users/shaurya/CascadeProjects/sb826-board-interlock/data/raw_def14a/MOH_pre.html",
+      "filing_date": "2018-03-19"
+    },
+    "post": {
+      "ticker": "MOH",
+      "tag": "post",
+      "url": "https://www.sec.gov/Archives/edgar/data/1179929/000117992921000055/a2021definitiveproxy.htm",
+      "status": 200,
+      "bytes": 1386854,
+      "saved": "/Users/shaurya/CascadeProjects/sb826-board-interlock/data/raw_def14a/MOH_post.html",
+      "filing_date": "2021-03-22"
+    }
+  },
+  {
+    "ticker": "ADSK",
+    "cik": "0000769397",
+    "name": "Autodesk, Inc.",
+    "pre": {
+      "ticker": "ADSK",
+      "tag": "pre",
+      "url": "https://www.sec.gov/Archives/edgar/data/769397/000120677418001517/auto3348531-def14a.htm",
+      "status": 200,
+      "bytes": 1174483,
+      "saved": "/Users/shaurya/CascadeProjects/sb826-board-interlock/data/raw_def14a/ADSK_pre.html",
+      "filing_date": "2018-05-01"
+    },
+    "post": {
+      "ticker": "ADSK",
+      "tag": "post",
+      "url": "https://www.sec.gov/Archives/edgar/data/769397/000076939721000024/proxydocument2021.htm",
+      "status": 200,
+      "bytes": 1183701,
+      "saved": "/Users/shaurya/CascadeProjects/sb826-board-interlock/data/raw_def14a/ADSK_post.html",
+      "filing_date": "2021-05-04"
+    }
+  },
+  {
+    "ticker": "SNPS",
+    "cik": "0000883241",
+    "name": "SYNOPSYS INC",
+    "pre": {
+      "ticker": "SNPS",
+      "tag": "pre",
+      "url": "https://www.sec.gov/Archives/edgar/data/883241/000119312518048649/d515555ddef14a.htm",
+      "status": 200,
+      "bytes": 1178389,
+      "saved": "/Users/shaurya/CascadeProjects/sb826-board-interlock/data/raw_def14a/SNPS_pre.html",
+      "filing_date": "2018-02-16"
+    },
+    "post": {
+      "ticker": "SNPS",
+      "tag": "post",
+      "url": "https://www.sec.gov/Archives/edgar/data/883241/000088324121000005/a2021proxystatementdef14a.htm",
+      "status": 200,
+      "bytes": 1968956,
+      "saved": "/Users/shaurya/CascadeProjects/sb826-board-interlock/data/raw_def14a/SNPS_post.html",
+      "filing_date": "2021-02-18"
+    }
+  },
+  {
+    "ticker": "A",
+    "cik": "0001090872",
+    "name": "AGILENT TECHNOLOGIES, INC.",
+    "pre": {
+      "ticker": "A",
+      "tag": "pre",
+      "url": "https://www.sec.gov/Archives/edgar/data/1090872/000156459018001685/a-def14a_20180321.htm",
+      "status": 200,
+      "bytes": 2898607,
+      "saved": "/Users/shaurya/CascadeProjects/sb826-board-interlock/data/raw_def14a/A_pre.html",
+      "filing_date": "2018-02-08"
+    },
+    "post": {
+      "ticker": "A",
+      "tag": "post",
+      "url": "https://www.sec.gov/Archives/edgar/data/1090872/000156459021004195/a-def14a_20210204.htm",
+      "status": 200,
+      "bytes": 3359128,
+      "saved": "/Users/shaurya/CascadeProjects/sb826-board-interlock/data/raw_def14a/A_post.html",
+      "filing_date": "2021-02-04"
+    }
+  },
+  {
+    "ticker": "KLAC",
+    "cik": "0000319201",
+    "name": "KLA CORP",
+    "pre": {
+      "ticker": "KLAC",
+      "tag": "pre",
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312518287447/d604315ddef14a.htm",
+      "status": 200,
+      "bytes": 1092349,
+      "saved": "/Users/shaurya/CascadeProjects/sb826-board-interlock/data/raw_def14a/KLAC_pre.html",
+      "filing_date": "2018-09-28"
+    },
+    "post": {
+      "ticker": "KLAC",
+      "tag": "post",
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000110465921119286/tm2128061d1_def14a.htm",
+      "status": 200,
+      "bytes": 1154066,
+      "saved": "/Users/shaurya/CascadeProjects/sb826-board-interlock/data/raw_def14a/KLAC_post.html",
+      "filing_date": "2021-09-24"
+    }
+  },
+  {
+    "ticker": "LRCX",
+    "cik": "0000707549",
+    "name": "LAM RESEARCH CORP",
+    "pre": {
+      "ticker": "LRCX",
+      "tag": "pre",
+      "url": "https://www.sec.gov/Archives/edgar/data/707549/000119312518284078/d618470ddef14a.htm",
+      "status": 200,
+      "bytes": 1603875,
+      "saved": "/Users/shaurya/CascadeProjects/sb826-board-interlock/data/raw_def14a/LRCX_pre.html",
+      "filing_date": "2018-09-26"
+    },
+    "post": {
+      "ticker": "LRCX",
+      "tag": "post",
+      "url": "https://www.sec.gov/Archives/edgar/data/707549/000110465921120221/tm2120121-1_def14a.htm",
+      "status": 200,
+      "bytes": 2301350,
+      "saved": "/Users/shaurya/CascadeProjects/sb826-board-interlock/data/raw_def14a/LRCX_post.html",
+      "filing_date": "2021-09-28"
+    }
+  },
+  {
+    "ticker": "RMD",
+    "cik": "0000943819",
+    "name": "RESMED INC",
+    "pre": {
+      "ticker": "RMD",
+      "tag": "pre",
+      "url": "https://www.sec.gov/Archives/edgar/data/943819/000119312518291742/d612931ddef14a.htm",
+      "status": 200,
+      "bytes": 1409615,
+      "saved": "/Users/shaurya/CascadeProjects/sb826-board-interlock/data/raw_def14a/RMD_pre.html",
+      "filing_date": "2018-10-03"
+    },
+    "post": {
+      "ticker": "RMD",
+      "tag": "post",
+      "url": "https://www.sec.gov/Archives/edgar/data/943819/000094381921000024/rmd-20211006xdef14a.htm",
+      "status": 200,
+      "bytes": 2024022,
+      "saved": "/Users/shaurya/CascadeProjects/sb826-board-interlock/data/raw_def14a/RMD_post.html",
+      "filing_date": "2021-10-06"
+    }
+  },
+  {
+    "ticker": "RHI",
+    "cik": "0000315213",
+    "name": "ROBERT HALF INC.",
+    "pre": {
+      "ticker": "RHI",
+      "tag": "pre",
+      "url": "https://www.sec.gov/Archives/edgar/data/315213/000119312518120834/d538124ddef14a.htm",
+      "status": 200,
+      "bytes": 481236,
+      "saved": "/Users/shaurya/CascadeProjects/sb826-board-interlock/data/raw_def14a/RHI_pre.html",
+      "filing_date": "2018-04-18"
+    },
+    "post": {
+      "ticker": "RHI",
+      "tag": "post",
+      "url": "https://www.sec.gov/Archives/edgar/data/315213/000114036121012908/nc10020598x1_def14a.htm",
+      "status": 200,
+      "bytes": 1317747,
+      "saved": "/Users/shaurya/CascadeProjects/sb826-board-interlock/data/raw_def14a/RHI_post.html",
+      "filing_date": "2021-04-15"
+    }
+  },
+  {
+    "ticker": "JACK",
+    "cik": "0000807882",
+    "name": "JACK IN THE BOX INC",
+    "pre": {
+      "ticker": "JACK",
+      "tag": "pre",
+      "url": "https://www.sec.gov/Archives/edgar/data/807882/000119312518019720/d698855ddef14a.htm",
+      "status": 200,
+      "bytes": 1323729,
+      "saved": "/Users/shaurya/CascadeProjects/sb826-board-interlock/data/raw_def14a/JACK_pre.html",
+      "filing_date": "2018-01-25"
+    },
+    "post": {
+      "ticker": "JACK",
+      "tag": "post",
+      "url": "https://www.sec.gov/Archives/edgar/data/807882/000114036121002015/nc10015859x1_def14a.htm",
+      "status": 200,
+      "bytes": 3203342,
+      "saved": "/Users/shaurya/CascadeProjects/sb826-board-interlock/data/raw_def14a/JACK_post.html",
+      "filing_date": "2021-01-25"
+    }
+  },
+  {
+    "ticker": "O",
+    "cik": "0000726728",
+    "name": "REALTY INCOME CORP",
+    "pre": {
+      "ticker": "O",
+      "tag": "pre",
+      "url": "https://www.sec.gov/Archives/edgar/data/726728/000114036118016400/bp00306x1.htm",
+      "status": 200,
+      "bytes": 820728,
+      "saved": "/Users/shaurya/CascadeProjects/sb826-board-interlock/data/raw_def14a/O_pre.html",
+      "filing_date": "2018-04-02"
+    },
+    "post": {
+      "ticker": "O",
+      "tag": "post",
+      "url": "https://www.sec.gov/Archives/edgar/data/726728/000114036121011229/nc10020951x1_def14a.htm",
+      "status": 200,
+      "bytes": 2410317,
+      "saved": "/Users/shaurya/CascadeProjects/sb826-board-interlock/data/raw_def14a/O_post.html",
+      "filing_date": "2021-04-01"
+    }
+  },
+  {
+    "ticker": "ESS",
+    "cik": "0000920522",
+    "name": "ESSEX PROPERTY TRUST, INC.",
+    "pre": {
+      "ticker": "ESS",
+      "tag": "pre",
+      "url": "https://www.sec.gov/Archives/edgar/data/920522/000114036118014803/s002136x1_def14a.htm",
+      "status": 200,
+      "bytes": 2585252,
+      "saved": "/Users/shaurya/CascadeProjects/sb826-board-interlock/data/raw_def14a/ESS_pre.html",
+      "filing_date": "2018-03-23"
+    },
+    "post": {
+      "ticker": "ESS",
+      "tag": "post",
+      "url": "https://www.sec.gov/Archives/edgar/data/920522/000114036121010129/nc10019546x1_def14a.htm",
+      "status": 200,
+      "bytes": 1585506,
+      "saved": "/Users/shaurya/CascadeProjects/sb826-board-interlock/data/raw_def14a/ESS_post.html",
+      "filing_date": "2021-03-26"
+    }
+  },
+  {
+    "ticker": "DECK",
+    "cik": "0000910521",
+    "name": "DECKERS OUTDOOR CORP",
+    "pre": {
+      "ticker": "DECK",
+      "tag": "pre",
+      "url": "https://www.sec.gov/Archives/edgar/data/910521/000091052118000025/deck-def14ax2018.htm",
+      "status": 200,
+      "bytes": 1495754,
+      "saved": "/Users/shaurya/CascadeProjects/sb826-board-interlock/data/raw_def14a/DECK_pre.html",
+      "filing_date": "2018-07-27"
+    },
+    "post": {
+      "ticker": "DECK",
+      "tag": "post",
+      "url": "https://www.sec.gov/Archives/edgar/data/910521/000091052121000020/deck-def14ax2021.htm",
+      "status": 200,
+      "bytes": 1249894,
+      "saved": "/Users/shaurya/CascadeProjects/sb826-board-interlock/data/raw_def14a/DECK_post.html",
+      "filing_date": "2021-07-27"
+    }
+  },
+  {
+    "ticker": "RH",
+    "cik": "0001528849",
+    "name": "RH",
+    "pre": {
+      "ticker": "RH",
+      "tag": "pre",
+      "url": "https://www.sec.gov/Archives/edgar/data/1528849/000119312518183071/d571949ddef14a.htm",
+      "status": 200,
+      "bytes": 798046,
+      "saved": "/Users/shaurya/CascadeProjects/sb826-board-interlock/data/raw_def14a/RH_pre.html",
+      "filing_date": "2018-06-04"
+    },
+    "post": {
+      "ticker": "RH",
+      "tag": "post",
+      "url": "https://www.sec.gov/Archives/edgar/data/1528849/000155837021007904/rh-20210715xdef14a.htm",
+      "status": 200,
+      "bytes": 2501968,
+      "saved": "/Users/shaurya/CascadeProjects/sb826-board-interlock/data/raw_def14a/RH_post.html",
+      "filing_date": "2021-06-01"
+    }
+  },
+  {
+    "ticker": "KRC",
+    "cik": "0001025996",
+    "name": "KILROY REALTY CORP",
+    "pre": {
+      "ticker": "KRC",
+      "tag": "pre",
+      "url": "https://www.sec.gov/Archives/edgar/data/1025996/000119312518115598/d525116ddef14a.htm",
+      "status": 200,
+      "bytes": 2474559,
+      "saved": "/Users/shaurya/CascadeProjects/sb826-board-interlock/data/raw_def14a/KRC_pre.html",
+      "filing_date": "2018-04-12"
+    },
+    "post": {
+      "ticker": "KRC",
+      "tag": "post",
+      "url": "https://www.sec.gov/Archives/edgar/data/1025996/000119312521111640/d150486ddef14a.htm",
+      "status": 200,
+      "bytes": 2122565,
+      "saved": "/Users/shaurya/CascadeProjects/sb826-board-interlock/data/raw_def14a/KRC_post.html",
+      "filing_date": "2021-04-09"
+    }
+  },
+  {
+    "ticker": "CHGG",
+    "cik": "0001364954",
+    "name": "CHEGG, INC",
+    "pre": {
+      "ticker": "CHGG",
+      "tag": "pre",
+      "url": "https://www.sec.gov/Archives/edgar/data/1364954/000136495418000114/a2018proxy.htm",
+      "status": 200,
+      "bytes": 916175,
+      "saved": "/Users/shaurya/CascadeProjects/sb826-board-interlock/data/raw_def14a/CHGG_pre.html",
+      "filing_date": "2018-04-26"
+    },
+    "post": {
+      "ticker": "CHGG",
+      "tag": "post",
+      "url": "https://www.sec.gov/Archives/edgar/data/1364954/000136495421000034/a2021proxy.htm",
+      "status": 200,
+      "bytes": 768827,
+      "saved": "/Users/shaurya/CascadeProjects/sb826-board-interlock/data/raw_def14a/CHGG_post.html",
+      "filing_date": "2021-04-16"
+    }
+  }
+]
