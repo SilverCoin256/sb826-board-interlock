@@ -4,7 +4,7 @@ Data and code for *Gatekeeping Under Mandate: Elite Network Restructuring, Compl
 
 ## Overview
 
-This project tests whether California's board-gender-diversity mandate (SB 826, 2018) produced a detectable change in board-interlock network structure (density, degree centralization) among California-headquartered public companies, relative to a matched control group, both during the compliance period (2018-2021) and after the mandate's enforcement was enjoined in December 2022. The central result is a well-documented null: no statistically significant differential change in network topology at either point, reported alongside an explicit discussion of the sample's statistical power.
+The analysis compares California-headquartered public companies subject to SB 826 with matched public companies headquartered elsewhere. A board interlock occurs when a director sits on more than one board. The study checks whether the networks changed during 2018–2021 or after enforcement was enjoined in December 2022. It found no statistically significant difference in the change in density or degree centralization. See the [manuscript draft](docs/MANUSCRIPT_DRAFT.md) for what the sample had power to detect.
 
 ## Repository structure
 
